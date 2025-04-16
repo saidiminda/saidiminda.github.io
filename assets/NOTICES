@@ -33737,7 +33737,6 @@ platform_detect
 platform_device_id_linux
 platform_device_id_macos
 platform_device_id_platform_interface
-platform_device_id_plus
 platform_device_id_web
 
 BSD 3-Clause License
@@ -33770,6 +33769,7 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+platform_device_id_plus
 platform_device_id_windows
 
 BSD 3-Clause License

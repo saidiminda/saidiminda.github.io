@@ -1405,6 +1405,8 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 barcode
 pdf
+pdf_widget_wrapper
+printing
 
                                  Apache License
                            Version 2.0, January 2004
@@ -2283,6 +2285,8 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 --------------------------------------------------------------------------------
 dbus
+geoclue
+gsettings
 
 Mozilla Public License Version 2.0
 ==================================
@@ -6089,7 +6093,6 @@ url_launcher
 url_launcher_platform_interface
 vector_graphics
 vector_graphics_codec
-vector_graphics_compiler
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
@@ -7981,6 +7984,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 geolocator
 geolocator_android
 geolocator_apple
+geolocator_linux
 geolocator_platform_interface
 geolocator_web
 geolocator_windows
@@ -11735,6 +11739,7 @@ url_launcher_ios
 url_launcher_linux
 url_launcher_macos
 url_launcher_windows
+vector_graphics_compiler
 
 Copyright 2013 The Flutter Authors
 

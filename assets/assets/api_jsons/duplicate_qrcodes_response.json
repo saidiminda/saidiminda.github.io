@@ -1,0 +1,163 @@
+{
+    "items": [
+        {
+            "date": "10 Sep 2022",
+            "agrodealer": "MTEWELE GENERAL TRADERS [TFRA-01-011]",
+            "region": "NJOMBE",
+            "district": "NJOMBE CBD DISTRICT COUNCIL",
+            "ward": "NJOMBE MJINI WARD",
+            "item_id": 14,
+            "reference": "2022/POD/01-011/5751",
+            "qr_code": "MBOLEA YENYE RUZUKU MICROP PLANTING 50KG-YARA 3873",
+            "frequency": 2,
+            "product": "MICROP PLANTING - 50 KG",
+            "quantity": 2,
+            "tonnage": 0.1,
+            "value": 104468,
+            "affected_members": [
+                {
+                    "created_at": "2022-08-31T23:47:56.000000Z",
+                    "transaction_id": "2022/POD/01-011/5751",
+                    "member_wallet": "84170303362",
+                    "full_name": "ESTER LUTENGANO MBAGO",
+                    "phone_number": "255753192010"
+                },
+                {
+                    "created_at": "2022-08-31T23:47:56.000000Z",
+                    "transaction_id": "2022/POD/01-011/5751",
+                    "member_wallet": "84170517333",
+                    "full_name": "RACHEL ERICK KIBUTA",
+                    "phone_number": "255752819411"
+                }
+            ]
+        },
+        {
+            "date": "10 Sep 2022",
+            "agrodealer": "MTEWELE GENERAL TRADERS [TFRA-01-011]",
+            "region": "NJOMBE",
+            "district": "NJOMBE CBD DISTRICT COUNCIL",
+            "ward": "NJOMBE MJINI WARD",
+            "item_id": 14,
+            "reference": "2022/POD/01-011/5751",
+            "qr_code": "MBOLEA YENYE RUZUKU MICROP PLANTING 50KG-YARA 3886",
+            "frequency": 2,
+            "product": "MICROP PLANTING - 50 KG",
+            "quantity": 2,
+            "tonnage": 0.1,
+            "value": 104468,
+            "affected_members": [
+                {
+                    "created_at": "2022-08-31T23:47:56.000000Z",
+                    "transaction_id": "2022/POD/01-011/5751",
+                    "member_wallet": "84170303362",
+                    "full_name": "ESTER LUTENGANO MBAGO",
+                    "phone_number": "255753192010"
+                },
+                {
+                    "created_at": "2022-08-31T23:47:56.000000Z",
+                    "transaction_id": "2022/POD/01-011/5751",
+                    "member_wallet": "84170517333",
+                    "full_name": "RACHEL ERICK KIBUTA",
+                    "phone_number": "255752819411"
+                }
+            ]
+        },
+        {
+            "date": "10 Sep 2022",
+            "agrodealer": "MTEWELE GENERAL TRADERS [TFRA-01-011]",
+            "region": "NJOMBE",
+            "district": "NJOMBE CBD DISTRICT COUNCIL",
+            "ward": "NJOMBE MJINI WARD",
+            "item_id": 14,
+            "reference": "2022/POD/01-011/5751",
+            "qr_code": "MBOLEA YENYE RUZUKU MICROP PLANTING 50KG-YARA 3894",
+            "frequency": 2,
+            "product": "MICROP PLANTING - 50 KG",
+            "quantity": 2,
+            "tonnage": 0.1,
+            "value": 104468,
+            "affected_members": [
+                {
+                    "created_at": "2022-08-31T23:50:25.000000Z",
+                    "transaction_id": "2022/POD/01-011/5751",
+                    "member_wallet": "84170303362",
+                    "full_name": "ESTER LUTENGANO MBAGO",
+                    "phone_number": "255753192010"
+                },
+                {
+                    "created_at": "2022-08-31T23:50:25.000000Z",
+                    "transaction_id": "2022/POD/01-011/5751",
+                    "member_wallet": "84170517333",
+                    "full_name": "RACHEL ERICK KIBUTA",
+                    "phone_number": "255752819411"
+                }
+            ]
+        },
+        {
+            "date": "12 Sep 2022",
+            "agrodealer": "MTEWELE GENERAL TRADERS [TFRA-01-011]",
+            "region": "NJOMBE",
+            "district": "NJOMBE CBD DISTRICT COUNCIL",
+            "ward": "NJOMBE MJINI WARD",
+            "item_id": 190,
+            "reference": "2022/POD/01-011/6861",
+            "qr_code": "MBOLEA YENYE RUZUKU CAN 50KG - YARA 11130",
+            "frequency": 2,
+            "product": "CAN - 50 KG",
+            "quantity": 2,
+            "tonnage": 0.1,
+            "value": 95510,
+            "affected_members": [
+                {
+                    "created_at": "2022-09-12T22:31:12.000000Z",
+                    "transaction_id": "2022/POD/01-011/6861",
+                    "member_wallet": "81170317119",
+                    "full_name": "ZAINA J MBWIGA",
+                    "phone_number": "757491531"
+                },
+                {
+                    "created_at": "2022-09-12T22:31:12.000000Z",
+                    "transaction_id": "2022/POD/01-011/6861",
+                    "member_wallet": "84170307124",
+                    "full_name": "ELIZABETH COSMAS MATANDALA",
+                    "phone_number": "255758984803"
+                }
+            ]
+        },
+        {
+            "date": "12 Sep 2022",
+            "agrodealer": "MTEWELE GENERAL TRADERS [TFRA-01-011]",
+            "region": "NJOMBE",
+            "district": "NJOMBE CBD DISTRICT COUNCIL",
+            "ward": "NJOMBE MJINI WARD",
+            "item_id": 190,
+            "reference": "2022/POD/01-011/6861",
+            "qr_code": "MBOLEA YENYE RUZUKU CAN 50KG - YARA 11131",
+            "frequency": 2,
+            "product": "CAN - 50 KG",
+            "quantity": 2,
+            "tonnage": 0.1,
+            "value": 95510,
+            "affected_members": [
+                {
+                    "created_at": "2022-09-12T22:31:15.000000Z",
+                    "transaction_id": "2022/POD/01-011/6861",
+                    "member_wallet": "81170317119",
+                    "full_name": "ZAINA J MBWIGA",
+                    "phone_number": "757491531"
+                },
+                {
+                    "created_at": "2022-09-12T22:31:15.000000Z",
+                    "transaction_id": "2022/POD/01-011/6861",
+                    "member_wallet": "84170307124",
+                    "full_name": "ELIZABETH COSMAS MATANDALA",
+                    "phone_number": "255758984803"
+                }
+            ]
+        }
+    ],
+    "total_bags": 10,
+    "total_tonnage": 0.5,
+    "total_beneficiaries": 2,
+    "total_value": 504424
+}

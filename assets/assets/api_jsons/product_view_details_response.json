@@ -1,0 +1,49 @@
+{
+    "code": 1,
+    "success": true,
+    "data": {
+        "item": {
+            "item_id": 1586,
+            "item_name": "UREA Fertilizer - Premium Grade",
+            "item_code": null,
+            "description": null,
+            "item_group_id": 2,
+            "item_group_name": "Fertilizer",
+            "unit_of_measure": "Kilogram",
+            "unit_abbreviation": "Kg"
+        },
+        "stock": {
+            "current_balance": 0,
+            "total_received": 0,
+            "total_sold": 0,
+            "total_transferred": 0
+        },
+        "pricing": {
+            "purchasing_price": 2200,
+            "selling_price": 3200,
+            "discounted_price": 0,
+            "discount_percentage": 0,
+            "units": [
+                {
+                    "unit_of_measure_id": 3,
+                    "unit_name": "Kilogram",
+                    "unit_abbreviation": "Kg",
+                    "conversion_factor": 1,
+                    "purchasing_price": 2200,
+                    "selling_price": 3200,
+                    "is_default": true
+                },
+                {
+                    "unit_of_measure_id": 9,
+                    "unit_name": "50 Kg bag",
+                    "unit_abbreviation": "50 Kg bag",
+                    "conversion_factor": 50,
+                    "purchasing_price": 105000,
+                    "selling_price": 155000,
+                    "is_default": false
+                }
+            ]
+        },
+        "expiry": null
+    }
+}

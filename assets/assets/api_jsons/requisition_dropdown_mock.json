@@ -1,0 +1,55 @@
+{
+    "items_units": [
+        {
+            "id": 1555,
+            "name": "Mock Fertilizer",
+            "type": "input",
+            "units": [
+                {
+                    "unit_of_measure_id": 20,
+                    "unit_name": "Bottle",
+                    "unit_abbreviation": "Btl",
+                    "is_default": true,
+                    "quantity": 100
+                },
+                {
+                    "unit_of_measure_id": 21,
+                    "unit_name": "Carton",
+                    "unit_abbreviation": "Ctn",
+                    "is_default": false,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1567,
+            "name": "Mock Seed Pack",
+            "type": "input",
+            "units": [
+                {
+                    "unit_of_measure_id": 20,
+                    "unit_name": "Bottle",
+                    "unit_abbreviation": "Btl",
+                    "is_default": true,
+                    "quantity": 80
+                }
+            ]
+        },
+        {
+            "id": 1592,
+            "name": "Mock Single Product",
+            "type": "input",
+            "quantity": 40,
+            "unit_of_measure_id": 20,
+            "unit_name": "Bottle",
+            "unit_abbreviation": "Btl",
+            "is_default": true
+        }
+    ],
+    "importers": [],
+    "item_groups": [],
+    "warehouses": [],
+    "main_warehouses": [],
+    "own_warehouses": [],
+    "suppliers": []
+}

@@ -1,0 +1,17 @@
+{
+  "method": "CASH",
+  "date": "2025-07-25",
+  "entity_id":15,
+  "account_id": 2,
+  "remarks": "Electricity",
+  "items": [
+   {
+      "amount": 1000,
+      "descriptions": "Electricity"
+   },
+    {
+      "amount": 5000,
+      "descriptions": "Transport"
+   }
+  ]
+}

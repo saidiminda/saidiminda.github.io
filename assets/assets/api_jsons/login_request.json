@@ -1,0 +1,18 @@
+{
+    "grant_type": "client_credentials",
+    "client_id": "9e0b1834-81e5-4cb3-adce-8b83be1642cd",
+    "client_secret": "4rYHFi8KC78DLECyAOE87x7OEmi4dnrdnFhjsDBv",
+    "farmerID": "uii",
+    "username": "said minda",
+    "password": "1223344",
+    "channel": "kilimo_bando/agrimerchants/kilimo_bora",
+    "service_ids": 
+        {
+            "core": true,
+            "kilimo_bora": true,
+            "kilimo_mkopo": true,
+            "farmers": true,
+            "reports": false
+        }
+
+}

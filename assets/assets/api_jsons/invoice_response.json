@@ -1,0 +1,4732 @@
+{
+    "code": 1,
+    "state": "Done",
+    "message": "Invoices fetched successfully",
+    "data": [
+        {
+            "sales_id": 175,
+            "invoice_number": "INV/2026/05/0067/42169",
+            "date": "2026-05-06",
+            "member_name": "IRENE  ",
+            "member_phone": "0757105836",
+            "warehouse_name": "HAPPY  [KLMB-0167]",
+            "total_amount": 50000,
+            "amount_paid": 50000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 50000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 25000,
+                    "selling_amount": 50000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 50000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 22,
+                    "payment_method": "CASH",
+                    "amount": 50000,
+                    "date": "2026-05-06T13:42:26.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 174,
+            "invoice_number": "INV/2026/04/0067/41051",
+            "date": "2026-04-27",
+            "member_name": "MAMA FELLY ",
+            "member_phone": "0621145160",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 3240000,
+            "amount_paid": 3240000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 2940000,
+            "items": [
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 135000,
+                    "selling_amount": 675000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 675000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 6,
+                    "selling_price": 135000,
+                    "selling_amount": 810000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 300000,
+                    "gross_profit": 510000
+                },
+                {
+                    "item_name": "MICROP PLANTING - 50 KG",
+                    "quantity": 7,
+                    "selling_price": 135000,
+                    "selling_amount": 945000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 945000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 6,
+                    "selling_price": 135000,
+                    "selling_amount": 810000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 810000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 21,
+                    "payment_method": "CASH",
+                    "amount": 3240000,
+                    "date": "2026-04-27T13:35:57.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 173,
+            "invoice_number": "INV/2026/04/0067/40860",
+            "date": "2026-04-27",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 32000,
+            "amount_paid": 32000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 181000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 25,
+                    "selling_price": 5000,
+                    "selling_amount": 125000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 125000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 6,
+                    "selling_price": 4000,
+                    "selling_amount": 24000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 24000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 8,
+                    "selling_price": 4000,
+                    "selling_amount": 32000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 32000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 20,
+                    "payment_method": "CASH",
+                    "amount": 32000,
+                    "date": "2026-04-27T13:29:05.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 172,
+            "invoice_number": "INV/2026/04/0067/40860",
+            "date": "2026-04-27",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 24000,
+            "amount_paid": 9000,
+            "balance": 15000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 181000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 25,
+                    "selling_price": 5000,
+                    "selling_amount": 125000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 125000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 6,
+                    "selling_price": 4000,
+                    "selling_amount": 24000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 24000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 8,
+                    "selling_price": 4000,
+                    "selling_amount": 32000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 32000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 19,
+                    "payment_method": "CASH",
+                    "amount": 9000,
+                    "date": "2026-04-27T13:28:23.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 171,
+            "invoice_number": "INV/2026/04/0067/40860",
+            "date": "2026-04-27",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 125000,
+            "amount_paid": 0,
+            "balance": 125000,
+            "status": "PENDING",
+            "total_gross_profit": 181000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 25,
+                    "selling_price": 5000,
+                    "selling_amount": 125000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 125000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 6,
+                    "selling_price": 4000,
+                    "selling_amount": 24000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 24000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 8,
+                    "selling_price": 4000,
+                    "selling_amount": 32000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 32000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 170,
+            "invoice_number": "INV/2026/04/0067/40592",
+            "date": "2026-04-23",
+            "member_name": "ANNA  ",
+            "member_phone": "0714141414",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 70000,
+            "amount_paid": 70000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 70000,
+            "items": [
+                {
+                    "item_name": "NAFAKA PLUS - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 70000,
+                    "selling_amount": 70000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 70000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 18,
+                    "payment_method": "CASH",
+                    "amount": 70000,
+                    "date": "2026-04-23T09:43:57.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 169,
+            "invoice_number": "INV/2026/04/0067/39638",
+            "date": "2026-04-21",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 870000,
+            "amount_paid": 870000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": -28130000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 580,
+                    "selling_price": 1500,
+                    "selling_amount": 870000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 29000000,
+                    "gross_profit": -28130000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 17,
+                    "payment_method": "CASH",
+                    "amount": 870000,
+                    "date": "2026-04-21T09:52:38.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 168,
+            "invoice_number": "INV/2026/04/0067/39483",
+            "date": "2026-04-17",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 17000,
+            "amount_paid": 3000,
+            "balance": 14000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 17000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 4000,
+                    "selling_amount": 12000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 12000
+                },
+                {
+                    "item_name": "UREA - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 5000,
+                    "selling_amount": 5000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 16,
+                    "payment_method": "MOBILE MONEY",
+                    "amount": 3000,
+                    "date": "2026-04-17T09:37:22.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 167,
+            "invoice_number": "INV/2026/04/0067/39346",
+            "date": "2026-04-17",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 120000,
+            "amount_paid": 50000,
+            "balance": 70000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 120000,
+            "items": [
+                {
+                    "item_name": "JAVA - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 4000,
+                    "selling_amount": 20000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 20000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 4,
+                    "selling_price": 25000,
+                    "selling_amount": 100000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 100000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 15,
+                    "payment_method": "CASH",
+                    "amount": 50000,
+                    "date": "2026-04-17T07:50:05.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 166,
+            "invoice_number": "INV/2026/04/0067/37764",
+            "date": "2026-04-08",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 20000,
+            "amount_paid": 0,
+            "balance": 20000,
+            "status": "PENDING",
+            "total_gross_profit": 20000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 20000,
+                    "selling_amount": 20000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 20000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 13,
+                    "payment_method": "CASH",
+                    "amount": 0,
+                    "date": "2026-04-08T08:31:19.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 165,
+            "invoice_number": "INV/2026/04/0067/37683",
+            "date": "2026-04-08",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 300000,
+            "amount_paid": 200000,
+            "balance": 100000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": -4500000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 10,
+                    "selling_price": 20000,
+                    "selling_amount": 200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 200000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 100,
+                    "selling_price": 3000,
+                    "selling_amount": 300000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 5000000,
+                    "gross_profit": -4700000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 12,
+                    "payment_method": "CASH",
+                    "amount": 200000,
+                    "date": "2026-04-08T08:27:49.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 164,
+            "invoice_number": "INV/2026/04/0067/37683",
+            "date": "2026-04-08",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 200000,
+            "amount_paid": 0,
+            "balance": 200000,
+            "status": "PENDING",
+            "total_gross_profit": -4500000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 10,
+                    "selling_price": 20000,
+                    "selling_amount": 200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 200000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 100,
+                    "selling_price": 3000,
+                    "selling_amount": 300000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 5000000,
+                    "gross_profit": -4700000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 11,
+                    "payment_method": "CASH",
+                    "amount": 0,
+                    "date": "2026-04-08T08:24:28.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 163,
+            "invoice_number": "INV/2026/04/0067/36973",
+            "date": "2026-04-02",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 8200000,
+            "amount_paid": 3000000,
+            "balance": 5200000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 8200000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Black",
+                    "quantity": 1,
+                    "selling_price": 8200000,
+                    "selling_amount": 8200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8200000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 9,
+                    "payment_method": "CASH",
+                    "amount": 0,
+                    "date": "2026-04-02T07:57:22.000000Z"
+                },
+                {
+                    "receipt_id": 10,
+                    "payment_method": "CASH",
+                    "amount": 3000000,
+                    "date": "2026-04-02T07:58:13.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 162,
+            "invoice_number": "INV/2026/04/0067/36919",
+            "date": "2026-04-02",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 915000,
+            "amount_paid": 915000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 915000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 20000,
+                    "selling_amount": 40000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 40000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 5000,
+                    "selling_amount": 25000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 25000
+                },
+                {
+                    "item_name": "NPK - 50 KG",
+                    "quantity": 10,
+                    "selling_price": 85000,
+                    "selling_amount": 850000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 850000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 7,
+                    "payment_method": "CASH",
+                    "amount": 0,
+                    "date": "2026-04-02T07:50:37.000000Z"
+                },
+                {
+                    "receipt_id": 8,
+                    "payment_method": "CASH",
+                    "amount": 200000,
+                    "date": "2026-04-02T07:54:19.000000Z"
+                },
+                {
+                    "receipt_id": 14,
+                    "payment_method": "CASH",
+                    "amount": 715000,
+                    "date": "2026-04-09T07:27:40.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 161,
+            "invoice_number": "INV/2026/03/0067/36316",
+            "date": "2026-03-30",
+            "member_name": "DEO  ",
+            "member_phone": "0620222013",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 10000,
+            "amount_paid": 2000,
+            "balance": 8000,
+            "status": "PENDING",
+            "total_gross_profit": 0,
+            "items": [
+                {
+                    "item_name": "CHINESE - ACSEN AGRISCIENCE(TZ) LTD - 500 gm",
+                    "quantity": 1,
+                    "selling_price": 2000,
+                    "selling_amount": 2000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2000
+                },
+                {
+                    "item_name": "JAVA - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 5000,
+                    "purchase_amount": 10000,
+                    "gross_profit": -2000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 6,
+                    "payment_method": "BANK",
+                    "amount": 2000,
+                    "date": "2026-03-30T06:56:03.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 160,
+            "invoice_number": "INV/2026/03/0067/35736",
+            "date": "2026-03-17",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 627907,
+            "amount_paid": 400000,
+            "balance": 227907,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 454216,
+            "items": [
+                {
+                    "item_name": "TOMATO MKOMBOZI F1 - SeedCo - 50 kg",
+                    "quantity": 8,
+                    "selling_price": 56777,
+                    "selling_amount": 454216,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 454216
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 5,
+                    "payment_method": "CASH",
+                    "amount": 400000,
+                    "date": "2026-03-17T12:23:58.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 159,
+            "invoice_number": "INV/2026/03/0067/35516",
+            "date": "2026-03-17",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 250000,
+            "amount_paid": 200000,
+            "balance": 50000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 250000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 20000,
+                    "selling_amount": 100000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 100000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 30000,
+                    "selling_amount": 150000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 150000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 4,
+                    "payment_method": "CASH",
+                    "amount": 200000,
+                    "date": "2026-03-17T10:05:23.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 158,
+            "invoice_number": "INV/2026/03/0067/35432",
+            "date": "2026-03-17",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 470000,
+            "amount_paid": 300000,
+            "balance": 170000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 470000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 20000,
+                    "selling_amount": 100000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 100000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 30000,
+                    "selling_amount": 150000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 150000
+                },
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 8,
+                    "selling_price": 20000,
+                    "selling_amount": 160000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 160000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 30000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 3,
+                    "payment_method": "CASH",
+                    "amount": 300000,
+                    "date": "2026-03-17T07:59:37.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 157,
+            "invoice_number": "INV/2026/03/0067/34802",
+            "date": "2026-03-04",
+            "member_name": "STEVE CASTOR ",
+            "member_phone": "0755934495",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 253500,
+            "amount_paid": 200000,
+            "balance": 53500,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 253500,
+            "items": [
+                {
+                    "item_name": "NPK - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 84500,
+                    "selling_amount": 253500,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 253500
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 156,
+            "invoice_number": "INV/2026/03/0067/34667",
+            "date": "2026-03-04",
+            "member_name": "TYUGDD  ",
+            "member_phone": "0723658460",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 8200000,
+            "amount_paid": 0,
+            "balance": 8200000,
+            "status": "PENDING",
+            "total_gross_profit": 8200000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Black",
+                    "quantity": 1,
+                    "selling_price": 8200000,
+                    "selling_amount": 8200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8200000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 155,
+            "invoice_number": "INV/2026/03/0067/34640",
+            "date": "2026-03-04",
+            "member_name": "FGYHGDDE  ",
+            "member_phone": "0725369524",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 200000,
+            "amount_paid": 0,
+            "balance": 200000,
+            "status": "PENDING",
+            "total_gross_profit": 200000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 20000,
+                    "selling_amount": 100000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 100000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 50000,
+                    "selling_amount": 100000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 100000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 154,
+            "invoice_number": "INV/2026/02/0067/33746",
+            "date": "2026-02-23",
+            "member_name": "YYUUUUYYT  ",
+            "member_phone": "0712536984",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 106000,
+            "amount_paid": 25,
+            "balance": 105975,
+            "status": "PENDING",
+            "total_gross_profit": 6000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 3000,
+                    "selling_amount": 6000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 100000,
+                    "gross_profit": -94000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 23,
+                    "selling_price": 4000,
+                    "selling_amount": 92000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 92000
+                },
+                {
+                    "item_name": "ginger - Yara",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 153,
+            "invoice_number": "INV/2026/02/0067/33388",
+            "date": "2026-02-22",
+            "member_name": "TFGDF  ",
+            "member_phone": "0712365895",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 112000,
+            "amount_paid": 100000,
+            "balance": 12000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 112000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 23,
+                    "selling_price": 4000,
+                    "selling_amount": 92000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 92000
+                },
+                {
+                    "item_name": "CHINESE - ACSEN AGRISCIENCE(TZ) LTD - 250 GM",
+                    "quantity": 2,
+                    "selling_price": 10000,
+                    "selling_amount": 20000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 20000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 152,
+            "invoice_number": "INV/2026/02/0067/33226",
+            "date": "2026-02-22",
+            "member_name": "GHUUHFDF  ",
+            "member_phone": "0752698523",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 102000,
+            "amount_paid": 0,
+            "balance": 102000,
+            "status": "PENDING",
+            "total_gross_profit": 102000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 65000,
+                    "selling_amount": 65000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 65000
+                },
+                {
+                    "item_name": "CHINESE - ACSEN AGRISCIENCE(TZ) LTD - 250 GM",
+                    "quantity": 1,
+                    "selling_price": 10000,
+                    "selling_amount": 10000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 10000
+                },
+                {
+                    "item_name": "CHINESE - ACSEN AGRISCIENCE(TZ) LTD - 500 gm",
+                    "quantity": 1,
+                    "selling_price": 9000,
+                    "selling_amount": 9000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 9000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 7000,
+                    "selling_amount": 14000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 14000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 151,
+            "invoice_number": "INV/2026/02/0067/33172",
+            "date": "2026-02-21",
+            "member_name": "STEVE CASTOR ",
+            "member_phone": "0755934495",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 330000,
+            "amount_paid": 330000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 330000,
+            "items": [
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 66000,
+                    "selling_amount": 330000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 330000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 148,
+            "invoice_number": "INV/2026/02/0067/32788",
+            "date": "2026-02-21",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 500000,
+            "amount_paid": 500000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 500000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 100000,
+                    "selling_amount": 500000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 500000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 147,
+            "invoice_number": "INV/2026/02/0067/32032",
+            "date": "2026-02-20",
+            "member_name": "JIMMY SOLOMON ",
+            "member_phone": "0752356984",
+            "warehouse_name": "PIKIPIKI  [KLMB-0167]",
+            "total_amount": 7045700,
+            "amount_paid": 0,
+            "balance": 7045700,
+            "status": "PENDING",
+            "total_gross_profit": 7045700,
+            "items": [
+                {
+                    "item_name": "Boxer - 150 - Black",
+                    "quantity": 1,
+                    "selling_price": 2000000,
+                    "selling_amount": 2000000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2000000
+                },
+                {
+                    "item_name": "Boxer - 150 - Blue",
+                    "quantity": 1,
+                    "selling_price": 2000000,
+                    "selling_amount": 2000000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2000000
+                },
+                {
+                    "item_name": "TVS - 125HLS - Black",
+                    "quantity": 1,
+                    "selling_price": 3000000,
+                    "selling_amount": 3000000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 3000000
+                },
+                {
+                    "item_name": "TVS - 125HLS - Blue",
+                    "quantity": 1,
+                    "selling_price": 700,
+                    "selling_amount": 700,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 700
+                },
+                {
+                    "item_name": "TVS - 125HLS - Red",
+                    "quantity": 1,
+                    "selling_price": 45000,
+                    "selling_amount": 45000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 45000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 146,
+            "invoice_number": "INV/2026/02/0067/31863",
+            "date": "2026-02-19",
+            "member_name": "JOSHUA KIMARO ",
+            "member_phone": "0712354698",
+            "warehouse_name": "TEST WAREHOUSE  [KLMB-0167]",
+            "total_amount": 488000,
+            "amount_paid": 100000,
+            "balance": 388000,
+            "status": "PENDING",
+            "total_gross_profit": 438000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 65000,
+                    "selling_amount": 65000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 65000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 4000,
+                    "selling_amount": 4000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 50000,
+                    "gross_profit": -46000
+                },
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 80000,
+                    "selling_amount": 160000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 160000
+                },
+                {
+                    "item_name": "NPK - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 85000,
+                    "selling_amount": 255000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 255000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 145,
+            "invoice_number": "INV/2026/02/0067/31839",
+            "date": "2026-02-19",
+            "member_name": "JOSHUA KIMARO ",
+            "member_phone": "0521467852",
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 317000,
+            "amount_paid": 100000,
+            "balance": 217000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 217000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 7000,
+                    "selling_amount": 35000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 35000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 100000,
+                    "gross_profit": -92000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 1,
+                    "selling_price": 4000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 80000,
+                    "selling_amount": 160000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 160000
+                },
+                {
+                    "item_name": "NPK - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 85000,
+                    "selling_amount": 85000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 85000
+                },
+                {
+                    "item_name": "UREA - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 5000,
+                    "selling_amount": 10000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 10000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 15000,
+                    "selling_amount": 15000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 15000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 144,
+            "invoice_number": "INV/2026/02/0067/31426",
+            "date": "2026-02-18",
+            "member_name": "JAMAL ISSA ",
+            "member_phone": "0745102890",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 335000,
+            "amount_paid": 335000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 335000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 2000,
+                    "selling_amount": 10000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 10000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 65000,
+                    "selling_amount": 325000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 325000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 143,
+            "invoice_number": "INV/2026/02/0067/30934",
+            "date": "2026-02-16",
+            "member_name": "MAISARA RUMO ",
+            "member_phone": "0716116147",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 340000,
+            "amount_paid": 300000,
+            "balance": 40000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": -3660000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 5,
+                    "selling_price": 4000,
+                    "selling_amount": 20000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 20000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 80,
+                    "selling_price": 4000,
+                    "selling_amount": 320000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 4000000,
+                    "gross_profit": -3680000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 142,
+            "invoice_number": "INV/2026/02/0067/30359",
+            "date": "2026-02-10",
+            "member_name": "KASSIM HABDAL KIMWAGA",
+            "member_phone": "0712345564",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 3000,
+            "balance": 1000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 4000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 141,
+            "invoice_number": "INV/2026/02/0067/30158",
+            "date": "2026-02-04",
+            "member_name": "STEVE CASTOR ",
+            "member_phone": "0755934495",
+            "warehouse_name": "STEVE STORE  [KLMB-0167]",
+            "total_amount": 100000,
+            "amount_paid": 80000,
+            "balance": 20000,
+            "status": "PENDING",
+            "total_gross_profit": 0,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 50000,
+                    "selling_amount": 100000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 100000,
+                    "gross_profit": 0
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 140,
+            "invoice_number": "INV/2026/02/0067/29678",
+            "date": "2026-02-04",
+            "member_name": "BENN ANDREW JOEL",
+            "member_phone": "0765336250",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 830000,
+            "amount_paid": 700000,
+            "balance": 130000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 830000,
+            "items": [
+                {
+                    "item_name": "NPK - 50 KG",
+                    "quantity": 10,
+                    "selling_price": 83000,
+                    "selling_amount": 830000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 830000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 139,
+            "invoice_number": "INV/2026/02/0067/29460",
+            "date": "2026-02-04",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 18000,
+            "amount_paid": 18000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 18000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 2000,
+                    "selling_amount": 10000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 10000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 138,
+            "invoice_number": "INV/2026/02/0067/29298",
+            "date": "2026-02-03",
+            "member_name": "BONGE BONGE ",
+            "member_phone": "0788694279",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 48000,
+            "amount_paid": 46000,
+            "balance": 2000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 48000,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 6,
+                    "selling_price": 8000,
+                    "selling_amount": 48000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 48000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 137,
+            "invoice_number": "INV/2026/02/0067/28751",
+            "date": "2026-02-02",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 1000,
+            "amount_paid": 600,
+            "balance": 400,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": -99000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 500,
+                    "selling_amount": 1000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 100000,
+                    "gross_profit": -99000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 136,
+            "invoice_number": "INV/2026/02/0067/28691",
+            "date": "2026-02-02",
+            "member_name": "GEORGE OJWANG ",
+            "member_phone": "0756400500",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 4000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 4000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 135,
+            "invoice_number": "INV/2026/02/0067/28664",
+            "date": "2026-02-02",
+            "member_name": "GEORGE OJWANG ",
+            "member_phone": "0756400500",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 8000,
+            "amount_paid": 0,
+            "balance": 8000,
+            "status": "PENDING",
+            "total_gross_profit": 8000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 4,
+                    "selling_price": 2000,
+                    "selling_amount": 8000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 134,
+            "invoice_number": "INV/2026/01/0067/28501",
+            "date": "2026-01-31",
+            "member_name": "JOSHUA  ",
+            "member_phone": "0763258623",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 50000,
+            "amount_paid": 20000,
+            "balance": 30000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 50000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 10000,
+                    "selling_amount": 20000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 20000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 10000,
+                    "selling_amount": 30000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 30000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 133,
+            "invoice_number": "INV/2026/01/0067/28368",
+            "date": "2026-01-30",
+            "member_name": "JOSHUA KIMARIO ",
+            "member_phone": "0763258096",
+            "warehouse_name": "NEW STORE2  [KLMB-0167]",
+            "total_amount": 88000,
+            "amount_paid": 8000,
+            "balance": 80000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": -12000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 100000,
+                    "gross_profit": -92000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 40000,
+                    "selling_amount": 80000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 80000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 132,
+            "invoice_number": "INV/2026/01/0067/28288",
+            "date": "2026-01-30",
+            "member_name": "AWADHI  ",
+            "member_phone": "0713244769",
+            "warehouse_name": "TEST WAREHOUSE  [KLMB-0167]",
+            "total_amount": 20000,
+            "amount_paid": 0,
+            "balance": 20000,
+            "status": "PENDING",
+            "total_gross_profit": -180000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 4,
+                    "selling_price": 4000,
+                    "selling_amount": 16000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 200000,
+                    "gross_profit": -184000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 131,
+            "invoice_number": "INV/2026/01/0067/28098",
+            "date": "2026-01-30",
+            "member_name": "JOSHUA KIMARIO ",
+            "member_phone": "0762358614",
+            "warehouse_name": "NEW STORE2  [KLMB-0167]",
+            "total_amount": 4000000,
+            "amount_paid": 0,
+            "balance": 4000000,
+            "status": "PENDING",
+            "total_gross_profit": 3950000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 4000000,
+                    "selling_amount": 4000000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 50000,
+                    "gross_profit": 3950000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 130,
+            "invoice_number": "INV/2026/01/0067/27742",
+            "date": "2026-01-28",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 255000,
+            "amount_paid": 50000,
+            "balance": 205000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 255000,
+            "items": [
+                {
+                    "item_name": "NPK - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 85000,
+                    "selling_amount": 255000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 255000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 129,
+            "invoice_number": "INV/2026/01/0067/27688",
+            "date": "2026-01-28",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 20000,
+            "amount_paid": 20000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 20000,
+            "items": [
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 10,
+                    "selling_price": 2000,
+                    "selling_amount": 20000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 20000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 128,
+            "invoice_number": "INV/2026/01/0067/27634",
+            "date": "2026-01-28",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 240000,
+            "amount_paid": 240000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 400000,
+            "items": [
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 80000,
+                    "selling_amount": 160000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 160000
+                },
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 80000,
+                    "selling_amount": 240000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 240000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 127,
+            "invoice_number": "INV/2026/01/0067/27634",
+            "date": "2026-01-28",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 160000,
+            "amount_paid": 160000,
+            "balance": 0,
+            "status": "PENDING",
+            "total_gross_profit": 400000,
+            "items": [
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 80000,
+                    "selling_amount": 160000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 160000
+                },
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 80000,
+                    "selling_amount": 240000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 240000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 126,
+            "invoice_number": "INV/2026/01/0067/27468",
+            "date": "2026-01-28",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 9000,
+            "amount_paid": 9000,
+            "balance": 0,
+            "status": "PENDING",
+            "total_gross_profit": 9000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 2000,
+                    "selling_amount": 6000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 6000
+                },
+                {
+                    "item_name": "YARAMILA - OTESHA - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 1000,
+                    "selling_amount": 3000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 3000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 124,
+            "invoice_number": "INV/2025/11/0067/26431",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MALAPA WAREHOUSE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 3999.33,
+            "balance": 0.6700000000000728,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 19112,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 123,
+            "invoice_number": "INV/2025/11/0067/26431",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MALAPA WAREHOUSE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 4000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 19112,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 122,
+            "invoice_number": "INV/2025/11/0067/26431",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MALAPA WAREHOUSE  [KLMB-0167]",
+            "total_amount": 11112,
+            "amount_paid": 11112,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 19112,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 121,
+            "invoice_number": "INV/2025/11/0067/26404",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MALAPA WAREHOUSE  [KLMB-0167]",
+            "total_amount": 11112,
+            "amount_paid": 11112,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 11112,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 120,
+            "invoice_number": "INV/2025/11/0067/26379",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 14000,
+            "amount_paid": 14000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 14000,
+            "items": [
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 7000,
+                    "selling_amount": 14000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 14000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 119,
+            "invoice_number": "INV/2025/11/0067/26377",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MALAPA WAREHOUSE  [KLMB-0167]",
+            "total_amount": 11112,
+            "amount_paid": 11112,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 11112,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 118,
+            "invoice_number": "INV/2025/11/0067/26351",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 14000,
+            "amount_paid": 14000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 28000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 7000,
+                    "selling_amount": 14000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 14000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 7000,
+                    "selling_amount": 14000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 14000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 117,
+            "invoice_number": "INV/2025/11/0067/26351",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 14000,
+            "amount_paid": 2000,
+            "balance": 12000,
+            "status": "PENDING",
+            "total_gross_profit": 28000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 7000,
+                    "selling_amount": 14000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 14000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 7000,
+                    "selling_amount": 14000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 14000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 116,
+            "invoice_number": "INV/2025/11/0067/26324",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 14000,
+            "amount_paid": 5622,
+            "balance": 8378,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 14000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 7000,
+                    "selling_amount": 14000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 14000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 115,
+            "invoice_number": "INV/2025/11/0067/26295",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "KARIAKOO STORE  [KLMB-0167]",
+            "total_amount": 16000,
+            "amount_paid": 16000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 16000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 4,
+                    "selling_price": 4000,
+                    "selling_amount": 16000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 16000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 114,
+            "invoice_number": "INV/2025/11/0067/26158",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE2  [KLMB-0167]",
+            "total_amount": 21000,
+            "amount_paid": 21000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 21000,
+            "items": [
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 7000,
+                    "selling_amount": 21000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 21000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 113,
+            "invoice_number": "INV/2025/11/0067/26133",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "KARIAKOO STORE  [KLMB-0167]",
+            "total_amount": 16000,
+            "amount_paid": 16000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 16000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 4,
+                    "selling_price": 4000,
+                    "selling_amount": 16000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 16000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 112,
+            "invoice_number": "INV/2025/11/0067/26104",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE2  [KLMB-0167]",
+            "total_amount": 21000,
+            "amount_paid": 21000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 21000,
+            "items": [
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 7000,
+                    "selling_amount": 21000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 21000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 111,
+            "invoice_number": "INV/2025/11/0067/26078",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "TEST WAREHOUSE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 2000,
+            "balance": 2000,
+            "status": "PENDING",
+            "total_gross_profit": 4000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 110,
+            "invoice_number": "INV/2025/11/0067/25995",
+            "date": "2025-11-27",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 2000,
+            "balance": 2000,
+            "status": "PENDING",
+            "total_gross_profit": 4000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 109,
+            "invoice_number": "INV/2025/11/0067/25938",
+            "date": "2025-11-26",
+            "member_name": "JACOB LIHHIMA BURRA",
+            "member_phone": "0782472925",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 2000,
+            "balance": 2000,
+            "status": "PENDING",
+            "total_gross_profit": 4000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 108,
+            "invoice_number": "INV/2025/11/0067/25911",
+            "date": "2025-11-26",
+            "member_name": "JACOB LIHHIMA BURRA",
+            "member_phone": "0782472925",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 46000,
+            "amount_paid": 23456,
+            "balance": 22544,
+            "status": "PENDING",
+            "total_gross_profit": 46000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 23,
+                    "selling_price": 2000,
+                    "selling_amount": 46000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 46000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 107,
+            "invoice_number": "INV/2025/11/0067/25858",
+            "date": "2025-11-26",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE2  [KLMB-0167]",
+            "total_amount": 91000,
+            "amount_paid": 45890,
+            "balance": 45110,
+            "status": "PENDING",
+            "total_gross_profit": 91000,
+            "items": [
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 8,
+                    "selling_price": 7000,
+                    "selling_amount": 56000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 56000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 7000,
+                    "selling_amount": 35000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 35000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 106,
+            "invoice_number": "INV/2025/11/0067/25836",
+            "date": "2025-11-25",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 14000,
+            "amount_paid": 1477,
+            "balance": 12523,
+            "status": "PENDING",
+            "total_gross_profit": 14000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8000
+                },
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 2000,
+                    "selling_amount": 6000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 6000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 105,
+            "invoice_number": "INV/2025/11/0067/25619",
+            "date": "2025-11-20",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 40000,
+            "amount_paid": 23456,
+            "balance": 16544,
+            "status": "PENDING",
+            "total_gross_profit": -110000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 4000,
+                    "selling_amount": 12000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 150000,
+                    "gross_profit": -138000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 4,
+                    "selling_price": 7000,
+                    "selling_amount": 28000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 28000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 104,
+            "invoice_number": "INV/2025/11/0067/25370",
+            "date": "2025-11-14",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 13556,
+            "amount_paid": 2582,
+            "balance": 10974,
+            "status": "PENDING",
+            "total_gross_profit": -86444,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 5556,
+                    "selling_amount": 5556,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5556
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 100000,
+                    "gross_profit": -92000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 103,
+            "invoice_number": "INV/2025/10/0067/24787",
+            "date": "2025-10-16",
+            "member_name": "ALLY OMARY KAMBI",
+            "member_phone": "0712457724",
+            "warehouse_name": "MALAPA WAREHOUSE  [KLMB-0167]",
+            "total_amount": 11112,
+            "amount_paid": 0,
+            "balance": 11112,
+            "status": "PENDING",
+            "total_gross_profit": 11112,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 102,
+            "invoice_number": "INV/2025/10/0067/24728",
+            "date": "2025-10-13",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 288000,
+            "amount_paid": 1000,
+            "balance": 287000,
+            "status": "PENDING",
+            "total_gross_profit": -312000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 12,
+                    "selling_price": 3000,
+                    "selling_amount": 36000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 600000,
+                    "gross_profit": -564000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 36,
+                    "selling_price": 7000,
+                    "selling_amount": 252000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 252000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 101,
+            "invoice_number": "INV/2025/10/0067/24511",
+            "date": "2025-10-02",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 26000,
+            "amount_paid": 15444,
+            "balance": 10556,
+            "status": "PENDING",
+            "total_gross_profit": 26000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 7000,
+                    "selling_amount": 14000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 14000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 4000,
+                    "selling_amount": 12000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 12000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 100,
+            "invoice_number": "INV/2025/10/0067/24457",
+            "date": "2025-10-02",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 40000,
+            "amount_paid": 5677,
+            "balance": 34323,
+            "status": "PENDING",
+            "total_gross_profit": 40000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 4,
+                    "selling_price": 7000,
+                    "selling_amount": 28000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 28000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 4000,
+                    "selling_amount": 12000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 12000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 99,
+            "invoice_number": "INV/2025/10/0067/24404",
+            "date": "2025-10-01",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 11000,
+            "amount_paid": 10000,
+            "balance": 1000,
+            "status": "PENDING",
+            "total_gross_profit": -39000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 4000,
+                    "selling_amount": 4000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 50000,
+                    "gross_profit": -46000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 7000,
+                    "selling_amount": 7000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 7000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 98,
+            "invoice_number": "INV/2025/10/0067/24350",
+            "date": "2025-10-01",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 360000,
+            "amount_paid": 23432,
+            "balance": 336568,
+            "status": "PENDING",
+            "total_gross_profit": -1340000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 34,
+                    "selling_price": 4000,
+                    "selling_amount": 136000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 1700000,
+                    "gross_profit": -1564000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 32,
+                    "selling_price": 7000,
+                    "selling_amount": 224000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 224000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 97,
+            "invoice_number": "INV/2025/10/0067/24296",
+            "date": "2025-10-01",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 407000,
+            "amount_paid": 34667,
+            "balance": 372333,
+            "status": "PENDING",
+            "total_gross_profit": -743000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 23,
+                    "selling_price": 4000,
+                    "selling_amount": 92000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 1150000,
+                    "gross_profit": -1058000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 45,
+                    "selling_price": 7000,
+                    "selling_amount": 315000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 315000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 96,
+            "invoice_number": "INV/2025/10/0067/24241",
+            "date": "2025-10-01",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 34000,
+            "amount_paid": 3444,
+            "balance": 30556,
+            "status": "PENDING",
+            "total_gross_profit": 34000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 7000,
+                    "selling_amount": 7000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 7000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 4000,
+                    "selling_amount": 12000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 12000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 7000,
+                    "selling_amount": 7000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 7000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 95,
+            "invoice_number": "INV/2025/10/0067/24189",
+            "date": "2025-10-01",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 9000,
+            "amount_paid": 2000,
+            "balance": 7000,
+            "status": "PENDING",
+            "total_gross_profit": 9000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "YARAMILA - OTESHA - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 1000,
+                    "selling_amount": 5000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 94,
+            "invoice_number": "INV/2025/09/0067/24091",
+            "date": "2025-09-19",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "HAPPY  [KLMB-0167]",
+            "total_amount": 250000,
+            "amount_paid": 200000,
+            "balance": 50000,
+            "status": "PENDING",
+            "total_gross_profit": 250000,
+            "items": [
+                {
+                    "item_name": "PEPPER CUTFLOWER - ACSEN AGRISCIENCE(TZ) LTD - 250 GM",
+                    "quantity": 5,
+                    "selling_price": 50000,
+                    "selling_amount": 250000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 250000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 93,
+            "invoice_number": "INV/2025/09/0067/23834",
+            "date": "2025-09-09",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 17112,
+            "amount_paid": 17112,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": -82888,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 3000,
+                    "selling_amount": 6000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 100000,
+                    "gross_profit": -94000
+                },
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 91,
+            "invoice_number": "INV/2025/08/0067/23564",
+            "date": "2025-08-16",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MALAPA WAREHOUSE  [KLMB-0167]",
+            "total_amount": 16668,
+            "amount_paid": 16668,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 38892,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 4,
+                    "selling_price": 5556,
+                    "selling_amount": 22224,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 22224
+                },
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 5556,
+                    "selling_amount": 16668,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 16668
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 90,
+            "invoice_number": "INV/2025/08/0067/23564",
+            "date": "2025-08-16",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MALAPA WAREHOUSE  [KLMB-0167]",
+            "total_amount": 22224,
+            "amount_paid": 22224,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 38892,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 4,
+                    "selling_price": 5556,
+                    "selling_amount": 22224,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 22224
+                },
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 5556,
+                    "selling_amount": 16668,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 16668
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 89,
+            "invoice_number": "INV/2025/08/0067/23509",
+            "date": "2025-08-16",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "KARIAKOO STORE  [KLMB-0167]",
+            "total_amount": 100000,
+            "amount_paid": 100000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 100000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 25,
+                    "selling_price": 4000,
+                    "selling_amount": 100000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 100000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 88,
+            "invoice_number": "INV/2025/08/0067/23452",
+            "date": "2025-08-16",
+            "member_name": "JACOB LIHHIMA BURRA",
+            "member_phone": "0782472925",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 2577,
+            "balance": 1423,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 4000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 87,
+            "invoice_number": "INV/2025/08/0067/23371",
+            "date": "2025-08-16",
+            "member_name": "JACOB LIHHIMA BURRA",
+            "member_phone": "0782472925",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 6000,
+            "amount_paid": 5800,
+            "balance": 200,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 6000,
+            "items": [
+                {
+                    "item_name": "CAN - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 2000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "YARAMILA - OTESHA - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 1000,
+                    "selling_amount": 2000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 86,
+            "invoice_number": "INV/2025/08/0067/23289",
+            "date": "2025-08-16",
+            "member_name": "JACOB LIHHIMA BURRA",
+            "member_phone": "0782472925",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 11112,
+            "amount_paid": 2111,
+            "balance": 9001,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 11112,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 85,
+            "invoice_number": "INV/2025/08/0067/23235",
+            "date": "2025-08-16",
+            "member_name": "JACOB LIHHIMA BURRA",
+            "member_phone": "0782472925",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 5556,
+            "amount_paid": 2300,
+            "balance": 3256,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 86668,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                },
+                {
+                    "item_name": "MICROP PLANTING - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 70000,
+                    "selling_amount": 70000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 70000
+                },
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 5556,
+                    "selling_amount": 5556,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5556
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 84,
+            "invoice_number": "INV/2025/08/0067/23235",
+            "date": "2025-08-16",
+            "member_name": "JACOB LIHHIMA BURRA",
+            "member_phone": "0782472925",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 81112,
+            "amount_paid": 3666,
+            "balance": 77446,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 86668,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                },
+                {
+                    "item_name": "MICROP PLANTING - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 70000,
+                    "selling_amount": 70000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 70000
+                },
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 5556,
+                    "selling_amount": 5556,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5556
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 83,
+            "invoice_number": "INV/2025/08/0067/21961",
+            "date": "2025-08-02",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 2500000,
+            "amount_paid": 2500000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 2500000,
+            "items": [
+                {
+                    "item_name": "Boxer - 125HD - Red",
+                    "quantity": 1,
+                    "selling_price": 2500000,
+                    "selling_amount": 2500000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2500000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 82,
+            "invoice_number": "INV/2025/07/0067/21471",
+            "date": "2025-07-28",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 17000,
+            "amount_paid": 15000,
+            "balance": 2000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": -33000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 1000,
+                    "selling_amount": 1000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 50000,
+                    "gross_profit": -49000
+                },
+                {
+                    "item_name": "mdalasini - SeedCo - 100mls",
+                    "quantity": 2,
+                    "selling_price": 3000,
+                    "selling_amount": 6000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 6000
+                },
+                {
+                    "item_name": "CHINESE - ACSEN AGRISCIENCE(TZ) LTD - 250 GM",
+                    "quantity": 5,
+                    "selling_price": 2000,
+                    "selling_amount": 10000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 10000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 81,
+            "invoice_number": "INV/2025/07/0067/21337",
+            "date": "2025-07-28",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 92000,
+            "amount_paid": 92000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 92000,
+            "items": [
+                {
+                    "item_name": "UREA - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 12000,
+                    "selling_amount": 12000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 12000
+                },
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 80000,
+                    "selling_amount": 80000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 80000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 80,
+            "invoice_number": "INV/2025/07/0067/20795",
+            "date": "2025-07-24",
+            "member_name": "GEORGE OJWANG ",
+            "member_phone": "0756400500",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 900,
+            "amount_paid": 0,
+            "balance": 900,
+            "status": "PENDING",
+            "total_gross_profit": 900,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Blue",
+                    "quantity": 1,
+                    "selling_price": 900,
+                    "selling_amount": 900,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 900
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 79,
+            "invoice_number": "INV/2025/07/0067/20688",
+            "date": "2025-07-24",
+            "member_name": "AWADHI  ",
+            "member_phone": "0713244769",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 8000,
+            "amount_paid": 5000,
+            "balance": 3000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 8000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 2,
+                    "selling_price": 4000,
+                    "selling_amount": 8000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 78,
+            "invoice_number": "INV/2025/07/0067/20586",
+            "date": "2025-07-23",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "MARIAM AGROVET  [KLMB-0167]",
+            "total_amount": 19000,
+            "amount_paid": 10000,
+            "balance": 9000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": -31000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 6000,
+                    "selling_amount": 6000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 50000,
+                    "gross_profit": -44000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 1,
+                    "selling_price": 4000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 5000,
+                    "selling_amount": 5000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5000
+                },
+                {
+                    "item_name": "MICROP PLANTING - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 4000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 77,
+            "invoice_number": "INV/2025/07/0067/20392",
+            "date": "2025-07-21",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 2000000,
+            "amount_paid": 1999999,
+            "balance": 1,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 2000000,
+            "items": [
+                {
+                    "item_name": "Boxer - 150 - Blue",
+                    "quantity": 1,
+                    "selling_price": 2000000,
+                    "selling_amount": 2000000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2000000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 76,
+            "invoice_number": "INV/2025/07/0067/20282",
+            "date": "2025-07-21",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 4000,
+            "amount_paid": 3500,
+            "balance": 500,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 4000,
+            "items": [
+                {
+                    "item_name": "mdalasini - SeedCo - 100mls",
+                    "quantity": 1,
+                    "selling_price": 4000,
+                    "selling_amount": 4000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 75,
+            "invoice_number": "INV/2025/07/0067/19916",
+            "date": "2025-07-19",
+            "member_name": "TEE  ",
+            "member_phone": "0627086107",
+            "warehouse_name": "FLORA STORE  [KLMB-0167]",
+            "total_amount": 350000,
+            "amount_paid": 300000,
+            "balance": 50000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 250000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 70000,
+                    "selling_amount": 140000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 100000,
+                    "gross_profit": 40000
+                },
+                {
+                    "item_name": "MICROP PLANTING - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 70000,
+                    "selling_amount": 210000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 210000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 74,
+            "invoice_number": "INV/2025/07/0067/19872",
+            "date": "2025-07-18",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "STEVE STORE  [KLMB-0167]",
+            "total_amount": 43940,
+            "amount_paid": 40000,
+            "balance": 3940,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": -106060,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 3,
+                    "selling_price": 2000,
+                    "selling_amount": 6000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 150000,
+                    "gross_profit": -144000
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 2500,
+                    "selling_amount": 2500,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2500
+                },
+                {
+                    "item_name": "MICROP TOP DRESSING - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 7088,
+                    "selling_amount": 35440,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 35440
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 73,
+            "invoice_number": "INV/2025/07/0067/19662",
+            "date": "2025-07-18",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "SMART AGRO SOLUTION  [KLMB-0167]",
+            "total_amount": 720000,
+            "amount_paid": 700000,
+            "balance": 20000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 720000,
+            "items": [
+                {
+                    "item_name": "MICROP PLANTING - 50 KG",
+                    "quantity": 10,
+                    "selling_price": 72000,
+                    "selling_amount": 720000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 720000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 72,
+            "invoice_number": "INV/2025/07/0067/19355",
+            "date": "2025-07-16",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 70000,
+            "amount_paid": 60000,
+            "balance": 10000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 70000,
+            "items": [
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 12000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                },
+                {
+                    "item_name": "UREA - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 2000,
+                    "selling_amount": 10000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 10000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 71,
+            "invoice_number": "INV/2025/07/0067/19337",
+            "date": "2025-07-16",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "TEST WAREHOUSE  [KLMB-0167]",
+            "total_amount": 130000,
+            "amount_paid": 130000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 130000,
+            "items": [
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 65000,
+                    "selling_amount": 130000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 130000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 70,
+            "invoice_number": "INV/2025/07/0067/19289",
+            "date": "2025-07-16",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 5556,
+            "amount_paid": 2556,
+            "balance": 3000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 5556,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 5556,
+                    "selling_amount": 5556,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5556
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 69,
+            "invoice_number": "INV/2025/07/0067/19231",
+            "date": "2025-07-16",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 5556,
+            "amount_paid": 2000,
+            "balance": 3556,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 5556,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 5556,
+                    "selling_amount": 5556,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5556
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 68,
+            "invoice_number": "INV/2025/07/0067/18926",
+            "date": "2025-07-16",
+            "member_name": null,
+            "member_phone": null,
+            "warehouse_name": "NEW STORE1  [KLMB-0167]",
+            "total_amount": 121112,
+            "amount_paid": 121112,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": -128888,
+            "items": [
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                },
+                {
+                    "item_name": "MICROP PLANTING - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 50000,
+                    "selling_amount": 100000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 100000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 2000,
+                    "selling_amount": 10000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 250000,
+                    "gross_profit": -240000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 67,
+            "invoice_number": "INV/2025/07/0067/18753",
+            "date": "2025-07-16",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 8200000,
+            "amount_paid": 8200000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 8200000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Black",
+                    "quantity": 1,
+                    "selling_price": 8200000,
+                    "selling_amount": 8200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8200000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 66,
+            "invoice_number": "INV/2025/07/0067/18565",
+            "date": "2025-07-14",
+            "member_name": "OMARY  ",
+            "member_phone": "0744111000",
+            "warehouse_name": "OMARY RASHID STORE  [KLMB-0167]",
+            "total_amount": 2000,
+            "amount_paid": 1500,
+            "balance": 500,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": -48000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 2000,
+                    "selling_amount": 2000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 50000,
+                    "gross_profit": -48000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 65,
+            "invoice_number": "INV/2025/07/0067/18163",
+            "date": "2025-07-10",
+            "member_name": "TEE  ",
+            "member_phone": "0627086107",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 5731112,
+            "amount_paid": 3731112,
+            "balance": 2000000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 2581112,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 10000,
+                    "selling_amount": 50000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 50000
+                },
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 63,
+                    "selling_price": 90000,
+                    "selling_amount": 5670000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 3150000,
+                    "gross_profit": 2520000
+                },
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 5556,
+                    "selling_amount": 11112,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 11112
+                }
+            ],
+            "payments": [
+                {
+                    "receipt_id": 1,
+                    "payment_method": "CASH",
+                    "amount": 10000,
+                    "date": "2026-03-04T11:09:09.000000Z"
+                },
+                {
+                    "receipt_id": 2,
+                    "payment_method": "CASH",
+                    "amount": 3716112,
+                    "date": "2026-03-04T11:10:06.000000Z"
+                }
+            ]
+        },
+        {
+            "sales_id": 64,
+            "invoice_number": "INV/2025/07/0067/18188",
+            "date": "2025-07-10",
+            "member_name": "GEORGE OJWANG ",
+            "member_phone": "0756400500",
+            "warehouse_name": "KAI AGROVET  [KLMB-0167]",
+            "total_amount": 15000,
+            "amount_paid": 0,
+            "balance": 15000,
+            "status": "PENDING",
+            "total_gross_profit": 15000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 10000,
+                    "selling_amount": 10000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 10000
+                },
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 5000,
+                    "selling_amount": 5000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 5000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 63,
+            "invoice_number": "INV/2025/07/0067/17491",
+            "date": "2025-07-10",
+            "member_name": "MTUI  ",
+            "member_phone": "0624086107",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 450000,
+            "amount_paid": 450000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 200000,
+            "items": [
+                {
+                    "item_name": "DAP - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 90000,
+                    "selling_amount": 450000,
+                    "purchase_price": 50000,
+                    "purchase_amount": 250000,
+                    "gross_profit": 200000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 62,
+            "invoice_number": "INV/2025/07/0067/17204",
+            "date": "2025-07-10",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "KARIAKOO STORE  [KLMB-0167]",
+            "total_amount": 55566,
+            "amount_paid": 30000,
+            "balance": 25566,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 55566,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 1,
+                    "selling_price": 55566,
+                    "selling_amount": 55566,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 55566
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 61,
+            "invoice_number": "INV/2025/07/0067/16758",
+            "date": "2025-07-04",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "KARIAKOO STORE  [KLMB-0167]",
+            "total_amount": 15169518,
+            "amount_paid": 15000000,
+            "balance": 169518,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 15169518,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 273,
+                    "selling_price": 55566,
+                    "selling_amount": 15169518,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 15169518
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 60,
+            "invoice_number": "INV/2025/07/0067/16622",
+            "date": "2025-07-03",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "KARIAKOO STORE  [KLMB-0167]",
+            "total_amount": 10000000,
+            "amount_paid": 9900000,
+            "balance": 100000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 10000000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 200,
+                    "selling_price": 50000,
+                    "selling_amount": 10000000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 10000000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 59,
+            "invoice_number": "INV/2025/07/0067/16550",
+            "date": "2025-07-02",
+            "member_name": "ALLY OMARY KAMBI",
+            "member_phone": "0712457724",
+            "warehouse_name": "NEW TEST STORE  [KLMB-0167]",
+            "total_amount": 200000,
+            "amount_paid": 200000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 200000,
+            "items": [
+                {
+                    "item_name": "MICROP PLANTING - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 40000,
+                    "selling_amount": 200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 200000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 58,
+            "invoice_number": "INV/2025/07/0067/16465",
+            "date": "2025-07-02",
+            "member_name": "ALLY OMARY KAMBI",
+            "member_phone": "0712457724",
+            "warehouse_name": "TEST WAREHOUSE  [KLMB-0167]",
+            "total_amount": 131110,
+            "amount_paid": 50000,
+            "balance": 81110,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 131110,
+            "items": [
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 65000,
+                    "selling_amount": 130000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 130000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 5,
+                    "selling_price": 222,
+                    "selling_amount": 1110,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 1110
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 57,
+            "invoice_number": "INV/2025/07/0067/16410",
+            "date": "2025-07-02",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 141132,
+            "amount_paid": 141132,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 141132,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 15000,
+                    "selling_amount": 30000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 30000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 2,
+                    "selling_price": 55566,
+                    "selling_amount": 111132,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 111132
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 42,
+            "invoice_number": "INV/2025/06/0067/15358",
+            "date": "2025-06-23",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 300000,
+            "amount_paid": 0,
+            "balance": 300000,
+            "status": "PENDING",
+            "total_gross_profit": 300000,
+            "items": [
+                {
+                    "item_name": "ginger - Yara",
+                    "quantity": 75,
+                    "selling_price": 4000,
+                    "selling_amount": 300000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 300000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 39,
+            "invoice_number": "INV/2025/06/0067/15198",
+            "date": "2025-06-20",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 25000,
+            "amount_paid": 25000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 25000,
+            "items": [
+                {
+                    "item_name": "ginger - Yara",
+                    "quantity": 5,
+                    "selling_price": 5000,
+                    "selling_amount": 25000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 25000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 37,
+            "invoice_number": "INV/2025/06/0067/14967",
+            "date": "2025-06-20",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 300,
+            "amount_paid": 300,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 300,
+            "items": [
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 300,
+                    "selling_amount": 300,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 300
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 36,
+            "invoice_number": "INV/2025/06/0067/14846",
+            "date": "2025-06-20",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 60000,
+            "amount_paid": 60000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 60000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 4,
+                    "selling_price": 15000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 35,
+            "invoice_number": "INV/2025/06/0067/14510",
+            "date": "2025-06-19",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 4057780,
+            "amount_paid": 4057780,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 4057780,
+            "items": [
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 10,
+                    "selling_price": 222,
+                    "selling_amount": 2220,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2220
+                },
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 50,
+                    "selling_price": 80000,
+                    "selling_amount": 4000000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 4000000
+                },
+                {
+                    "item_name": "NPSzn - 50 KG",
+                    "quantity": 10,
+                    "selling_price": 5556,
+                    "selling_amount": 55560,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 55560
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 31,
+            "invoice_number": "INV/2025/06/0067/11145",
+            "date": "2025-06-16",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 35000,
+            "amount_paid": 30000,
+            "balance": 5000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 35000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Red",
+                    "quantity": 1,
+                    "selling_price": 35000,
+                    "selling_amount": 35000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 35000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 30,
+            "invoice_number": "INV/2025/06/0067/10506",
+            "date": "2025-06-13",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 65000,
+            "amount_paid": 0,
+            "balance": 65000,
+            "status": "PENDING",
+            "total_gross_profit": 65000,
+            "items": [
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 65000,
+                    "selling_amount": 65000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 65000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 28,
+            "invoice_number": "INV/2025/06/0067/10214",
+            "date": "2025-06-13",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 40000,
+            "amount_paid": 2000,
+            "balance": 38000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 40000,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 8,
+                    "selling_price": 5000,
+                    "selling_amount": 40000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 40000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 27,
+            "invoice_number": "INV/2025/06/0067/10145",
+            "date": "2025-06-13",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 35000,
+            "amount_paid": 1000,
+            "balance": 34000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 35000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Red",
+                    "quantity": 1,
+                    "selling_price": 35000,
+                    "selling_amount": 35000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 35000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 26,
+            "invoice_number": "INV/2025/06/0067/10076",
+            "date": "2025-06-13",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 35000,
+            "amount_paid": 10000,
+            "balance": 25000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 35000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Red",
+                    "quantity": 1,
+                    "selling_price": 35000,
+                    "selling_amount": 35000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 35000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 25,
+            "invoice_number": "INV/2025/06/0067/10007",
+            "date": "2025-06-13",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 35000,
+            "amount_paid": 34000,
+            "balance": 1000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 35000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Red",
+                    "quantity": 1,
+                    "selling_price": 35000,
+                    "selling_amount": 35000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 35000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 24,
+            "invoice_number": "INV/2025/06/0067/9938",
+            "date": "2025-06-13",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 45000,
+            "amount_paid": 44000,
+            "balance": 1000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 45000,
+            "items": [
+                {
+                    "item_name": "TVS - 125HLS - Red",
+                    "quantity": 1,
+                    "selling_price": 45000,
+                    "selling_amount": 45000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 45000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 23,
+            "invoice_number": "INV/2025/06/0067/9797",
+            "date": "2025-06-13",
+            "member_name": "HHB  ",
+            "member_phone": "0742472346",
+            "warehouse_name": "VEEEE  [KLMB-0167]",
+            "total_amount": 160000,
+            "amount_paid": 158000,
+            "balance": 2000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 160000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Red",
+                    "quantity": 1,
+                    "selling_price": 35000,
+                    "selling_amount": 35000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 35000
+                },
+                {
+                    "item_name": "TVS - 125HLS - Red",
+                    "quantity": 1,
+                    "selling_price": 45000,
+                    "selling_amount": 45000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 45000
+                },
+                {
+                    "item_name": "Boxer - 125HD - Red",
+                    "quantity": 1,
+                    "selling_price": 20000,
+                    "selling_amount": 20000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 20000
+                },
+                {
+                    "item_name": "Boxer - 150 - Black",
+                    "quantity": 1,
+                    "selling_price": 60000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 22,
+            "invoice_number": "INV/2025/06/0067/9643",
+            "date": "2025-06-13",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 8200000,
+            "amount_paid": 0,
+            "balance": 8200000,
+            "status": "PENDING",
+            "total_gross_profit": 16400000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Black",
+                    "quantity": 1,
+                    "selling_price": 8200000,
+                    "selling_amount": 8200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8200000
+                },
+                {
+                    "item_name": "TVS - XL100 - Black",
+                    "quantity": 1,
+                    "selling_price": 8200000,
+                    "selling_amount": 8200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8200000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 21,
+            "invoice_number": "INV/2025/06/0067/9643",
+            "date": "2025-06-13",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 8200000,
+            "amount_paid": 0,
+            "balance": 8200000,
+            "status": "PENDING",
+            "total_gross_profit": 16400000,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Black",
+                    "quantity": 1,
+                    "selling_price": 8200000,
+                    "selling_amount": 8200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8200000
+                },
+                {
+                    "item_name": "TVS - XL100 - Black",
+                    "quantity": 1,
+                    "selling_price": 8200000,
+                    "selling_amount": 8200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8200000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 15,
+            "invoice_number": "INV/2025/03/0067/271",
+            "date": "2025-03-14",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 270000,
+            "amount_paid": 270000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 5310000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 5,
+                    "selling_price": 70000,
+                    "selling_amount": 350000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 350000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 34,
+                    "selling_price": 70000,
+                    "selling_amount": 2380000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 2380000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 34,
+                    "selling_price": 20000,
+                    "selling_amount": 680000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 680000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 70000,
+                    "selling_amount": 210000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 210000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 20000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 70000,
+                    "selling_amount": 140000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 140000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 70000,
+                    "selling_amount": 210000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 210000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 20000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 70000,
+                    "selling_amount": 140000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 140000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 20000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 70000,
+                    "selling_amount": 210000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 210000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 20000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 70000,
+                    "selling_amount": 210000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 210000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 20000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 70000,
+                    "selling_amount": 210000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 210000
+                },
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 3,
+                    "selling_price": 70000,
+                    "selling_amount": 210000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 210000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 3,
+                    "selling_price": 20000,
+                    "selling_amount": 60000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 60000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 9,
+            "invoice_number": "INV/2025/05/0067/6645",
+            "date": "2025-05-14",
+            "member_name": "BENEDICT CHIGOLI SONGO",
+            "member_phone": "-",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 290000,
+            "amount_paid": 56666,
+            "balance": 233334,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 290000,
+            "items": [
+                {
+                    "item_name": "DAP - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 15000,
+                    "selling_amount": 30000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 30000
+                },
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 4,
+                    "selling_price": 65000,
+                    "selling_amount": 260000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 260000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 8,
+            "invoice_number": "INV/2025/05/0067/6522",
+            "date": "2025-05-13",
+            "member_name": "KASSIM HABDAL KIMWAGA",
+            "member_phone": "0712345564",
+            "warehouse_name": "NEW STORE2  [KLMB-0167]",
+            "total_amount": 160000,
+            "amount_paid": 20000,
+            "balance": 140000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 160000,
+            "items": [
+                {
+                    "item_name": "UREA - 50 KG",
+                    "quantity": 2,
+                    "selling_price": 80000,
+                    "selling_amount": 160000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 160000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 7,
+            "invoice_number": "INV/2025/05/0067/6322",
+            "date": "2025-05-13",
+            "member_name": "KASSIM HABDAL KIMWAGA",
+            "member_phone": "0712345564",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 175000,
+            "amount_paid": 60000,
+            "balance": 115000,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 175000,
+            "items": [
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 1,
+                    "selling_price": 65000,
+                    "selling_amount": 65000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 65000
+                },
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 2,
+                    "selling_price": 55000,
+                    "selling_amount": 110000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 110000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 6,
+            "invoice_number": "INV/2025/05/0067/5817",
+            "date": "2025-05-12",
+            "member_name": "ALLY OMARY KAMBI",
+            "member_phone": "0712457724",
+            "warehouse_name": "KARIAKOO STORE  [KLMB-0167]",
+            "total_amount": 55566,
+            "amount_paid": 55566,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 55566,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 1,
+                    "selling_price": 55566,
+                    "selling_amount": 55566,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 55566
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 3,
+            "invoice_number": "INV/2025/05/0067/5688",
+            "date": "2025-05-12",
+            "member_name": "ALLY OMARY KAMBI",
+            "member_phone": "0712457724",
+            "warehouse_name": "KARIAKOO STORE  [KLMB-0167]",
+            "total_amount": 55566,
+            "amount_paid": 0,
+            "balance": 55566,
+            "status": "PENDING",
+            "total_gross_profit": 55566,
+            "items": [
+                {
+                    "item_name": "Dudube - BIDDI - 200 Mls - Caton",
+                    "quantity": 1,
+                    "selling_price": 55566,
+                    "selling_amount": 55566,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 55566
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 2,
+            "invoice_number": "INV/2025/05/0067/5620",
+            "date": "2025-05-12",
+            "member_name": "ALLY OMARY KAMBI",
+            "member_phone": "0712457724",
+            "warehouse_name": "TEST WAREHOUSE  [KLMB-0167]",
+            "total_amount": 175000,
+            "amount_paid": 175000,
+            "balance": 0,
+            "status": "FULLY PAID",
+            "total_gross_profit": 175000,
+            "items": [
+                {
+                    "item_name": "NPK - 25 KG",
+                    "quantity": 2,
+                    "selling_price": 65000,
+                    "selling_amount": 130000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 130000
+                },
+                {
+                    "item_name": "CAN - 50 KG",
+                    "quantity": 1,
+                    "selling_price": 45000,
+                    "selling_amount": 45000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 45000
+                }
+            ],
+            "payments": []
+        },
+        {
+            "sales_id": 1,
+            "invoice_number": "INV/2025/05/0067/5482",
+            "date": "2025-05-11",
+            "member_name": "TGGG  ",
+            "member_phone": "0712455588",
+            "warehouse_name": "MINDA TRADERS - SHOP STORE  [KLMB-0167]",
+            "total_amount": 8222222,
+            "amount_paid": 333,
+            "balance": 8221889,
+            "status": "PARTIAL PAID",
+            "total_gross_profit": 8222222,
+            "items": [
+                {
+                    "item_name": "TVS - XL100 - Blue",
+                    "quantity": 1,
+                    "selling_price": 22222,
+                    "selling_amount": 22222,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 22222
+                },
+                {
+                    "item_name": "TVS - XL100 - Black",
+                    "quantity": 1,
+                    "selling_price": 8200000,
+                    "selling_amount": 8200000,
+                    "purchase_price": 0,
+                    "purchase_amount": 0,
+                    "gross_profit": 8200000
+                }
+            ],
+            "payments": []
+        }
+    ]
+}

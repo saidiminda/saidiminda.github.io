@@ -1,0 +1,17 @@
+{
+    "importer_id":0,
+    "userable_id": 264,
+    "warehouse_id":0,
+    "user_id":0,
+    "imei_number":"",
+    "app_version_name":"",
+    "date":"",
+    "time":"",
+    "items":[
+        {
+            "id":0,
+            "name":"Duduba",
+            "quantity":6
+        }
+    ]
+}

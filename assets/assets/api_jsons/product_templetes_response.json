@@ -1,0 +1,175 @@
+{
+    "code": 1,
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "name": "DAP",
+            "varieties": [
+                {
+                    "id": 11,
+                    "name": "DAP - 50 KG"
+                },
+                {
+                    "id": 221,
+                    "name": "DAP - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "UREA",
+            "varieties": [
+                {
+                    "id": 8,
+                    "name": "UREA - 50 KG"
+                },
+                {
+                    "id": 220,
+                    "name": "UREA - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "MICROP PLANTING",
+            "varieties": [
+                {
+                    "id": 14,
+                    "name": "MICROP PLANTING - 50 KG"
+                },
+                {
+                    "id": 205,
+                    "name": "MICROP PLANTING - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "NPS",
+            "varieties": []
+        },
+        {
+            "id": 166,
+            "name": "NPSzn",
+            "varieties": [
+                {
+                    "id": 167,
+                    "name": "NPSzn - 50 KG"
+                }
+            ]
+        },
+        {
+            "id": 189,
+            "name": "CAN",
+            "varieties": [
+                {
+                    "id": 190,
+                    "name": "CAN - 50 KG"
+                },
+                {
+                    "id": 191,
+                    "name": "CAN - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 192,
+            "name": "JAVA",
+            "varieties": [
+                {
+                    "id": 208,
+                    "name": "JAVA - 50 KG"
+                },
+                {
+                    "id": 209,
+                    "name": "JAVA - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 193,
+            "name": "YARAMILA",
+            "varieties": [
+                {
+                    "id": 198,
+                    "name": "YARAMILA - OTESHA - 50 KG"
+                },
+                {
+                    "id": 199,
+                    "name": "YARAMILA - OTESHA - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 195,
+            "name": "NPK",
+            "varieties": [
+                {
+                    "id": 200,
+                    "name": "NPK - 50 KG"
+                },
+                {
+                    "id": 201,
+                    "name": "NPK - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 196,
+            "name": "MICROP MBOGA",
+            "varieties": [
+                {
+                    "id": 202,
+                    "name": "MICROP MBOGA - 50 KG"
+                },
+                {
+                    "id": 203,
+                    "name": "MICROP MBOGA - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 197,
+            "name": "MICROP TOP DRESSING",
+            "varieties": [
+                {
+                    "id": 206,
+                    "name": "MICROP TOP DRESSING - 50 KG"
+                },
+                {
+                    "id": 207,
+                    "name": "MICROP TOP DRESSING - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 210,
+            "name": "NAFAKA PLUS",
+            "varieties": [
+                {
+                    "id": 211,
+                    "name": "NAFAKA PLUS - 50 KG"
+                },
+                {
+                    "id": 212,
+                    "name": "NAFAKA PLUS - 25 KG"
+                }
+            ]
+        },
+        {
+            "id": 213,
+            "name": "SA",
+            "varieties": [
+                {
+                    "id": 214,
+                    "name": "SA - 50 KG"
+                },
+                {
+                    "id": 215,
+                    "name": "SA - 25 KG"
+                }
+            ]
+        }
+    ]
+}

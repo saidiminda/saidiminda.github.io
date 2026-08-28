@@ -1,0 +1,58 @@
+{
+    "code": 1,
+    "state": "Done",
+    "title": "Success",
+    "message": "Data fetched successfully",
+    "suppliers": [
+        {
+            "basic_informations": {
+                "id": 127,
+                "trading_name": "Msambazaji One [KLMB-00127]",
+                "type": "INDIVIDUAL",
+                "abrreviation": null,
+                "region_id": 3,
+                "region_name": "DODOMA",
+                "district_id": 9,
+                "district_name": "DODOMA DISTRICT COUNCIL",
+                "ward_id": 144,
+                "ward_name": "KIKUYU KUSINI WARD",
+                "village_id": 765,
+                "village_name": "MKALAMA 'A' VILLAGE"
+            },
+            "contacts": {
+                "office_phone": "0712457724",
+                "office_email": null,
+                "address": null
+            },
+            "geo_coordinates": {
+                "latitude": null,
+                "longitude": null
+            }
+        },
+        {
+            "basic_informations": {
+                "id": 128,
+                "trading_name": "Msambazaji One [KLMB-00128]",
+                "type": "INDIVIDUAL",
+                "abrreviation": null,
+                "region_id": 3,
+                "region_name": "DODOMA",
+                "district_id": 9,
+                "district_name": "DODOMA DISTRICT COUNCIL",
+                "ward_id": 144,
+                "ward_name": "KIKUYU KUSINI WARD",
+                "village_id": 765,
+                "village_name": "MKALAMA 'A' VILLAGE"
+            },
+            "contacts": {
+                "office_phone": "0712457724",
+                "office_email": null,
+                "address": null
+            },
+            "geo_coordinates": {
+                "latitude": null,
+                "longitude": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "Operation successfully",
+    "data": [
+        {
+            "id": 1,
+            "entity_id": 67,
+            "type": "CASH",
+            "account_number": null,
+            "provider_name": null,
+            "account_name": "Cash Account",
+            "balance": "0.0000",
+            "created_at": "2025-07-28T09:26:09.000000Z",
+            "updated_at": "2025-07-28T09:26:09.000000Z",
+            "account_code": null,
+            "description": null,
+            "user_id": 69,
+            "user_meta_data": "{\"id\": 69, \"name\": \"MINDA[KLMB-0167]\", \"email\": \"info@mimi.tz\", \"phone\": \"0753137339\", \"gender\": null, \"ward_id\": null, \"username\": \"klmb-0167\", \"full_name\": \"MINDA[KLMB-0167]\", \"is_active\": 1, \"user_type\": \"SYSTEM\", \"district_id\": null, \"userable_id\": 67, \"userable_type\": \"Modules\\\\Entities\\\\Models\\\\Entity\", \"change_password\": 0}",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "entity_id": 67,
+            "type": "OTHERS",
+            "account_number": null,
+            "provider_name": null,
+            "account_name": "Accounts Receivables",
+            "balance": "0.0000",
+            "created_at": "2025-07-28T09:26:09.000000Z",
+            "updated_at": "2025-07-28T09:26:09.000000Z",
+            "account_code": null,
+            "description": null,
+            "user_id": 69,
+            "user_meta_data": "{\"id\": 69, \"name\": \"MINDA[KLMB-0167]\", \"email\": \"info@mimi.tz\", \"phone\": \"0753137339\", \"gender\": null, \"ward_id\": null, \"username\": \"klmb-0167\", \"full_name\": \"MINDA[KLMB-0167]\", \"is_active\": 1, \"user_type\": \"SYSTEM\", \"district_id\": null, \"userable_id\": 67, \"userable_type\": \"Modules\\\\Entities\\\\Models\\\\Entity\", \"change_password\": 0}",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "entity_id": 67,
+            "type": "BANK",
+            "account_number": null,
+            "provider_name": null,
+            "account_name": "Said Isiaka",
+            "balance": "0.0000",
+            "created_at": "2025-08-01T12:38:44.000000Z",
+            "updated_at": "2025-08-01T12:38:44.000000Z",
+            "account_code": null,
+            "description": null,
+            "user_id": 69,
+            "user_meta_data": "{\"id\": 69, \"name\": \"MINDA[KLMB-0167]\", \"email\": \"info@mimi.tz\", \"phone\": \"0753137339\", \"gender\": null, \"ward_id\": null, \"username\": \"klmb-0167\", \"full_name\": \"MINDA[KLMB-0167]\", \"is_active\": 1, \"user_type\": \"SYSTEM\", \"district_id\": null, \"system_name\": null, \"userable_id\": 67, \"userable_type\": \"Modules\\\\Entities\\\\Models\\\\Entity\", \"change_password\": 0}",
+            "deleted_at": null
+        }
+    ]
+}

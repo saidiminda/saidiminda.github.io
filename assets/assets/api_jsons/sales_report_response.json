@@ -1,0 +1,59 @@
+{
+    "importers": [
+        {
+            "id": 36,
+            "name": "YARA TANZANIA LIMITED",
+            "sales": [
+                {
+                    "product": "DAP - 50 KG",
+                    "amount": 471251,
+                    "quantity": 14
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "MOHAMMED ENTERPRISES TANZANIA LIMITED",
+            "sales": [
+                {
+                    "product": "DAP - 50 KG",
+                    "amount": 471251,
+                    "quantity": 14
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "STACO AGROCHEM LTD",
+            "sales": [
+                {
+                    "product": "SA - 50 KG",
+                    "amount": 8349,
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "PREMIUM AGRO CHEM LTD",
+            "sales": [
+                {
+                    "product": "DAP - 50 KG",
+                    "amount": 471251,
+                    "quantity": 14
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "OCP TANZANIA LIMITED",
+            "sales": [
+                {
+                    "product": "DAP - 50 KG",
+                    "amount": 471251,
+                    "quantity": 14
+                }
+            ]
+        }
+    ]
+}

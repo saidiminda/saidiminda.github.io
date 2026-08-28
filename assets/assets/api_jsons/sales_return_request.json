@@ -1,0 +1,34 @@
+{
+    "user_id": 5,
+    "device_id": "3dasr435436hgdf6",
+    "warehouse_id": 311,
+    "description": "THIS IS A TEST",
+    "misc": null,
+    "importer_id": null,
+    "member_id": null,
+    "userable_id": 700,
+    "imei_number": "mmemememeem",
+    "app_version_name": "mdmdmdm",
+    "date": "2025-01-01",
+    "time": "09:00",
+    "line_items": [
+        {
+            "item_id": 8,
+            "general_line_item_id": 10,
+            "quantity": 15,
+            "quantity_returned": 2,
+            "rate": 56000,
+            "selling_rate": 1233,
+            "purchase_rate": 81000
+        },
+        {
+            "item_id": 11,
+            "general_line_item_id": 10,
+            "quantity": 20,
+            "quantity_returned": 5,
+            "rate": 87600,
+            "selling_rate": 1233,
+            "purchase_rate": 81000
+        }
+    ]
+}

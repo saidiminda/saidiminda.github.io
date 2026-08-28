@@ -1,0 +1,11 @@
+{
+    "userable_id":67,
+    "full_name":"Naomi Rashid",
+    "username":"naomirash",
+    "gender": "female",
+    "email":"naomi@gmail.com",
+    "phone":"0674416663",
+    "password":"password",
+    "role_ids": [7],
+    "permission_ids": [8, 10]
+}

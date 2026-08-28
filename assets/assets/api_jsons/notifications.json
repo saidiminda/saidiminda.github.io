@@ -1,0 +1,342 @@
+{
+  "state": "Done",
+  "title": "Success",
+  "code": 1,
+  "message": "Notifications fetched successfully",
+  "data": [
+    {
+      "id": 101,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa MICROP TOP DRESSING - 50 KG katika ghala la STEVE STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 102,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa DAP - 50 KG katika ghala la FLORA STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 4.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 103,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa DAP - 25 KG katika ghala la FLORA STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 5.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 104,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa UREA - 50 KG katika ghala la FLORA STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 7.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 105,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa MICROP PLANTING - 50 KG katika ghala la FLORA STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 5.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 106,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa MICROP PLANTING - 25 KG katika ghala la FLORA STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 2.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 107,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa YARAMILA - OTESHA - 25 KG katika ghala la FLORA STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 2.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 108,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa NPK - 50 KG katika ghala la FLORA STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 2.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 109,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa CAN - 25 KG katika ghala la FLORA STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 2.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 110,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa TVS - 125HLS - Black katika ghala la NEW STORE1 imefikia kiwango cha chini. Idadi ya bidhaa ni 2.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 111,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa mdalasini - SeedCo - 100mls katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 5.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 112,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa Dudube - BIDDI - 200 Mls - Caton katika ghala la MARIAM AGROVET imefikia kiwango cha chini. Idadi ya bidhaa ni 9.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 113,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa UREA - 50 KG katika ghala la MARIAM AGROVET imefikia kiwango cha chini. Idadi ya bidhaa ni 9.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    {
+      "id": 114,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa MICROP PLANTING - 50 KG katika ghala la MARIAM AGROVET imefikia kiwango cha chini. Idadi ya bidhaa ni 9.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:05.000000Z"
+    },
+    
+    {
+      "id": 70,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa YARAMILA - OTESHA - 50 KG katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 5.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 74,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa Boxer - 125HD - Red katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 4.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 75,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa TVS - XL100 - Red katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 76,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa TVS - 125HLS - Red katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 77,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa Boxer - 150 - Black katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 1.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 78,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa HERMETIC BAG - 100KG katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 79,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa TRINITARIO - 150 katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 80,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa TVS - 125HLS - Blue katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 81,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa TVS - XL100 - Blue katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 82,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa TVS - 125HLS - Black katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 83,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa JAVA - 25 KG katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 84,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa NPK - 50 KG katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 87,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa SA - 50 KG katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 91,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa Dudube - BIDDI - 200 Mls - Caton katika ghala la OMARY RASHID STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 5.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 92,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa DAP - 50 KG katika ghala la OMARY RASHID STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 1.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 93,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa UREA - 25 KG katika ghala la OMARY RASHID STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 5.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 94,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa CAN - 50 KG katika ghala la OMARY RASHID STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 5.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 95,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa CAN - 25 KG katika ghala la OMARY RASHID STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 3.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 96,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa Boxer - 150 - Blue katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 4.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 97,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa Boxer - 125HD - Black katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 1.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 98,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa Boxer - 150 - Red katika ghala la VEEEE imefikia kiwango cha chini. Idadi ya bidhaa ni 1.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 99,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa DAP - 50 KG katika ghala la STEVE STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 0.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    },
+    {
+      "id": 100,
+      "type": "LOW_STOCK",
+      "title": "Stock Ndogo",
+      "message": "Bidhaa UREA - 50 KG katika ghala la STEVE STORE imefikia kiwango cha chini. Idadi ya bidhaa ni 1.Tafadhali angalia ripoti ya stock kwa taarifa zaidi na kuchukua hatua.",
+      "report_url": "",
+      "is_read": false,
+      "created_at": "2026-05-11T07:43:04.000000Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+    "otp_code": "",
+    "member_id": "",
+    "phone_number": "",
+    "farmer_name": "",
+    "farm_size": 9.3,
+    "entity_id": "",
+    "user_id": "",
+    "paid_amount":3000,
+    "total_amount":6500,
+    "payment_method": "CASH | CREDIT",
+    "importer_sales": [
+        {
+            "name": "",
+            "importer_id": 2,
+            "pod": 61,
+            "items": [
+                {
+                    "pod": 61,
+                    "amount": 0,
+                    "app_version_number": "2.1.0",
+                    "date": "4/5/2023",
+                    "deliveredCount": 1,
+                    "imei_number": "eec59165070dfc3b",
+                    "item_id": "8",
+                    "item_name": "SIMBA SULPHUR 25 KG",
+                    "item_unit": "2",
+                    "price": 50000,
+                    "selling_price": 57890,
+                    "on_sale_cash_amount": 30000.0,
+                    "on_sale_item_count": 1,
+                    "on_sale_subsidy_amount": 20000.0,
+                    "on_sale_total_price": 50000.0,
+                    "quantity": 6,
+                    "std_unit_app": 100,
+                    "subsidy_percentage": 30000,
+                    "time": "17:32",
+                    "user_id": "3",
+                    "userable_id": "2",
+                    "warehouse_id": 2,
+                    "importer_id": 2,
+                    "wallet_id": 83150203384
+                }
+            ]
+        }
+    ]
+}

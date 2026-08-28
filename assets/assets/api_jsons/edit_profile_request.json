@@ -1,0 +1,11 @@
+{
+    "user_id": 8,
+    "entity_id": 5,
+    "name": "Agrodealer ThreeA",
+    "phone":"0713001001",
+    "location":{
+    "region_id":1,
+    "district_id":2,
+    "ward_id":33
+    }
+}

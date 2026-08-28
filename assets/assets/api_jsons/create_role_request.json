@@ -1,0 +1,5 @@
+{
+    "role_id": 10,
+    "name": "Manager",
+    "permissions_ids": [10,8]
+}

@@ -1,0 +1,121 @@
+{
+    "id": 1,
+    "name": "",
+    "allowed_items": [
+        "Mbegu"
+    ],
+    "warehouses": [
+        {
+            "id": 37,
+            "name": "YARA TANZANIA LIMITED - KURASINI - WAREHOUSE - [TFRA-01]"
+        },
+        {
+            "id": 61,
+            "name": "YARA MOROGORO WAREHOUSE - [TFRA-01]"
+        },
+        {
+            "id": 631,
+            "name": "MBEYA WAREHOUSE - [TFRA-01]"
+        },
+        {
+            "id": 38,
+            "name": "STACO AGROCHEM LTD  - MAIN WAREHOUSE - [TFRA-02]"
+        },
+        {
+            "id": 44,
+            "name": "METL - HQ BRANCH - WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 45,
+            "name": "METL MBEYA WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 9435,
+            "name": "METL NJOMBE WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 9534,
+            "name": "METL TUNDUMA WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 9536,
+            "name": "METL ARUSHA WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 9537,
+            "name": "METL IRINGA WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 9538,
+            "name": "METL KAHAMA WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 9539,
+            "name": "METL SONGEA WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 9540,
+            "name": "METL MBOZI WAREHOUSE - [TFRA-05]"
+        },
+        {
+            "id": 54,
+            "name": "PREMIUM AGRO CHEM LIMITED  - MAIN WAREHOUSE - [TFRA-11]"
+        },
+        {
+            "id": 105,
+            "name": "OCP TANZANIA LIMITED  - MAIN WAREHOUSE - [TFRA-15]"
+        },
+        {
+            "id": 8022,
+            "name": "MTEWELE GENERAL TRADERS-CHUNYA DC - SHOP STORE - [TFRA-4983-4984]"
+        },
+        {
+            "id": 8023,
+            "name": "MTEWELE GENERAL TRADERS - NJOME CBD DC - SHOP STORE - [TFRA-4983-4985]"
+        },
+        {
+            "id": 8024,
+            "name": "MTEWELE GENERAL TRADERS - MJOMBE DC - SHOP STORE - [TFRA-4983-4986]"
+        },
+        {
+            "id": 8025,
+            "name": "MTEWELE GENERAL TRADERS-MAKETE DC - SHOP STORE - [TFRA-4983-4987]"
+        },
+        {
+            "id": 8026,
+            "name": "MTEWELE GENERAL TRADERS & INSURANCE AGENT - WANGING'OMBE DC - SHOP STORE - [TFRA-4983-4988]"
+        },
+        {
+            "id": 8027,
+            "name": "MTEWELE GENERAL TRADERS - LUDEWA DC - SHOP STORE - [TFRA-4983-4989]"
+        },
+        {
+            "id": 8028,
+            "name": "MTEWELE GENERAL TRADERS - MAKETE DC - SHOP STORE - [TFRA-4983-4990]"
+        },
+        {
+            "id": 8029,
+            "name": "MTEWELE GENERAL TRADERS-SONGEA CBD DC  - SHOP STORE - [TFRA-4983-4991]"
+        },
+        {
+            "id": 8030,
+            "name": "MTEWELE GENERAL TRADERS & INSURANCE AGENT - SONGEA DC - SHOP STORE - [TFRA-4983-4992]"
+        },
+        {
+            "id": 8031,
+            "name": "MTEWELE GENERAL TRADERS- NAMTUMBO DC - SHOP STORE - [TFRA-4983-4993]"
+        },
+        {
+            "id": 8032,
+            "name": "MTEWELEGENERAL TRADERS & INSURANCE AGENT - MBINGA DC - SHOP STORE - [TFRA-4983-4994]"
+        },
+        {
+            "id": 8033,
+            "name": "MTEWELE GENERAL TRADERS - MADABA DC - SHOP STORE - [TFRA-4983-4995]"
+        },
+        {
+            "id": 8034,
+            "name": "MTEWELE GENERAL TRADERS - MBINGA TC - SHOP STORE - [TFRA-4983-4996]"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "imei_number": "",
+    "app_version_name": "",
+    "date": "",
+    "time": "",
+    "entity_id": 700,
+    "entry_type": "WAREHOUSE_RECEIPT",
+    "parent_entity_id": null,
+    "member_id": 1,
+    "origin_warehouse": 1,
+    "item_id": [
+        1,
+        8
+    ],
+    "quantity": [
+        50,
+        45
+    ],
+    "rate": [
+        12000,
+        15000
+    ],
+    "descriptions": "Duce Duce Duce"
+}

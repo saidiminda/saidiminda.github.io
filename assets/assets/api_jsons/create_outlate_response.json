@@ -1,0 +1,50 @@
+{
+    "state": "Done",
+    "title": "Successful",
+    "massage": "Record created successful",
+    "Object": {
+        "abbreviation": "SURFACE TEST OUTLET",
+        "trading_name": "SURFACE TEST OUTLET",
+        "name": "SURFACE TEST OUTLET",
+        "type": "INDIVIDUAL",
+        "tax_id": null,
+        "country_id": null,
+        "village_id": 2434,
+        "descriptions": null,
+        "user_id": "6473",
+        "is_active": "INACTIVE",
+        "avatar_url": null,
+        "geolocation_id": null,
+        "updated_at": "2023-08-21T08:02:01.000000Z",
+        "created_at": "2023-08-21T08:02:01.000000Z",
+        "id": 5257,
+        "tfra_identification_number": "4983-5257",
+        "village": {
+            "id": 2434,
+            "ward_id": 562,
+            "name": "KEKO \"B\" VILLAGE",
+            "post_code": null,
+            "description": null,
+            "slug": null,
+            "created_at": "2022-07-06T10:36:03.000000Z",
+            "updated_at": "2022-07-06T10:36:03.000000Z",
+            "deleted_at": null,
+            "ward": {
+                "id": 562,
+                "name": "KEKO WARD",
+                "code": null,
+                "district_id": 28,
+                "post_code": null,
+                "description": null,
+                "slug": null,
+                "created_at": "2022-07-06T10:36:03.000000Z",
+                "updated_at": "2022-07-06T10:36:03.000000Z",
+                "deleted_at": null
+            }
+        }
+    },
+    "default_credentials": {
+        "username": "tfra-4983-5257",
+        "password": "123456"
+    }
+}

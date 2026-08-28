@@ -1,0 +1,28 @@
+{
+    "imei_number":"",
+    "app_version_name":"",
+    "date":"",
+    "time":"",
+    "service_providers":{
+        "basic_informations":{
+            "id":1,
+            "trading_name":"MIKASA",
+            "sale_point_id":55,
+            "type":"INDIVIDUAL",
+            "region_id":1,
+            "district_id":1,
+            "ward_id":15
+        },
+        "contacts":{
+            "office_phone":"555566",
+            "office_email":"testmikasa@gmail.com",
+            "address":"MIKOCHENI B"
+        },
+
+        "geo_coordinates":{
+            "latitude": "4555.45",
+            "longitude":"44454.666"
+        }
+
+    }
+}

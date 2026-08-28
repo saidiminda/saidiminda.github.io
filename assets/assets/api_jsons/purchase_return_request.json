@@ -1,0 +1,24 @@
+{
+    "user_id": 69,
+    "device_id": "",
+    "warehouse_id": 47,
+    "description": "",
+    "misc": null,
+    "importer_id": null,
+    "userable_id": 67,
+    "imei_number": "",
+    "app_version_name": "1.4.11",
+    "date": "1/7/2025",
+    "time": "12:4",
+    "line_items": [
+        {
+            "item_id": 11,
+            "general_line_item_id": 780,
+            "quantity": 7,
+            "quantity_returned": 2,
+            "rate": 80000,
+            "selling_rate": 0,
+            "purchase_rate": 200000
+        }
+    ]
+}

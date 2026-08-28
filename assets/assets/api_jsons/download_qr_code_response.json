@@ -1,0 +1,53 @@
+{
+    "table_items": [
+        {
+            "reference": "1970/01/SREQ/19266",
+            "date": "01 Jan 1970",
+            "item_name": "UREA",
+            "quantity": "20 Bag",
+            "url": "http://196.192.77.33/ruzuku/qrcodes/67c47ea121496e24af06fe43052b004b/show"
+        },
+        {
+            "reference": "1970/01/SREQ/19266",
+            "date": "01 Jan 1970",
+            "item_name": "DAP",
+            "quantity": "20 Bag",
+            "url": "http://196.192.77.33/ruzuku/qrcodes/124f620d20ba8d902170cbc1b9ac660d/show"
+        },
+        {
+            "reference": "1970/01/SREQ/19268",
+            "date": "01 Jan 1970",
+            "item_name": "DAP",
+            "quantity": "20 Bag",
+            "url": "http://196.192.77.33/ruzuku/qrcodes/312426caf02f898f4ac1f20b2b2289f0/show"
+        },
+        {
+            "reference": "1970/01/SREQ/19270",
+            "date": "01 Jan 1970",
+            "item_name": "UREA",
+            "quantity": "23 Bag",
+            "url": "http://196.192.77.33/ruzuku/qrcodes/71994168e4322b6fba14eef1cfaee4e7/show"
+        },
+        {
+            "reference": "1970/01/SREQ/19270",
+            "date": "01 Jan 1970",
+            "item_name": "DAP",
+            "quantity": "34 Bag",
+            "url": "http://196.192.77.33/ruzuku/qrcodes/11dad6df90468b746e4cd8f1b4d99d5e/show"
+        },
+        {
+            "reference": "1970/01/SREQ/19271",
+            "date": "01 Jan 1970",
+            "item_name": "DAP",
+            "quantity": "23 Bag",
+            "url": "http://196.192.77.33/ruzuku/qrcodes/0edca3e90e1dce0cce015f2a554bb55e/show"
+        },
+        {
+            "reference": "1970/01/SREQ/19271",
+            "date": "01 Jan 1970",
+            "item_name": "MICROP PLANTING",
+            "quantity": "45 Bag",
+            "url": "http://196.192.77.33/ruzuku/qrcodes/85421ddb4af3807135be06e7cc8a5b4f/show"
+        }
+    ]
+}

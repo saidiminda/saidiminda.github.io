@@ -1,0 +1,94 @@
+{
+    "importers": [
+        {
+            "importer_id": 36,
+            "name": "YARA TANZANIA LIMITED",
+            "outlets": [
+                {
+                    "name": "MTEWELE GENERAL TRADERS-CHUNYA DC",
+                    "id": 4984,
+                    "reg_no": "TFRA-4983-4984",
+                    "total_cash": 0,
+                    "total_subsidy": 0,
+                    "total_sold_quantity": 0,
+                    "products": []
+                },
+                {
+                    "name": "MTEWELE GENERAL TRADERS - NJOME CBD DC",
+                    "id": 4985,
+                    "reg_no": "TFRA-4983-4985",
+                    "total_cash": 31423825.299999982,
+                    "total_credit": 31423825.299999982,
+                    "total_subsidy": 89340000,
+                    "total_sold_quantity": 1362,
+                    "products": [
+                        {
+                            "importer_name": "YARA TANZANIA LIMITED",
+                            "parent_entity_id": 36,
+                            "item_id": 198,
+                            "item_name": "YARAMILA - OTESHA - 50 KG",
+                            "sub_total_cash": 20412125,
+                            "sub_total_credit": 31423,
+                            "sold_quantity": 516,
+                            "sub_total_subsidy": 36120000
+                        },
+                        {
+                            "importer_name": "YARA TANZANIA LIMITED",
+                            "parent_entity_id": 36,
+                            "item_id": 190,
+                            "item_name": "CAN - 50 KG",
+                            "sub_total_cash": 4964826,
+                            "sub_total_credit": 31423,
+                            "sold_quantity": 600,
+                            "sub_total_subsidy": 36000000
+                        },
+                        {
+                            "importer_name": "YARA TANZANIA LIMITED",
+                            "parent_entity_id": 36,
+                            "item_id": 29,
+                            "item_name": "YARAMILA CEREAL - 50 KG",
+                            "sub_total_cash": 6007400,
+                            "sub_total_credit": 31423,
+                            "sold_quantity": 245,
+                            "sub_total_subsidy": 17150000
+                        },
+                        {
+                            "importer_name": "YARA TANZANIA LIMITED",
+                            "parent_entity_id": 36,
+                            "item_id": 27,
+                            "item_name": "YARAMILA WINNER - 50 KG",
+                            "sub_total_cash": 39475,
+                            "sub_total_credit": 31423,
+                            "sold_quantity": 1,
+                            "sub_total_subsidy": 70000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "importer_id": 42,
+            "name": "MOHAMMED ENTERPRISES TANZANIA LIMITED",
+            "outlets": [
+                {
+                    "name": "MTEWELE GENERAL TRADERS-CHUNYA DC",
+                    "id": 4984,
+                    "reg_no": "TFRA-4983-4984",
+                    "total_cash": 0,
+                    "total_subsidy": 0,
+                    "total_sold_quantity": 0,
+                    "products": []
+                },
+                {
+                    "name": "MTEWELE GENERAL TRADERS - NJOME CBD DC",
+                    "id": 4985,
+                    "reg_no": "TFRA-4983-4985",
+                    "total_cash": 0,
+                    "total_subsidy": 0,
+                    "total_sold_quantity": 0,
+                    "products": []
+                }
+            ]
+        }
+    ]
+}

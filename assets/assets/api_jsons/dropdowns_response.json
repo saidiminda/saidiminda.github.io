@@ -1,0 +1,365 @@
+{
+    "importers": [
+        {
+            "id": 36,
+            "name": "YARA TANZANIA LIMITED [TFRA-01]",
+            "distributors": []
+        },
+        {
+            "id": 37,
+            "name": "STACO AGROCHEM LTD [TFRA-02]",
+            "distributors": [
+                {
+                    "id": 7011,
+                    "name": "STACO MWANZA [TFRA-7011]"
+                }
+            ]
+        }
+    ],
+    "item_groups": [
+        {
+            "id": 1,
+            "name": "Seed",
+            "translate": {
+                "sw": "MAZAO YA BUSTANI",
+                "en": "Horticulture"
+            }
+        }
+    ],
+  "items": [
+        {
+            "id": 1555,
+            "name": "Mock Fertilizer",
+            "units": [
+                {
+                    "unit_of_measure_id": 20,
+                    "unit_name": "Bottle",
+                    "unit_abbreviation": "Btl",
+                    "is_default": true,
+                    "quantity": 100
+                },
+                {
+                    "unit_of_measure_id": 21,
+                    "unit_name": "Carton",
+                    "unit_abbreviation": "Ctn",
+                    "is_default": false,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1567,
+            "name": "Mock Seed Pack",
+            "units": [
+                {
+                    "unit_of_measure_id": 20,
+                    "unit_name": "Bottle",
+                    "unit_abbreviation": "Btl",
+                    "is_default": true,
+                    "quantity": 80
+                }
+            ]
+        },
+        {
+            "id": 1592,
+            "name": "Mock Single Product",
+            "quantity": 40,
+            "unit_of_measure_id": 20,
+            "unit_name": "Bottle",
+            "unit_abbreviation": "Btl",
+            "is_default": true
+        }
+    ],
+    "warehouses": [
+        {
+            "id": 37,
+            "name": "YARA TANZANIA LIMITED - KURASINI - WAREHOUSE - [TFRA-01]"
+        }
+        
+    ],
+    "main_warehouses": [
+        {
+            "id": 37,
+            "name": "YARA TANZANIA LIMITED - KURASINI - WAREHOUSE - [TFRA-01]"
+        },
+        {
+            "id": 61,
+            "name": "YARA MOROGORO WAREHOUSE - [TFRA-01]"
+        }
+    ],
+    "regions": [
+   
+        {
+            "id": 16,
+            "name": "TANGA",
+            "code": "26",
+            "districts": [
+             
+                {
+                    "id": 140,
+                    "name": "KILINDI DISTRICT COUNCIL",
+                    "code": 2,
+                    "wards": [
+                        {
+                            "id": 3433,
+                            "name": "SONGE WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3943,
+                                    "name": "SONGE "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3434,
+                            "name": "MVUNGWE WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3944,
+                                    "name": "MVUNGWE "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3435,
+                            "name": "KIBIRASHI WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3945,
+                                    "name": "KIBIRASHI "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3436,
+                            "name": "MASAGALU WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3946,
+                                    "name": "MASAGALU "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3437,
+                            "name": "KISANGASA WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3947,
+                                    "name": "KISANGASA "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3438,
+                            "name": "KWEDIBOMA WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3948,
+                                    "name": "KWEDIBOMA "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3439,
+                            "name": "KILWA WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3949,
+                                    "name": "KILWA "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3440,
+                            "name": "KWEKIVU WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3950,
+                                    "name": "KWEKIVU "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3441,
+                            "name": "KILINDI WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3951,
+                                    "name": "KILINDI "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3442,
+                            "name": "MSANJA WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3952,
+                                    "name": "MSANJA "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3443,
+                            "name": "MABALANGA WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3953,
+                                    "name": "MABALANGA "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3444,
+                            "name": "MKINDI WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3954,
+                                    "name": "MKINDI "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3445,
+                            "name": "JAILA WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3955,
+                                    "name": "JAILA "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3446,
+                            "name": "NEGERO WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3956,
+                                    "name": "NEGERO "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3447,
+                            "name": "KIMBE WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3957,
+                                    "name": "KIMBE "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3448,
+                            "name": "KIKUNDE WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3958,
+                                    "name": "KIKUNDE "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3449,
+                            "name": "TUNGULI WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3959,
+                                    "name": "TUNGULI "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3450,
+                            "name": "PAGWI WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3960,
+                                    "name": "PAGWI "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3451,
+                            "name": "SAUNYI WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3961,
+                                    "name": "SAUNYI "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3452,
+                            "name": "LWANDE WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3962,
+                                    "name": "LWANDE "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3453,
+                            "name": "BOKWA WARD",
+                            "code": null,
+                            "sale_points": [
+                                {
+                                    "id": 3963,
+                                    "name": "BOKWA "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+   
+    "own_warehouses": [
+        {
+            "id": 8021,
+            "name": "MTEWELE GENERAL TRADERS & INSURANCE AGENT - SHOP STORE",
+            "village_id": 10768,
+            "height": 15,
+            "width": 20,
+            "length": 130,
+            "geolocation_id": null,
+            "capacity": null,
+            "type": "collection",
+            "ownership": null,
+            "entity_warehouse": {
+                "id": 5554,
+                "entity_branch_id": 4944,
+                "warehouse_id": 8021
+            }
+        }
+    ],
+    "suppliers": [
+        {
+            "id": 681,
+            "name": "Duce Importer [KLMB-01681]"
+        }
+    ]
+}

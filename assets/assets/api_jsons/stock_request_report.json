@@ -1,0 +1,173 @@
+{
+    "code": 1,
+    "success": true,
+    "data": [
+        {
+            "id": 10,
+            "transfer_number": "2026/06/SREQ/0010",
+            "dealer": "New Agrimerchant",
+            "client": "Importer Two",
+            "source_warehouse": "IMPORTER TWO - MAIN WAREHOUSE",
+            "items_count": 1,
+            "total_quantity": 10,
+            "transfer": {
+                "transfer_number": "2026/06/SREQ/0010",
+                "date": "2026-06-15",
+                "source_warehouse": "IMPORTER TWO - MAIN WAREHOUSE",
+                "status": 2,
+                "status_text": "Delivered"
+            },
+            "items": [
+                {
+                    "item_id": 8,
+                    "item_name": "UREA",
+                    "ordered_qty": 10,
+                    "dispatched_qty": 10,
+                    "received_qty": 0,
+                    "remaining_qty": 0,
+                    "qty_received_to_date": 10,
+                    "unit": "Bag"
+                }
+            ],
+            "shipment": null
+        },
+        {
+            "id": 9,
+            "transfer_number": "2026/06/SREQ/0009",
+            "dealer": "New Agrimerchant",
+            "client": "Importer Two",
+            "source_warehouse": "IMPORTER TWO - MAIN WAREHOUSE",
+            "items_count": 2,
+            "total_quantity": 35,
+            "transfer": {
+                "transfer_number": "2026/06/SREQ/0009",
+                "date": "2026-06-12",
+                "source_warehouse": "IMPORTER TWO - MAIN WAREHOUSE",
+                "status": 8,
+                "status_text": "Partially Received"
+            },
+            "items": [
+                {
+                    "item_id": 8,
+                    "item_name": "UREA",
+                    "ordered_qty": 20,
+                    "dispatched_qty": 20,
+                    "received_qty": 0,
+                    "remaining_qty": 0,
+                    "qty_received_to_date": 20,
+                    "unit": "Bag"
+                },
+                {
+                    "item_id": 11,
+                    "item_name": "DAP",
+                    "ordered_qty": 15,
+                    "dispatched_qty": 15,
+                    "received_qty": 3,
+                    "remaining_qty": 3,
+                    "qty_received_to_date": 12,
+                    "unit": "Bag"
+                }
+            ],
+            "shipment": {
+                "id": 5,
+                "vendor_name": "Test Vendor",
+                "truck_number": "T001",
+                "driver_name": "John Doe",
+                "driver_phone": "0786123123",
+                "status": "received",
+                "dispatch_time": "2026-06-15 13:34:57",
+                "items": [
+                    {
+                        "item_id": 8,
+                        "item_name": "UREA",
+                        "ordered_qty": 20,
+                        "dispatched_qty": 10,
+                        "received_qty": 0,
+                        "remaining_qty": 0,
+                        "qty_received_to_date": 20,
+                        "unit": "Bag"
+                    },
+                    {
+                        "item_id": 11,
+                        "item_name": "DAP",
+                        "ordered_qty": 15,
+                        "dispatched_qty": 7,
+                        "received_qty": 0,
+                        "remaining_qty": 3,
+                        "qty_received_to_date": 12,
+                        "unit": "Bag"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "transfer_number": "2026/06/SREQ/0006",
+            "dealer": "New Agrimerchant",
+            "client": "Importer Two",
+            "source_warehouse": "IMPORTER TWO - MAIN WAREHOUSE",
+            "items_count": 2,
+            "total_quantity": 20,
+            "transfer": {
+                "transfer_number": "2026/06/SREQ/0006",
+                "date": "2026-06-10",
+                "source_warehouse": "IMPORTER TWO - MAIN WAREHOUSE",
+                "status": 2,
+                "status_text": "Delivered"
+            },
+            "items": [
+                {
+                    "item_id": 8,
+                    "item_name": "UREA",
+                    "ordered_qty": 10,
+                    "dispatched_qty": 4,
+                    "received_qty": 4,
+                    "remaining_qty": 10,
+                    "qty_received_to_date": 0,
+                    "unit": "Bag"
+                },
+                {
+                    "item_id": 11,
+                    "item_name": "DAP",
+                    "ordered_qty": 10,
+                    "dispatched_qty": 3,
+                    "received_qty": 3,
+                    "remaining_qty": 10,
+                    "qty_received_to_date": 0,
+                    "unit": "Bag"
+                }
+            ],
+            "shipment": {
+                "id": 3,
+                "vendor_name": "Test Vendor",
+                "truck_number": "T001",
+                "driver_name": "John Doe",
+                "driver_phone": "0786123123",
+                "status": "dispatched",
+                "dispatch_time": "2026-06-11 10:06:25",
+                "items": [
+                    {
+                        "item_id": 8,
+                        "item_name": "UREA",
+                        "ordered_qty": 10,
+                        "dispatched_qty": 4,
+                        "received_qty": 4,
+                        "remaining_qty": 10,
+                        "qty_received_to_date": 0,
+                        "unit": "Bag"
+                    },
+                    {
+                        "item_id": 11,
+                        "item_name": "DAP",
+                        "ordered_qty": 10,
+                        "dispatched_qty": 3,
+                        "received_qty": 3,
+                        "remaining_qty": 10,
+                        "qty_received_to_date": 0,
+                        "unit": "Bag"
+                    }
+                ]
+            }
+        }
+    ]
+}

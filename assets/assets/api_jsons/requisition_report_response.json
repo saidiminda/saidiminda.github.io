@@ -1,0 +1,505 @@
+{
+    "importers": [
+        {
+            "id": 36,
+            "name": "YARA TANZANIA LIMITED",
+            "warehouses": [
+                {
+                    "id": 8021,
+                    "name": "MTEWELE GENERAL TRADERS & INSURANCE AGENT - SHOP STORE",
+                    "requisitions": [
+                        {
+                            "id": 29665,
+                            "client_id": 36,
+                            "parent_entity_id": 36,
+                            "descriptions": "STOCK REQUISITION",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-23",
+                            "client": "YARA TANZANIA LIMITED [01]",
+                            "reference": "2023/08/SREQ/29665",
+                            "quantity": 78,
+                            "editable": false,
+                            "status_label": "RECEIVED",
+                            "items": [
+                                {
+                                    "item_name": "YARAMILA - OTESHA - 50 KG",
+                                    "purchase_order_id": 29665,
+                                    "quantity": 78,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 198,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": 28691,
+                            "client_id": 36,
+                            "parent_entity_id": 36,
+                            "descriptions": "STOCK REQUISITION",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-19",
+                            "client": "YARA TANZANIA LIMITED [01]",
+                            "reference": "2023/08/SREQ/28691",
+                            "quantity": 197,
+                            "editable": false,
+                            "status_label": "RECEIVED",
+                            "items": [
+                                {
+                                    "item_name": "YARAMILA CEREAL - 50 KG",
+                                    "purchase_order_id": 28691,
+                                    "quantity": 197,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 29,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": 26707,
+                            "client_id": 36,
+                            "parent_entity_id": 36,
+                            "descriptions": "CALCULATED CARRIED OVER BALANCE FROM PREVIOUS RUZUKU YEAR",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-10",
+                            "client": "YARA TANZANIA LIMITED [01]",
+                            "reference": "2023/08/SREQ/26707",
+                            "quantity": 107,
+                            "editable": false,
+                            "status_label": null,
+                            "items": [
+                                {
+                                    "item_name": "YARAMILA WINNER - 25 KG",
+                                    "purchase_order_id": 26707,
+                                    "quantity": 4,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 28,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "YARAMILA - OTESHA - 25 KG",
+                                    "purchase_order_id": 26707,
+                                    "quantity": 1,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 199,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "JAVA - 50 KG",
+                                    "purchase_order_id": 26707,
+                                    "quantity": 102,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 208,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": 26706,
+                            "client_id": 36,
+                            "parent_entity_id": 36,
+                            "descriptions": "CALCULATED CARRIED OVER BALANCE FROM PREVIOUS RUZUKU YEAR",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-10",
+                            "client": "YARA TANZANIA LIMITED [01]",
+                            "reference": "2023/08/SREQ/26706",
+                            "quantity": 5638,
+                            "editable": false,
+                            "status_label": null,
+                            "items": [
+                                {
+                                    "item_name": "CAN - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 793,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 190,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "MICROP PLANTING - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 1013,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 14,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "YARAMILA - OTESHA - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 522,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 198,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "MICROP TOP DRESSING - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 458,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 206,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "MICROP MBOGA - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 824,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 202,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "YARABELA SULFAN - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 440,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 66,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "YARAMILA AMIDAS - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 1364,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 31,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "YARAMILA CEREAL - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 203,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 29,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "YARAMILA WINNER - 50 KG",
+                                    "purchase_order_id": 26706,
+                                    "quantity": 21,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 27,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "MOHAMMED ENTERPRISES TANZANIA LIMITED",
+            "warehouses": [
+                {
+                    "id": 8021,
+                    "name": "MTEWELE GENERAL TRADERS & INSURANCE AGENT - SHOP STORE",
+                    "requisitions": [
+                        {
+                            "id": 26708,
+                            "client_id": 42,
+                            "parent_entity_id": 42,
+                            "descriptions": "CALCULATED CARRIED OVER BALANCE FROM PREVIOUS RUZUKU YEAR",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-10",
+                            "client": "MOHAMMED ENTERPRISES TANZANIA LIMITED [05]",
+                            "reference": "2023/08/SREQ/26708",
+                            "quantity": 103,
+                            "editable": false,
+                            "status_label": null,
+                            "items": [
+                                {
+                                    "item_name": "UREA - 50 KG",
+                                    "purchase_order_id": 26708,
+                                    "quantity": 57,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 8,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "CAN - 50 KG",
+                                    "purchase_order_id": 26708,
+                                    "quantity": 45,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 190,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "SA - 50 KG",
+                                    "purchase_order_id": 26708,
+                                    "quantity": 1,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 214,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "STACO AGROCHEM LTD",
+            "warehouses": [
+                {
+                    "id": 8021,
+                    "name": "MTEWELE GENERAL TRADERS & INSURANCE AGENT - SHOP STORE",
+                    "requisitions": [
+                        {
+                            "id": 27621,
+                            "client_id": 37,
+                            "parent_entity_id": 37,
+                            "descriptions": "STOCK REQUISITION",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-14",
+                            "client": "STACO AGROCHEM LTD [02]",
+                            "reference": "2023/08/SREQ/27621",
+                            "quantity": 10,
+                            "editable": false,
+                            "status_label": "RECEIVED",
+                            "items": [
+                                {
+                                    "item_name": "SA - 50 KG",
+                                    "purchase_order_id": 27621,
+                                    "quantity": 10,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 214,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": 26709,
+                            "client_id": 37,
+                            "parent_entity_id": 37,
+                            "descriptions": "CALCULATED CARRIED OVER BALANCE FROM PREVIOUS RUZUKU YEAR",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-10",
+                            "client": "STACO AGROCHEM LTD [02]",
+                            "reference": "2023/08/SREQ/26709",
+                            "quantity": 159,
+                            "editable": false,
+                            "status_label": null,
+                            "items": [
+                                {
+                                    "item_name": "SA - 50 KG",
+                                    "purchase_order_id": 26709,
+                                    "quantity": 155,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 214,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "CAN - 50 KG",
+                                    "purchase_order_id": 26709,
+                                    "quantity": 4,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 190,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "PREMIUM AGRO CHEM LTD",
+            "warehouses": [
+                {
+                    "id": 8021,
+                    "name": "MTEWELE GENERAL TRADERS & INSURANCE AGENT - SHOP STORE",
+                    "requisitions": [
+                        {
+                            "id": 26710,
+                            "client_id": 51,
+                            "parent_entity_id": 51,
+                            "descriptions": "CALCULATED CARRIED OVER BALANCE FROM PREVIOUS RUZUKU YEAR",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-10",
+                            "client": "PREMIUM AGRO CHEM LTD [11]",
+                            "reference": "2023/08/SREQ/26710",
+                            "quantity": 4761,
+                            "editable": false,
+                            "status_label": null,
+                            "items": [
+                                {
+                                    "item_name": "DAP - 50 KG",
+                                    "purchase_order_id": 26710,
+                                    "quantity": 290,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 11,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "CAN - 50 KG",
+                                    "purchase_order_id": 26710,
+                                    "quantity": 1183,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 190,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "SA - 50 KG",
+                                    "purchase_order_id": 26710,
+                                    "quantity": 953,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 214,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "UREA - 50 KG",
+                                    "purchase_order_id": 26710,
+                                    "quantity": 2335,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 8,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "OCP TANZANIA LIMITED",
+            "warehouses": [
+                {
+                    "id": 8021,
+                    "name": "MTEWELE GENERAL TRADERS & INSURANCE AGENT - SHOP STORE",
+                    "requisitions": [
+                        {
+                            "id": 26711,
+                            "client_id": 101,
+                            "parent_entity_id": 101,
+                            "descriptions": "CALCULATED CARRIED OVER BALANCE FROM PREVIOUS RUZUKU YEAR",
+                            "warehouse_id": 8021,
+                            "date": "2023-08-10",
+                            "client": "OCP TANZANIA LIMITED [15]",
+                            "reference": "2023/08/SREQ/26711",
+                            "quantity": 6152,
+                            "editable": false,
+                            "status_label": null,
+                            "items": [
+                                {
+                                    "item_name": "DAP - 50 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 5051,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 11,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "NPSzn - 50 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 264,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 55,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "CAN - 50 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 598,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 190,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "SA - 50 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 53,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 214,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "NPSB - 50 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 44,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 72,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "CAN - 25 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 19,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 191,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "DAP - 25 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 12,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 221,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "SA - 25 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 2,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 215,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "NPK - 50 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 103,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 200,
+                                    "unit_id": 2,
+                                    "price": 0
+                                },
+                                {
+                                    "item_name": "UREA - 50 KG",
+                                    "purchase_order_id": 26711,
+                                    "quantity": 6,
+                                    "vat": "EXEMPTED",
+                                    "item_id": 8,
+                                    "unit_id": 2,
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "code": 1,
+    "success": true,
+    "data": {
+        "entity_id": 223,
+        "entity_name": "Blue Kenshi",
+        "total_groups": 4,
+        "total_items": 5,
+        "total_stock_value": 3510000,
+        "groups": [
+            {
+                "group_id": 19,
+                "group_name": "Agricultural Inputs",
+                "translate": {
+                    "en": "Agricultural Inputs",
+                    "sw": "Pembejeo za Kilimo"
+                },
+                "total_items": 5,
+                "total_quantity": 840,
+                "total_value": 3510000,
+                "items": [
+                    {
+                        "item_id": 1586,
+                        "item_name": "UREA Fertilizer - Premium Grade",
+                        "item_code": null,
+                        "description": null,
+                        "sub_group_id": 2,
+                        "sub_group_name": "Fertilizer",
+                        "unit_of_measure": "Kilogram",
+                        "unit_abbreviation": "Kg",
+                        "quantity": 0,
+                        "received": 0,
+                        "sold": 0,
+                        "transferred": 0,
+                        "units": [
+                            {
+                                "unit_of_measure_id": 3,
+                                "unit_name": "Kilogram",
+                                "unit_abbreviation": "Kg",
+                                "conversion_factor": 1,
+                                "purchasing_price": 2200,
+                                "selling_price": 3200,
+                                "is_default": 1
+                            },
+                            {
+                                "unit_of_measure_id": 9,
+                                "unit_name": "50 Kg bag",
+                                "unit_abbreviation": "50 Kg bag",
+                                "conversion_factor": 50,
+                                "purchasing_price": 105000,
+                                "selling_price": 155000,
+                                "is_default": 0
+                            }
+                        ],
+                        "purchasing_price": "2200.00",
+                        "selling_price": "3200.00",
+                        "discounted_price": null,
+                        "discount_percentage": null,
+                        "has_expiry": false,
+                        "created_at": "2026-08-17 12:46:39"
+                    },
+                    {
+                        "item_id": 1587,
+                        "item_name": "DAP Fertilizer",
+                        "item_code": null,
+                        "description": null,
+                        "sub_group_id": 2,
+                        "sub_group_name": "Fertilizer",
+                        "unit_of_measure": "Kilogram",
+                        "unit_abbreviation": "Kg",
+                        "quantity": 0,
+                        "received": 0,
+                        "sold": 0,
+                        "transferred": 0,
+                        "units": [
+                            {
+                                "unit_of_measure_id": 3,
+                                "unit_name": "Kilogram",
+                                "unit_abbreviation": "Kg",
+                                "conversion_factor": 1,
+                                "purchasing_price": 2500,
+                                "selling_price": 3500,
+                                "is_default": 1
+                            },
+                            {
+                                "unit_of_measure_id": 9,
+                                "unit_name": "50 Kg bag",
+                                "unit_abbreviation": "50 Kg bag",
+                                "conversion_factor": 50,
+                                "purchasing_price": 120000,
+                                "selling_price": 165000,
+                                "is_default": 0
+                            },
+                            {
+                                "unit_of_measure_id": 10,
+                                "unit_name": "25 Kg bag",
+                                "unit_abbreviation": "25 Kg bag",
+                                "conversion_factor": 25,
+                                "purchasing_price": 60000,
+                                "selling_price": 85000,
+                                "is_default": 0
+                            }
+                        ],
+                        "purchasing_price": "2500.00",
+                        "selling_price": "3500.00",
+                        "discounted_price": null,
+                        "discount_percentage": null,
+                        "has_expiry": false,
+                        "created_at": "2026-08-17 12:48:34"
+                    },
+                    {
+                        "item_id": 1588,
+                        "item_name": "Maize Seed Hybrid",
+                        "item_code": null,
+                        "description": null,
+                        "sub_group_id": 1,
+                        "sub_group_name": "Seed",
+                        "unit_of_measure": "Kilogram",
+                        "unit_abbreviation": "Kg",
+                        "quantity": 500,
+                        "received": 500,
+                        "sold": 0,
+                        "transferred": 0,
+                        "units": [
+                            {
+                                "unit_of_measure_id": 3,
+                                "unit_name": "Kilogram",
+                                "unit_abbreviation": "Kg",
+                                "conversion_factor": 1,
+                                "purchasing_price": 4000,
+                                "selling_price": 6000,
+                                "is_default": 1
+                            }
+                        ],
+                        "purchasing_price": "4000.00",
+                        "selling_price": "6000.00",
+                        "discounted_price": null,
+                        "discount_percentage": null,
+                        "has_expiry": false,
+                        "created_at": "2026-08-17 12:51:04"
+                    },
+                    {
+                        "item_id": 1589,
+                        "item_name": "Liquid Pesticide XYZ",
+                        "item_code": null,
+                        "description": null,
+                        "sub_group_id": 3,
+                        "sub_group_name": "Pesticide",
+                        "unit_of_measure": "Liter",
+                        "unit_abbreviation": "Ltr",
+                        "quantity": 340,
+                        "received": 340,
+                        "sold": 0,
+                        "transferred": 0,
+                        "units": [
+                            {
+                                "unit_of_measure_id": 4,
+                                "unit_name": "Liter",
+                                "unit_abbreviation": "Ltr",
+                                "conversion_factor": 1,
+                                "purchasing_price": 1000,
+                                "selling_price": 1500,
+                                "is_default": 1
+                            },
+                            {
+                                "unit_of_measure_id": 14,
+                                "unit_name": "1 Ltr Can",
+                                "unit_abbreviation": "1Ltr Can",
+                                "conversion_factor": 1,
+                                "purchasing_price": 1000,
+                                "selling_price": 1500,
+                                "is_default": 0
+                            },
+                            {
+                                "unit_of_measure_id": 16,
+                                "unit_name": "5 Ltrs Can",
+                                "unit_abbreviation": "5 Ltrs Can",
+                                "conversion_factor": 5,
+                                "purchasing_price": 4500,
+                                "selling_price": 7000,
+                                "is_default": 0
+                            },
+                            {
+                                "unit_of_measure_id": 17,
+                                "unit_name": "20 Ltrs Can",
+                                "unit_abbreviation": "20 Ltrs Ca",
+                                "conversion_factor": 20,
+                                "purchasing_price": 18000,
+                                "selling_price": 28000,
+                                "is_default": 0
+                            }
+                        ],
+                        "purchasing_price": "1000.00",
+                        "selling_price": "1500.00",
+                        "discounted_price": null,
+                        "discount_percentage": null,
+                        "has_expiry": true,
+                        "created_at": "2026-08-17 12:52:29"
+                    },
+                    {
+                        "item_id": 1590,
+                        "item_name": "CAN Fertilizer (Tracked by Bag)",
+                        "item_code": null,
+                        "description": null,
+                        "sub_group_id": 2,
+                        "sub_group_name": "Fertilizer",
+                        "unit_of_measure": "50 Kg bag",
+                        "unit_abbreviation": "50 Kg bag",
+                        "quantity": 0,
+                        "received": 0,
+                        "sold": 0,
+                        "transferred": 0,
+                        "units": [
+                            {
+                                "unit_of_measure_id": 9,
+                                "unit_name": "50 Kg bag",
+                                "unit_abbreviation": "50 Kg bag",
+                                "conversion_factor": 1,
+                                "purchasing_price": 90000,
+                                "selling_price": 130000,
+                                "is_default": 1
+                            },
+                            {
+                                "unit_of_measure_id": 3,
+                                "unit_name": "Kilogram",
+                                "unit_abbreviation": "Kg",
+                                "conversion_factor": 0.02,
+                                "purchasing_price": 1800,
+                                "selling_price": 2600,
+                                "is_default": 0
+                            }
+                        ],
+                        "purchasing_price": "90000.00",
+                        "selling_price": "130000.00",
+                        "discounted_price": null,
+                        "discount_percentage": null,
+                        "has_expiry": false,
+                        "created_at": "2026-08-17 12:54:32"
+                    }
+                ]
+            },
+            {
+                "group_id": 20,
+                "group_name": "Crops",
+                "translate": {
+                    "en": "Crops",
+                    "sw": "Mazao"
+                },
+                "total_items": 0,
+                "total_quantity": 0,
+                "total_value": 0,
+                "items": []
+            },
+            {
+                "group_id": 21,
+                "group_name": "Other Products",
+                "translate": {
+                    "en": "Other Products",
+                    "sw": "Bidhaa Nyinginezo"
+                },
+                "total_items": 0,
+                "total_quantity": 0,
+                "total_value": 0,
+                "items": []
+            },
+            {
+                "group_id": 22,
+                "group_name": "Motor Vehicles",
+                "translate": {
+                    "en": "Motor Vehicles",
+                    "sw": "Vyombo vya Moto"
+                },
+                "total_items": 0,
+                "total_quantity": 0,
+                "total_value": 0,
+                "items": []
+            }
+        ]
+    }
+}

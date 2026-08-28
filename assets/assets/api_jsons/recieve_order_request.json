@@ -1,0 +1,44 @@
+{
+    "user_id":"",
+    "imei_number":"",
+    "app_version_name":"",
+    "date":"",
+    "time":"",
+    "userable_id": "116",
+    "purchase_order_id":0,
+    "origin_warehouse":0,
+    "order_items": [
+        {
+            "id": 30966,
+            "purchase_order_id": 19206,
+            "quantity": 10,
+            "tonnage": 0.5,
+            "unit_of_measure_id": 2,
+            "unit_of_measure": "Bag",
+            "vat": "EXEMPTED",
+            "item_id": 190,
+            "item_name": "CAN 50KG",
+            "type": "input",
+            "std_unit_app": 50,
+            "pacakage_weight": 50,
+            "price": 82727,
+            "subsidy_percentage": 60000
+        },
+        {
+            "id": 30967,
+            "purchase_order_id": 19206,
+            "quantity": 10,
+            "tonnage": 0.5,
+            "unit_of_measure_id": 2,
+            "unit_of_measure": "Bag",
+            "vat": "EXEMPTED",
+            "item_id": 11,
+            "item_name": "DAP 50KG",
+            "type": "input",
+            "std_unit_app": 50,
+            "pacakage_weight": 50,
+            "price": 110182,
+            "subsidy_percentage": 70000
+        }
+    ]
+}

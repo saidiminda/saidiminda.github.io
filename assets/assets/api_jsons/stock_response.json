@@ -1,0 +1,90 @@
+{
+    "state": "Done",
+    "title": "Success",
+    "code": 1,
+    "warehouses": [
+        {
+            "name": "BEKUBE INPUTS TZ LIMITED - SHOP STORE",
+            "id": 4,
+            "current_stock": [
+                {
+                    "parent_entity_name": "MALUME IMPORTS (T) LTD",
+                    "parent_entity_id": 3,
+                    "item_id": 8,
+                    "pod_id": 1,
+                    "item_name": "UREA 50 KG",
+                    "quantity": 15,
+                    "quantity_in_bulk": 15,
+                    "transferred_quantity": 0,
+                    "transferred_in_bulk": 0,
+                    "sold_quantity": 0,
+                    "sold_in_bulk": 0,
+                    "unit_of_measure_id": 2,
+                    "unit_of_measure": "Bag",
+                    "vat": "",
+                    "type": "input",
+                    "std_unit_app": 100,
+                    "pacakage_weight": 50,
+                    "price": 56000
+                },
+                {
+                    "parent_entity_name": "MALUME IMPORTS (T) LTD",
+                    "parent_entity_id": 3,
+                    "item_id": 11,
+                    "item_name": "DAP 50 KG",
+                    "quantity": 20,
+                    "quantity_in_bulk": 20,
+                    "transferred_quantity": 0,
+                    "transferred_in_bulk": 0,
+                    "sold_quantity": 0,
+                    "sold_in_bulk": 0,
+                    "unit_of_measure_id": 2,
+                    "unit_of_measure": "Bag",
+                    "vat": "",
+                    "type": "input",
+                    "std_unit_app": 100,
+                    "pacakage_weight": 50,
+                    "price": 56000
+                },
+                {
+                    "parent_entity_name": null,
+                    "parent_entity_id": null,
+                    "item_id": 8,
+                    "item_name": "UREA 50 KG",
+                    "quantity": 30,
+                    "quantity_in_bulk": 30,
+                    "transferred_quantity": 0,
+                    "transferred_in_bulk": 0,
+                    "sold_quantity": 0,
+                    "sold_in_bulk": 0,
+                    "unit_of_measure_id": 2,
+                    "unit_of_measure": "Bag",
+                    "vat": "",
+                    "type": "input",
+                    "std_unit_app": 100,
+                    "pacakage_weight": 50,
+                    "price": 56000
+                },
+                {
+                    "parent_entity_name": null,
+                    "parent_entity_id": null,
+                    "item_id": 11,
+                    "item_name": "DAP 50 KG",
+                    "quantity": 40,
+                    "quantity_in_bulk": 40,
+                    "transferred_quantity": 0,
+                    "transferred_in_bulk": 0,
+                    "sold_quantity": 0,
+                    "sold_in_bulk": 0,
+                    "unit_of_measure_id": 2,
+                    "unit_of_measure": "Bag",
+                    "vat": "",
+                    "type": "input",
+                    "std_unit_app": 100,
+                    "pacakage_weight": 50,
+                    "price": 56000
+                }
+            ]
+        }
+    ]
+}

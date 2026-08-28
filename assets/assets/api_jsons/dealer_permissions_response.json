@@ -1,0 +1,347 @@
+{
+    "code": 1,
+    "state": "success",
+    "message": "Dealer permissions fetched successfully",
+    "data": [
+        {
+            "id": 19,
+            "name": "agriMerchants.sales"
+        },
+        {
+            "id": 20,
+            "name": "agriMerchants.view.total.cash.sales"
+        },
+        {
+            "id": 21,
+            "name": "agriMerchants.view.total.credit.sales"
+        },
+        {
+            "id": 22,
+            "name": "agriMerchants.view.total.sales"
+        },
+        {
+            "id": 23,
+            "name": "agriMerchants.view.stock.value"
+        },
+        {
+            "id": 24,
+            "name": "agriMerchants.cash.sales"
+        },
+        {
+            "id": 25,
+            "name": "agriMerchants.credit.sales"
+        },
+        {
+            "id": 26,
+            "name": "agriMerchants.customer.orders"
+        },
+        {
+            "id": 27,
+            "name": "agriMerchants.outlet.management"
+        },
+        {
+            "id": 28,
+            "name": "agriMerchants.shopping"
+        },
+        {
+            "id": 29,
+            "name": "agriMerchants.cash.purchases"
+        },
+        {
+            "id": 30,
+            "name": "agriMerchants.credit.purchases"
+        },
+        {
+            "id": 31,
+            "name": "agriMerchants.requesitions"
+        },
+        {
+            "id": 32,
+            "name": "agriMerchants.product.and.stock"
+        },
+        {
+            "id": 33,
+            "name": "agriMerchants.product.management"
+        },
+        {
+            "id": 34,
+            "name": "agriMerchants.stock.management"
+        },
+        {
+            "id": 35,
+            "name": "agriMerchants.expenditure"
+        },
+        {
+            "id": 36,
+            "name": "agriMerchants.markets.management"
+        },
+        {
+            "id": 37,
+            "name": "agriMerchants.collect.crops"
+        },
+        {
+            "id": 38,
+            "name": "agriMerchants.warehouses.management"
+        },
+        {
+            "id": 40,
+            "name": "view sidebar"
+        },
+        {
+            "id": 41,
+            "name": "view dashboard"
+        },
+        {
+            "id": 42,
+            "name": "view user management"
+        },
+        {
+            "id": 43,
+            "name": "view location management"
+        },
+        {
+            "id": 44,
+            "name": "view warehouses"
+        },
+        {
+            "id": 45,
+            "name": "view item setup"
+        },
+        {
+            "id": 46,
+            "name": "view service providers"
+        },
+        {
+            "id": 47,
+            "name": "view reports"
+        },
+        {
+            "id": 48,
+            "name": "view products"
+        },
+        {
+            "id": 49,
+            "name": "view partners"
+        },
+        {
+            "id": 50,
+            "name": "view user"
+        },
+        {
+            "id": 51,
+            "name": "create user"
+        },
+        {
+            "id": 52,
+            "name": "update user"
+        },
+        {
+            "id": 53,
+            "name": "delete user"
+        },
+        {
+            "id": 54,
+            "name": "view all users"
+        },
+        {
+            "id": 55,
+            "name": "view locations"
+        },
+        {
+            "id": 56,
+            "name": "create locations"
+        },
+        {
+            "id": 57,
+            "name": "update locations"
+        },
+        {
+            "id": 58,
+            "name": "delete locations"
+        },
+        {
+            "id": 59,
+            "name": "view all locations"
+        },
+        {
+            "id": 60,
+            "name": "create warehouse"
+        },
+        {
+            "id": 61,
+            "name": "update warehouse"
+        },
+        {
+            "id": 62,
+            "name": "delete warehouse"
+        },
+        {
+            "id": 63,
+            "name": "view all warehouse"
+        },
+        {
+            "id": 64,
+            "name": "view  warehouse"
+        },
+        {
+            "id": 65,
+            "name": "create item"
+        },
+        {
+            "id": 66,
+            "name": "update item"
+        },
+        {
+            "id": 67,
+            "name": "delete item"
+        },
+        {
+            "id": 68,
+            "name": "view all items"
+        },
+        {
+            "id": 69,
+            "name": "view item"
+        },
+        {
+            "id": 70,
+            "name": "view attributes"
+        },
+        {
+            "id": 71,
+            "name": "view values"
+        },
+        {
+            "id": 72,
+            "name": "view groups"
+        },
+        {
+            "id": 73,
+            "name": "view conversion"
+        },
+        {
+            "id": 74,
+            "name": "create price"
+        },
+        {
+            "id": 75,
+            "name": "active price"
+        },
+        {
+            "id": 76,
+            "name": "import price"
+        },
+        {
+            "id": 77,
+            "name": "export price"
+        },
+        {
+            "id": 78,
+            "name": "create entity"
+        },
+        {
+            "id": 79,
+            "name": "update entity"
+        },
+        {
+            "id": 80,
+            "name": "delete entity"
+        },
+        {
+            "id": 81,
+            "name": "view all entity"
+        },
+        {
+            "id": 82,
+            "name": "view entity"
+        },
+        {
+            "id": 83,
+            "name": "create report"
+        },
+        {
+            "id": 84,
+            "name": "update report"
+        },
+        {
+            "id": 85,
+            "name": "delete report"
+        },
+        {
+            "id": 86,
+            "name": "view all report"
+        },
+        {
+            "id": 87,
+            "name": "view report"
+        },
+        {
+            "id": 88,
+            "name": "view profiling dashboard"
+        },
+        {
+            "id": 89,
+            "name": "view profiling report"
+        },
+        {
+            "id": 90,
+            "name": "create requisitions"
+        },
+        {
+            "id": 91,
+            "name": "update requisitions"
+        },
+        {
+            "id": 92,
+            "name": "delete requisitions"
+        },
+        {
+            "id": 93,
+            "name": "view all requisitions"
+        },
+        {
+            "id": 94,
+            "name": "view requisitions"
+        },
+        {
+            "id": 95,
+            "name": "create product"
+        },
+        {
+            "id": 96,
+            "name": "update product"
+        },
+        {
+            "id": 97,
+            "name": "delete product"
+        },
+        {
+            "id": 98,
+            "name": "view all product"
+        },
+        {
+            "id": 99,
+            "name": "view product"
+        },
+        {
+            "id": 100,
+            "name": "create partner"
+        },
+        {
+            "id": 101,
+            "name": "update partner"
+        },
+        {
+            "id": 102,
+            "name": "delete partner"
+        },
+        {
+            "id": 103,
+            "name": "view all partner"
+        },
+        {
+            "id": 104,
+            "name": "view partner"
+        }
+    ]
+}

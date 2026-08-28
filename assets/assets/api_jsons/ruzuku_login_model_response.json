@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "token": "",
+    "code": 1,
+    "message": "Login successful",
+    "data": {
+        "user": {
+            "id": 447,
+            "has_tfra": true,
+            "full_name": "MATAMBA 11 CO.LTD - DEFAULT USER",
+            "username": "tfra-15-018",
+            "tfra_number": "tfra-15-018",
+            "phone": "674416665",
+            "email": "mecompanyltd@gmail.com",
+            "user_type": "agrodealer",
+            "userable_id": 219
+        }
+    }
+}

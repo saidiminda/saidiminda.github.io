@@ -1,0 +1,812 @@
+
+{
+    "code": 200,
+    "status": "success",
+    "message": "Expense report fetched successfully",
+    "data": {
+        "filter": "2026-01-01 to 2026-12-31",
+        "year": 2026,
+        "summary": {
+            "total_transactions": 36,
+            "total_expenses": "8,440,000",
+            "total_balance": "85,500,000",
+            "bank_transactions": 12,
+            "mobile_money_transactions": 12,
+            "cash_transactions": 12
+        },
+        "transactions": [
+            {
+                "id": 470,
+                "transaction_number": "EXP-172-470",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — Airtel Money",
+                "account_provider": "Airtel Money",
+                "account_number": "0782333444",
+                "description": "Mobile top-up",
+                "paid_amount": "70,000",
+                "items": [
+                    {
+                        "description": "Mobile credit",
+                        "amount": "45,000"
+                    },
+                    {
+                        "description": "Activation fee",
+                        "amount": "25,000"
+                    }
+                ]
+            },
+            {
+                "id": 474,
+                "transaction_number": "EXP-172-474",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Office Cash Float",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-A",
+                "description": "Tea and snacks",
+                "paid_amount": "50,000",
+                "items": [
+                    {
+                        "description": "Tea and milk",
+                        "amount": "30,000"
+                    },
+                    {
+                        "description": "Sugar and biscuits",
+                        "amount": "20,000"
+                    }
+                ]
+            },
+            {
+                "id": 450,
+                "transaction_number": "EXP-172-450",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — CRDB Current Account",
+                "account_provider": "CRDB Bank",
+                "account_number": "ACC-BANK-172-A",
+                "description": "Office supplies purchase",
+                "paid_amount": "100,000",
+                "items": [
+                    {
+                        "description": "A4 paper",
+                        "amount": "60,000"
+                    },
+                    {
+                        "description": "Pens and folders",
+                        "amount": "40,000"
+                    }
+                ]
+            },
+            {
+                "id": 454,
+                "transaction_number": "EXP-172-454",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — NMB Savings Account",
+                "account_provider": "NMB Bank",
+                "account_number": "ACC-BANK-172-B",
+                "description": "Stationery purchase",
+                "paid_amount": "150,000",
+                "items": [
+                    {
+                        "description": "Notebooks",
+                        "amount": "90,000"
+                    },
+                    {
+                        "description": "Markers",
+                        "amount": "60,000"
+                    }
+                ]
+            },
+            {
+                "id": 482,
+                "transaction_number": "EXP-172-482",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Field Operations Cash",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-C",
+                "description": "Field supplies",
+                "paid_amount": "40,000",
+                "items": [
+                    {
+                        "description": "Field notebooks",
+                        "amount": "25,000"
+                    },
+                    {
+                        "description": "Pens and markers",
+                        "amount": "15,000"
+                    }
+                ]
+            },
+            {
+                "id": 466,
+                "transaction_number": "EXP-172-466",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — Tigo Pesa",
+                "account_provider": "Tigo Pesa",
+                "account_number": "0686222333",
+                "description": "Emergency supplies",
+                "paid_amount": "90,000",
+                "items": [
+                    {
+                        "description": "Emergency stock",
+                        "amount": "55,000"
+                    },
+                    {
+                        "description": "Delivery charge",
+                        "amount": "35,000"
+                    }
+                ]
+            },
+            {
+                "id": 458,
+                "transaction_number": "EXP-172-458",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — Stanbic Business Account",
+                "account_provider": "Stanbic Bank",
+                "account_number": "ACC-BANK-172-C",
+                "description": "Printing materials",
+                "paid_amount": "120,000",
+                "items": [
+                    {
+                        "description": "Printing service",
+                        "amount": "70,000"
+                    },
+                    {
+                        "description": "Binding materials",
+                        "amount": "50,000"
+                    }
+                ]
+            },
+            {
+                "id": 478,
+                "transaction_number": "EXP-172-478",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Shop Cash Float",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-B",
+                "description": "Customer change",
+                "paid_amount": "60,000",
+                "items": [
+                    {
+                        "description": "Change float",
+                        "amount": "35,000"
+                    },
+                    {
+                        "description": "Coin rolls",
+                        "amount": "25,000"
+                    }
+                ]
+            },
+            {
+                "id": 462,
+                "transaction_number": "EXP-172-462",
+                "date": "2026-02-20",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — M-Pesa",
+                "account_provider": "M-Pesa",
+                "account_number": "0755111222",
+                "description": "Airtime purchase",
+                "paid_amount": "80,000",
+                "items": [
+                    {
+                        "description": "Airtime bundles",
+                        "amount": "50,000"
+                    },
+                    {
+                        "description": "SMS bundles",
+                        "amount": "30,000"
+                    }
+                ]
+            },
+            {
+                "id": 471,
+                "transaction_number": "EXP-172-471",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — Airtel Money",
+                "account_provider": "Airtel Money",
+                "account_number": "0782333444",
+                "description": "Delivery service payment",
+                "paid_amount": "170,000",
+                "items": [
+                    {
+                        "description": "Delivery service",
+                        "amount": "105,000"
+                    },
+                    {
+                        "description": "Packaging",
+                        "amount": "65,000"
+                    }
+                ]
+            },
+            {
+                "id": 467,
+                "transaction_number": "EXP-172-467",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — Tigo Pesa",
+                "account_provider": "Tigo Pesa",
+                "account_number": "0686222333",
+                "description": "Staff advance payments",
+                "paid_amount": "190,000",
+                "items": [
+                    {
+                        "description": "Staff advance",
+                        "amount": "115,000"
+                    },
+                    {
+                        "description": "Processing fee",
+                        "amount": "75,000"
+                    }
+                ]
+            },
+            {
+                "id": 475,
+                "transaction_number": "EXP-172-475",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Office Cash Float",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-A",
+                "description": "Cleaning supplies",
+                "paid_amount": "150,000",
+                "items": [
+                    {
+                        "description": "Cleaning detergent",
+                        "amount": "90,000"
+                    },
+                    {
+                        "description": "Mops and brooms",
+                        "amount": "60,000"
+                    }
+                ]
+            },
+            {
+                "id": 463,
+                "transaction_number": "EXP-172-463",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — M-Pesa",
+                "account_provider": "M-Pesa",
+                "account_number": "0755111222",
+                "description": "Supplier mobile payment",
+                "paid_amount": "180,000",
+                "items": [
+                    {
+                        "description": "Supplier payment",
+                        "amount": "110,000"
+                    },
+                    {
+                        "description": "Transport fee",
+                        "amount": "70,000"
+                    }
+                ]
+            },
+            {
+                "id": 479,
+                "transaction_number": "EXP-172-479",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Shop Cash Float",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-B",
+                "description": "Shop maintenance",
+                "paid_amount": "160,000",
+                "items": [
+                    {
+                        "description": "Repairs",
+                        "amount": "95,000"
+                    },
+                    {
+                        "description": "Paint and tools",
+                        "amount": "65,000"
+                    }
+                ]
+            },
+            {
+                "id": 459,
+                "transaction_number": "EXP-172-459",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — Stanbic Business Account",
+                "account_provider": "Stanbic Bank",
+                "account_number": "ACC-BANK-172-C",
+                "description": "Client entertainment",
+                "paid_amount": "220,000",
+                "items": [
+                    {
+                        "description": "Client lunch",
+                        "amount": "130,000"
+                    },
+                    {
+                        "description": "Gifts",
+                        "amount": "90,000"
+                    }
+                ]
+            },
+            {
+                "id": 455,
+                "transaction_number": "EXP-172-455",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — NMB Savings Account",
+                "account_provider": "NMB Bank",
+                "account_number": "ACC-BANK-172-B",
+                "description": "Transportation costs",
+                "paid_amount": "250,000",
+                "items": [
+                    {
+                        "description": "Vehicle fuel",
+                        "amount": "150,000"
+                    },
+                    {
+                        "description": "Driver allowance",
+                        "amount": "100,000"
+                    }
+                ]
+            },
+            {
+                "id": 483,
+                "transaction_number": "EXP-172-483",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Field Operations Cash",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-C",
+                "description": "Field transport",
+                "paid_amount": "140,000",
+                "items": [
+                    {
+                        "description": "Transport fare",
+                        "amount": "85,000"
+                    },
+                    {
+                        "description": "Parking fees",
+                        "amount": "55,000"
+                    }
+                ]
+            },
+            {
+                "id": 451,
+                "transaction_number": "EXP-172-451",
+                "date": "2026-02-17",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — CRDB Current Account",
+                "account_provider": "CRDB Bank",
+                "account_number": "ACC-BANK-172-A",
+                "description": "Staff meeting refreshments",
+                "paid_amount": "200,000",
+                "items": [
+                    {
+                        "description": "Lunch catering",
+                        "amount": "120,000"
+                    },
+                    {
+                        "description": "Beverages",
+                        "amount": "80,000"
+                    }
+                ]
+            },
+            {
+                "id": 476,
+                "transaction_number": "EXP-172-476",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Office Cash Float",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-A",
+                "description": "Security guard wages",
+                "paid_amount": "250,000",
+                "items": [
+                    {
+                        "description": "Guard salary",
+                        "amount": "150,000"
+                    },
+                    {
+                        "description": "Overtime pay",
+                        "amount": "100,000"
+                    }
+                ]
+            },
+            {
+                "id": 480,
+                "transaction_number": "EXP-172-480",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Shop Cash Float",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-B",
+                "description": "Shop rent payment",
+                "paid_amount": "260,000",
+                "items": [
+                    {
+                        "description": "Shop rent",
+                        "amount": "155,000"
+                    },
+                    {
+                        "description": "Utility deposit",
+                        "amount": "105,000"
+                    }
+                ]
+            },
+            {
+                "id": 484,
+                "transaction_number": "EXP-172-484",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Field Operations Cash",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-C",
+                "description": "Field team allowance",
+                "paid_amount": "240,000",
+                "items": [
+                    {
+                        "description": "Team per diem",
+                        "amount": "145,000"
+                    },
+                    {
+                        "description": "Meal allowance",
+                        "amount": "95,000"
+                    }
+                ]
+            },
+            {
+                "id": 468,
+                "transaction_number": "EXP-172-468",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — Tigo Pesa",
+                "account_provider": "Tigo Pesa",
+                "account_number": "0686222333",
+                "description": "Marketing via mobile",
+                "paid_amount": "290,000",
+                "items": [
+                    {
+                        "description": "SMS marketing",
+                        "amount": "175,000"
+                    },
+                    {
+                        "description": "Promotion cost",
+                        "amount": "115,000"
+                    }
+                ]
+            },
+            {
+                "id": 472,
+                "transaction_number": "EXP-172-472",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — Airtel Money",
+                "account_provider": "Airtel Money",
+                "account_number": "0782333444",
+                "description": "SMS marketing campaign",
+                "paid_amount": "270,000",
+                "items": [
+                    {
+                        "description": "Bulk SMS",
+                        "amount": "165,000"
+                    },
+                    {
+                        "description": "Campaign design",
+                        "amount": "105,000"
+                    }
+                ]
+            },
+            {
+                "id": 464,
+                "transaction_number": "EXP-172-464",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — M-Pesa",
+                "account_provider": "M-Pesa",
+                "account_number": "0755111222",
+                "description": "Monthly data bundle",
+                "paid_amount": "280,000",
+                "items": [
+                    {
+                        "description": "Data bundle",
+                        "amount": "170,000"
+                    },
+                    {
+                        "description": "Streaming service",
+                        "amount": "110,000"
+                    }
+                ]
+            },
+            {
+                "id": 460,
+                "transaction_number": "EXP-172-460",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — Stanbic Business Account",
+                "account_provider": "Stanbic Bank",
+                "account_number": "ACC-BANK-172-C",
+                "description": "Utility bills payment",
+                "paid_amount": "320,000",
+                "items": [
+                    {
+                        "description": "Electricity bill",
+                        "amount": "190,000"
+                    },
+                    {
+                        "description": "Water bill",
+                        "amount": "130,000"
+                    }
+                ]
+            },
+            {
+                "id": 456,
+                "transaction_number": "EXP-172-456",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — NMB Savings Account",
+                "account_provider": "NMB Bank",
+                "account_number": "ACC-BANK-172-B",
+                "description": "Equipment maintenance",
+                "paid_amount": "350,000",
+                "items": [
+                    {
+                        "description": "Equipment service",
+                        "amount": "210,000"
+                    },
+                    {
+                        "description": "Spare parts",
+                        "amount": "140,000"
+                    }
+                ]
+            },
+            {
+                "id": 452,
+                "transaction_number": "EXP-172-452",
+                "date": "2026-02-10",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — CRDB Current Account",
+                "account_provider": "CRDB Bank",
+                "account_number": "ACC-BANK-172-A",
+                "description": "Office rent February",
+                "paid_amount": "300,000",
+                "items": [
+                    {
+                        "description": "Office rent",
+                        "amount": "180,000"
+                    },
+                    {
+                        "description": "Service charge",
+                        "amount": "120,000"
+                    }
+                ]
+            },
+            {
+                "id": 473,
+                "transaction_number": "EXP-172-473",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — Airtel Money",
+                "account_provider": "Airtel Money",
+                "account_number": "0782333444",
+                "description": "Annual Airtel contract",
+                "paid_amount": "370,000",
+                "items": [
+                    {
+                        "description": "Airtel contract",
+                        "amount": "225,000"
+                    },
+                    {
+                        "description": "Premium features",
+                        "amount": "145,000"
+                    }
+                ]
+            },
+            {
+                "id": 469,
+                "transaction_number": "EXP-172-469",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — Tigo Pesa",
+                "account_provider": "Tigo Pesa",
+                "account_number": "0686222333",
+                "description": "Annual Tigo services",
+                "paid_amount": "390,000",
+                "items": [
+                    {
+                        "description": "Tigo subscription",
+                        "amount": "235,000"
+                    },
+                    {
+                        "description": "Value added services",
+                        "amount": "155,000"
+                    }
+                ]
+            },
+            {
+                "id": 465,
+                "transaction_number": "EXP-172-465",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "MOBILE MONEY",
+                "account_name": "Grace — M-Pesa",
+                "account_provider": "M-Pesa",
+                "account_number": "0755111222",
+                "description": "Annual mobile subscription",
+                "paid_amount": "380,000",
+                "items": [
+                    {
+                        "description": "Annual plan",
+                        "amount": "230,000"
+                    },
+                    {
+                        "description": "Service fee",
+                        "amount": "150,000"
+                    }
+                ]
+            },
+            {
+                "id": 477,
+                "transaction_number": "EXP-172-477",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Office Cash Float",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-A",
+                "description": "Annual office supplies",
+                "paid_amount": "350,000",
+                "items": [
+                    {
+                        "description": "Annual supplies",
+                        "amount": "210,000"
+                    },
+                    {
+                        "description": "Storage costs",
+                        "amount": "140,000"
+                    }
+                ]
+            },
+            {
+                "id": 461,
+                "transaction_number": "EXP-172-461",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — Stanbic Business Account",
+                "account_provider": "Stanbic Bank",
+                "account_number": "ACC-BANK-172-C",
+                "description": "Business licence renewal",
+                "paid_amount": "420,000",
+                "items": [
+                    {
+                        "description": "Business permit",
+                        "amount": "250,000"
+                    },
+                    {
+                        "description": "Tax clearance",
+                        "amount": "170,000"
+                    }
+                ]
+            },
+            {
+                "id": 457,
+                "transaction_number": "EXP-172-457",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — NMB Savings Account",
+                "account_provider": "NMB Bank",
+                "account_number": "ACC-BANK-172-B",
+                "description": "Annual software licence",
+                "paid_amount": "450,000",
+                "items": [
+                    {
+                        "description": "Software licence",
+                        "amount": "270,000"
+                    },
+                    {
+                        "description": "Cloud storage",
+                        "amount": "180,000"
+                    }
+                ]
+            },
+            {
+                "id": 481,
+                "transaction_number": "EXP-172-481",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Shop Cash Float",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-B",
+                "description": "Shop licence renewal",
+                "paid_amount": "360,000",
+                "items": [
+                    {
+                        "description": "Trading licence",
+                        "amount": "215,000"
+                    },
+                    {
+                        "description": "Health permit",
+                        "amount": "145,000"
+                    }
+                ]
+            },
+            {
+                "id": 453,
+                "transaction_number": "EXP-172-453",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "BANK",
+                "account_name": "Grace — CRDB Current Account",
+                "account_provider": "CRDB Bank",
+                "account_number": "ACC-BANK-172-A",
+                "description": "Annual insurance premium",
+                "paid_amount": "400,000",
+                "items": [
+                    {
+                        "description": "Property insurance",
+                        "amount": "250,000"
+                    },
+                    {
+                        "description": "Liability cover",
+                        "amount": "150,000"
+                    }
+                ]
+            },
+            {
+                "id": 485,
+                "transaction_number": "EXP-172-485",
+                "date": "2026-01-15",
+                "transaction_type": "EXPENSES",
+                "account_type": "CASH",
+                "account_name": "Grace — Field Operations Cash",
+                "account_provider": null,
+                "account_number": "ACC-CASH-172-C",
+                "description": "Field equipment",
+                "paid_amount": "340,000",
+                "items": [
+                    {
+                        "description": "Field equipment",
+                        "amount": "205,000"
+                    },
+                    {
+                        "description": "Safety gear",
+                        "amount": "135,000"
+                    }
+                ]
+            }
+        ]
+    }
+}

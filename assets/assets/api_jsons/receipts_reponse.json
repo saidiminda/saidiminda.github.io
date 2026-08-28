@@ -1,0 +1,227 @@
+{
+    "code": 1,
+    "state": "Done",
+    "message": "Receipts fetched successfully",
+    "data": [
+        {
+            "receipt_id": 22,
+            "sales_id": 175,
+            "invoice_number": "INV/2026/05/0067/42169",
+            "member_name": "IRENE  ",
+            "member_phone": "0757105836",
+            "payment_method": "CASH",
+            "amount": "50000.00",
+            "date": "2026-05-06T13:42:26.000000Z"
+        },
+        {
+            "receipt_id": 21,
+            "sales_id": 174,
+            "invoice_number": "INV/2026/04/0067/41051",
+            "member_name": "MAMA FELLY ",
+            "member_phone": "0621145160",
+            "payment_method": "CASH",
+            "amount": "3240000.00",
+            "date": "2026-04-27T13:35:57.000000Z"
+        },
+        {
+            "receipt_id": 20,
+            "sales_id": 173,
+            "invoice_number": "INV/2026/04/0067/40860",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "payment_method": "CASH",
+            "amount": "32000.00",
+            "date": "2026-04-27T13:29:05.000000Z"
+        },
+        {
+            "receipt_id": 19,
+            "sales_id": 172,
+            "invoice_number": "INV/2026/04/0067/40860",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "payment_method": "CASH",
+            "amount": "9000.00",
+            "date": "2026-04-27T13:28:23.000000Z"
+        },
+        {
+            "receipt_id": 18,
+            "sales_id": 170,
+            "invoice_number": "INV/2026/04/0067/40592",
+            "member_name": "ANNA  ",
+            "member_phone": "0714141414",
+            "payment_method": "CASH",
+            "amount": "70000.00",
+            "date": "2026-04-23T09:43:57.000000Z"
+        },
+        {
+            "receipt_id": 17,
+            "sales_id": 169,
+            "invoice_number": "INV/2026/04/0067/39638",
+            "member_name": "JUMA MSENGA ",
+            "member_phone": "0710012585",
+            "payment_method": "CASH",
+            "amount": "870000.00",
+            "date": "2026-04-21T09:52:38.000000Z"
+        },
+        {
+            "receipt_id": 16,
+            "sales_id": 168,
+            "invoice_number": "INV/2026/04/0067/39483",
+            "member_name": null,
+            "member_phone": null,
+            "payment_method": "MOBILE MONEY",
+            "amount": "3000.00",
+            "date": "2026-04-17T09:37:22.000000Z"
+        },
+        {
+            "receipt_id": 15,
+            "sales_id": 167,
+            "invoice_number": "INV/2026/04/0067/39346",
+            "member_name": null,
+            "member_phone": null,
+            "payment_method": "CASH",
+            "amount": "50000.00",
+            "date": "2026-04-17T07:50:05.000000Z"
+        },
+        {
+            "receipt_id": 14,
+            "sales_id": 162,
+            "invoice_number": "INV/2026/04/0067/36919",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "payment_method": "CASH",
+            "amount": "715000.00",
+            "date": "2026-04-09T07:27:40.000000Z"
+        },
+        {
+            "receipt_id": 13,
+            "sales_id": 166,
+            "invoice_number": "INV/2026/04/0067/37764",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "payment_method": "CASH",
+            "amount": "0.00",
+            "date": "2026-04-08T08:31:19.000000Z"
+        },
+        {
+            "receipt_id": 12,
+            "sales_id": 165,
+            "invoice_number": "INV/2026/04/0067/37683",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "payment_method": "CASH",
+            "amount": "200000.00",
+            "date": "2026-04-08T08:27:49.000000Z"
+        },
+        {
+            "receipt_id": 11,
+            "sales_id": 164,
+            "invoice_number": "INV/2026/04/0067/37683",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "payment_method": "CASH",
+            "amount": "0.00",
+            "date": "2026-04-08T08:24:28.000000Z"
+        },
+        {
+            "receipt_id": 10,
+            "sales_id": 163,
+            "invoice_number": "INV/2026/04/0067/36973",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "payment_method": "CASH",
+            "amount": "3000000.00",
+            "date": "2026-04-02T07:58:13.000000Z"
+        },
+        {
+            "receipt_id": 9,
+            "sales_id": 163,
+            "invoice_number": "INV/2026/04/0067/36973",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "payment_method": "CASH",
+            "amount": "0.00",
+            "date": "2026-04-02T07:57:22.000000Z"
+        },
+        {
+            "receipt_id": 8,
+            "sales_id": 162,
+            "invoice_number": "INV/2026/04/0067/36919",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "payment_method": "CASH",
+            "amount": "200000.00",
+            "date": "2026-04-02T07:54:19.000000Z"
+        },
+        {
+            "receipt_id": 7,
+            "sales_id": 162,
+            "invoice_number": "INV/2026/04/0067/36919",
+            "member_name": "DEO  ",
+            "member_phone": "0774222013",
+            "payment_method": "CASH",
+            "amount": "0.00",
+            "date": "2026-04-02T07:50:37.000000Z"
+        },
+        {
+            "receipt_id": 6,
+            "sales_id": 161,
+            "invoice_number": "INV/2026/03/0067/36316",
+            "member_name": "DEO  ",
+            "member_phone": "0620222013",
+            "payment_method": "BANK",
+            "amount": "2000.00",
+            "date": "2026-03-30T06:56:03.000000Z"
+        },
+        {
+            "receipt_id": 5,
+            "sales_id": 160,
+            "invoice_number": "INV/2026/03/0067/35736",
+            "member_name": null,
+            "member_phone": null,
+            "payment_method": "CASH",
+            "amount": "400000.00",
+            "date": "2026-03-17T12:23:58.000000Z"
+        },
+        {
+            "receipt_id": 4,
+            "sales_id": 159,
+            "invoice_number": "INV/2026/03/0067/35516",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "payment_method": "CASH",
+            "amount": "200000.00",
+            "date": "2026-03-17T10:05:23.000000Z"
+        },
+        {
+            "receipt_id": 3,
+            "sales_id": 158,
+            "invoice_number": "INV/2026/03/0067/35432",
+            "member_name": "SAID ISIAKA ",
+            "member_phone": "0712457724",
+            "payment_method": "CASH",
+            "amount": "300000.00",
+            "date": "2026-03-17T07:59:37.000000Z"
+        },
+        {
+            "receipt_id": 2,
+            "sales_id": 65,
+            "invoice_number": "INV/2025/07/0067/18163",
+            "member_name": "TEE  ",
+            "member_phone": "0627086107",
+            "payment_method": "CASH",
+            "amount": "3716112.00",
+            "date": "2026-03-04T11:10:06.000000Z"
+        },
+        {
+            "receipt_id": 1,
+            "sales_id": 65,
+            "invoice_number": "INV/2025/07/0067/18163",
+            "member_name": "TEE  ",
+            "member_phone": "0627086107",
+            "payment_method": "CASH",
+            "amount": "10000.00",
+            "date": "2026-03-04T11:09:09.000000Z"
+        }
+    ]
+}

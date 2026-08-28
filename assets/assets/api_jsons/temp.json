@@ -1,0 +1,53 @@
+{
+    "state": "Done",
+    "title": "Success",
+    "code": 1,
+    "warehouses": [
+        {
+            "name": "TEST PARTER - SHOP STORE",
+            "id": 196,
+            "current_stock": [
+                {
+                    "parent_entity_name": null,
+                    "parent_entity_id": null,
+                    "pod_id": 55480,
+                    "item_id": 1665,
+                    "item_name": "Mbolea Ya Maji",
+                    "quantity": 20,
+                    "quantity_in_bulk": 20,
+                    "transferred_quantity": 0,
+                    "transferred_in_bulk": 0,
+                    "sold_quantity": 0,
+                    "sold_in_bulk": 0,
+                    "unit_of_measure_id": 15,
+                    "unit_of_measure": "2 Ltrs Can",
+                    "vat": "",
+                    "type": "input",
+                    "std_unit_app": 100,
+                    "price": 6000,
+                    "expiry_date": null
+                },
+                {
+                    "parent_entity_name": null,
+                    "parent_entity_id": null,
+                    "pod_id": 55480,
+                    "item_id": 1666,
+                    "item_name": "Other Mbolea ya Maji",
+                    "quantity": 20,
+                    "quantity_in_bulk": 20,
+                    "transferred_quantity": 0,
+                    "transferred_in_bulk": 0,
+                    "sold_quantity": 0,
+                    "sold_in_bulk": 0,
+                    "unit_of_measure_id": 4,
+                    "unit_of_measure": "Ltr",
+                    "vat": "",
+                    "type": "input",
+                    "std_unit_app": 100,
+                    "price": 20000,
+                    "expiry_date": null
+                }
+            ]
+        }
+    ]
+}

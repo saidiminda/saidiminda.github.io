@@ -1,0 +1,50 @@
+[
+    {
+        "name": "FEDELINA YAHAYA MAHENGE - SHOP STORE",
+        "id": 508,
+        "orders": [
+            {
+                "id": 19206,
+                "order_number": "TRN/2023/06/0046/166096 - 1 Tonne",
+                "entity_id": 46,
+                "date": "2023-06-25",
+                "user_id": 2,
+                "descriptions": 2,
+                "order_items": [
+                    {
+                        "id": 30966,
+                        "purchase_order_id": 19206,
+                        "quantity": 10,
+                        "tonnage": 0.5,
+                        "unit_of_measure_id": 2,
+                        "unit_of_measure": "Bag",
+                        "vat": "EXEMPTED",
+                        "item_id": 190,
+                        "item_name": "CAN 50KG",
+                        "type": "input",
+                        "std_unit_app": 50,
+                        "pacakage_weight": 50,
+                        "price": 82727,
+                        "subsidy_percentage": 60000
+                    },
+                    {
+                        "id": 30967,
+                        "purchase_order_id": 19206,
+                        "quantity": 10,
+                        "tonnage": 0.5,
+                        "unit_of_measure_id": 2,
+                        "unit_of_measure": "Bag",
+                        "vat": "EXEMPTED",
+                        "item_id": 11,
+                        "item_name": "DAP 50KG",
+                        "type": "input",
+                        "std_unit_app": 50,
+                        "pacakage_weight": 50,
+                        "price": 110182,
+                        "subsidy_percentage": 70000
+                    }
+                ]
+            }
+        ]
+    }
+]

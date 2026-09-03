@@ -1,53 +1,157 @@
 {
-    "state": "Done",
-    "title": "Success",
-    "code": 1,
-    "warehouses": [
+  "success": true,
+  "message": "Creditors retrieved successfully",
+  "data": [
+    {
+      "supplier_id": 137,
+      "supplier_name": "SAMAE ENTERPRISES",
+      "supplier_trading_name": "SAMAE ENTERPRISES",
+      "supplier_phone": "0710012585",
+      "total_debt": 52499100,
+      "payments": [
         {
-            "name": "TEST PARTER - SHOP STORE",
-            "id": 196,
-            "current_stock": [
-                {
-                    "parent_entity_name": null,
-                    "parent_entity_id": null,
-                    "pod_id": 55480,
-                    "item_id": 1665,
-                    "item_name": "Mbolea Ya Maji",
-                    "quantity": 20,
-                    "quantity_in_bulk": 20,
-                    "transferred_quantity": 0,
-                    "transferred_in_bulk": 0,
-                    "sold_quantity": 0,
-                    "sold_in_bulk": 0,
-                    "unit_of_measure_id": 15,
-                    "unit_of_measure": "2 Ltrs Can",
-                    "vat": "",
-                    "type": "input",
-                    "std_unit_app": 100,
-                    "price": 6000,
-                    "expiry_date": null
-                },
-                {
-                    "parent_entity_name": null,
-                    "parent_entity_id": null,
-                    "pod_id": 55480,
-                    "item_id": 1666,
-                    "item_name": "Other Mbolea ya Maji",
-                    "quantity": 20,
-                    "quantity_in_bulk": 20,
-                    "transferred_quantity": 0,
-                    "transferred_in_bulk": 0,
-                    "sold_quantity": 0,
-                    "sold_in_bulk": 0,
-                    "unit_of_measure_id": 4,
-                    "unit_of_measure": "Ltr",
-                    "vat": "",
-                    "type": "input",
-                    "std_unit_app": 100,
-                    "price": 20000,
-                    "expiry_date": null
-                }
-            ]
+          "payment_id": 1,
+          "purchase_order_id": 602,
+          "total_amount": "53000000.00",
+          "amount_paid": "500000.00",
+          "debt_amount": "52500000.00",
+          "paid_debt": "50900.00",
+          "balance_due": 52449100,
+          "status": "PARTIAL PAID",
+          "payment_date": "2026-09-01T21:00:00.000000Z",
+          "due_date": null,
+          "reference": null,
+          "item_details": [
+            {
+              "item_id": 8,
+              "product_name": "UREA",
+              "quantity": "1000",
+              "rate": 50000,
+              "total": 50000000
+            },
+            {
+              "item_id": 11,
+              "product_name": "DAP",
+              "quantity": "50",
+              "rate": 60000,
+              "total": 3000000
+            }
+          ]
+        },
+        {
+          "payment_id": 3,
+          "purchase_order_id": 604,
+          "total_amount": "100000.00",
+          "amount_paid": "50000.00",
+          "debt_amount": "50000.00",
+          "paid_debt": "0.00",
+          "balance_due": 50000,
+          "status": "PARTIAL PAID",
+          "payment_date": "2026-09-01T21:00:00.000000Z",
+          "due_date": null,
+          "reference": null,
+          "item_details": [
+            {
+              "item_id": 191,
+              "product_name": "CAN",
+              "quantity": "5",
+              "rate": 20000,
+              "total": 100000
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "supplier_id": 1,
+      "supplier_name": "CRDB - RUNGWE",
+      "supplier_trading_name": "CRDB - RUNGWE",
+      "supplier_phone": "0659416845",
+      "total_debt": 550000000,
+      "payments": [
+        {
+          "payment_id": 2,
+          "purchase_order_id": 603,
+          "total_amount": "600000000.00",
+          "amount_paid": "50000000.00",
+          "debt_amount": "550000000.00",
+          "paid_debt": "0.00",
+          "balance_due": 550000000,
+          "status": "PARTIAL PAID",
+          "payment_date": "2026-09-01T21:00:00.000000Z",
+          "due_date": null,
+          "reference": null,
+          "item_details": [
+            {
+              "item_id": 1566,
+              "product_name": "Boxer",
+              "quantity": "500",
+              "rate": 1200000,
+              "total": 600000000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_creditors": 2,
+    "total_debt": "602,499,100.00"
+  }
+}
+
+
+PurchasePayDebtRequest: {
+  "entity_id": 67,
+  "payments": [
+    {
+      "purchase_payment_id": 1,
+      "amount": 50000.0,
+      "payment_method": "CASH"
+    }
+  ],
+  "reference": null,
+  "notes": null
+}
+
+COLLECT DEBT
+
+ENDPONT:/v2/purchase-payments/collect-debt
+
+
+REQ: {
+  "entity_id": 67,
+  "payments": [
+    {
+      "purchase_payment_id": 11,
+      "amount": 500,
+      "payment_method": "CASH",
+    },
+    {
+      "purchase_payment_id": 12,
+      "amount": 200,
+      "payment_method": "BANK"
+    }
+  ],
+  "reference": "deciptio",
+  "notes": ""
+}
+
+
+ {
+  "entity_id": 67,
+  "payments": [
+    {
+      "purchase_payment_id": 1,
+      "amount": 5000000.0,
+      "payment_method": "CASH"
+    },
+    {
+      "purchase_payment_id": 3,
+      "amount": 500.0,
+      "payment_method": "CASH"
+    }
+  ],
+  "reference": null,
+  "notes": null
 }

@@ -1,383 +1,191 @@
+  
+ static String endEntitieStoreStockRequisitionApi =
+      "entities/store-stock-requisition"; 
+
+The Old Payload. 
 {
-  "code": 1,
-  "message": "Orders retrieved successfully.",
-  "status": true,
-  "data": [
-    {
-      "order_id": 434,
-      "order_date": "2026-03-17",
-      "member_id": null,
-      "farmer_name": null,
-      "phone": null,
-      "farm_number": null,
-      "total_quantity": 11,
-      "total_amount": 627907,
-      "is_acknowledge": 0,
-      "is_served": 1,
-      "location": null,
-      "requisition_id": null,
-      "items": [
+    "user_id": 69,
+    "device_id": "80a92a7b67ec108c",
+    "warehouse_id": 102,
+    "description": "Stock",
+    "misc": null,
+    "importer_id": null,
+    "userable_id": 67,
+    "imei_number": "80a92a7b67ec108c",
+    "payment_method": "CASH",
+    "client_id": 218,
+    "app_version_name": "1.8.01",
+    "date": "2026-09-18",
+    "total_amount": 57000.0,
+    "amout_paid": 50000.0,
+    "time": "12:0",
+    "payments": [
         {
-          "item_id": 1590,
-          "line_item_id": 2188,
-          "item_name": "TOMATO MKOMBOZI F1",
-          "quantity": "3",
-          "price": 57897,
-          "member_id": 5441440,
-          "farmer_name": null,
-          "phone": null,
-          "farm_number": null
-        },
-        {
-          "item_id": 1591,
-          "line_item_id": 2189,
-          "item_name": "TOMATO MKOMBOZI F1",
-          "quantity": "8",
-          "price": 56777,
-          "member_id": 5441440,
-          "farmer_name": null,
-          "phone": null,
-          "farm_number": null
+            "payment_method": "CASH",
+            "amount": 50000.0,
+            "account_id": 1
         }
-      ]
-    },
-    {
-      "order_id": 436,
-      "order_date": "2026-03-25",
-      "member_id": 1847,
-      "farmer_name": "MAMA FELLY ",
-      "phone": null,
-      "farm_number": "0621145160",
-      "total_quantity": 24,
-      "total_amount": 3240000,
-      "is_acknowledge": 0,
-      "is_served": 1,
-      "location": null,
-      "requisition_id": null,
-      "items": [
+    ],
+    "line_items": [
         {
-          "item_id": 8,
-          "line_item_id": 2196,
-          "item_name": "UREA",
-          "quantity": "5",
-          "price": 135000,
-          "member_id": 1847,
-          "farmer_name": "MAMA FELLY ",
-          "phone": null,
-          "farm_number": "0621145160"
+            "id": 208,
+            "name": "JAVA - 50 KG",
+            "unit_of_measure": null,
+            "expiration_date": "2028-09-18",
+            "quantity": 5,
+            "item_id": 208,
+            "rate": 4000,
+            "selling_rate": 4000,
+            "purchase_rate": 2000,
+            "item_group_id": null,
+            "item_type": null,
+            "type": null,
+            "unit_of_measure_id": null,
+            "unit_abbreviation": null,
+            "is_default": null,
+            "unit_key": null
         },
         {
-          "item_id": 11,
-          "line_item_id": 2197,
-          "item_name": "DAP",
-          "quantity": "6",
-          "price": 135000,
-          "member_id": 1847,
-          "farmer_name": "MAMA FELLY ",
-          "phone": null,
-          "farm_number": "0621145160"
-        },
-        {
-          "item_id": 14,
-          "line_item_id": 2198,
-          "item_name": "MICROP PLANTING",
-          "quantity": "7",
-          "price": 135000,
-          "member_id": 1847,
-          "farmer_name": "MAMA FELLY ",
-          "phone": null,
-          "farm_number": "0621145160"
-        },
-        {
-          "item_id": 190,
-          "line_item_id": 2199,
-          "item_name": "BENGOLD 45% WP BENS AGROSTAR",
-          "quantity": "6",
-          "price": 135000,
-          "member_id": 1847,
-          "farmer_name": "MAMA FELLY ",
-          "phone": null,
-          "farm_number": "0621145160"
+            "id": 221,
+            "name": "DAP - 25 KG",
+            "unit_of_measure": null,
+            "expiration_date": "2028-09-18",
+            "quantity": 5,
+            "item_id": 221,
+            "rate": 20000,
+            "selling_rate": 20000,
+            "purchase_rate": 10000,
+            "item_group_id": null,
+            "item_type": null,
+            "type": null,
+            "unit_of_measure_id": null,
+            "unit_abbreviation": null,
+            "is_default": null,
+            "unit_key": null
         }
-      ]
-    },
-    {
-      "order_id": 520,
-      "order_date": "2026-06-16",
-      "member_id": 5441440,
-      "farmer_name": "vitus",
-      "phone": "697141797",
-      "farm_number": "91200156494",
-      "total_quantity": 3,
-      "total_amount": 195549,
-      "is_acknowledge": 0,
-      "is_served": 1,
-      "location": {
-        "location_id": 1,
-        "location_name": null,
-        "region_id": 1,
-        "region_name": "PWANI",
-        "district_id": 166,
-        "district_name": "KIBAHA CBD DISTRICT COUNCIL",
-        "ward_id": 1,
-        "ward_name": "TUMBI WARD",
-        "village_id": 1,
-        "village_name": "MKOANI A VILLAGE"
-      },
-      "requisition_id": 131,
-      "items": [
+    ]
+}
+the new payload  am sending Multiple units.
+{
+    "user_id": 69,
+    "device_id": "80a92a7b67ec108c",
+    "warehouse_id": 102,
+    "description": "Stock",
+    "misc": null,
+    "importer_id": null,
+    "userable_id": 67,
+    "imei_number": "80a92a7b67ec108c",
+    "payment_method": "CASH",
+    "client_id": 218,
+    "app_version_name": "1.8.01",
+    "date": "2026-09-18",
+    "total_amount": 57000.0,
+    "amout_paid": 50000.0,
+    "time": "12:9",
+    "payments": [
         {
-          "item_id": 8,
-          "line_item_id": 2454,
-          "item_name": "UREA",
-          "quantity": "3",
-          "price": 65183,
-          "member_id": 5441440,
-          "farmer_name": "vitus",
-          "phone": "697141797",
-          "farm_number": "91200156494"
+            "payment_method": "CASH",
+            "amount": 50000.0,
+            "account_id": 1
         }
-      ]
-    },
-    {
-      "order_id": 521,
-      "order_date": "2026-06-16",
-      "member_id": 166,
-      "farmer_name": "MARY DANIEL OBANGA",
-      "phone": null,
-      "farm_number": "81180400160",
-      "total_quantity": 3,
-      "total_amount": 173383,
-      "is_acknowledge": 0,
-      "is_served": 0,
-      "location": {
-        "location_id": 2164,
-        "location_name": null,
-        "region_id": 2,
-        "region_name": "DAR ES SALAAM",
-        "district_id": 18,
-        "district_name": "DAR ES SALAAM CITY COUNCIL",
-        "ward_id": 512,
-        "ward_name": "ILALA WARD",
-        "village_id": 2172,
-        "village_name": "MAFURIKO VILLAGE"
-      },
-      "requisition_id": 129,
-      "items": [
+    ],
+    "line_items": [
         {
-          "item_id": 1632,
-          "line_item_id": 2455,
-          "item_name": "SAE 50 KG",
-          "quantity": "1",
-          "price": 67687,
-          "member_id": 166,
-          "farmer_name": "MARY DANIEL OBANGA",
-          "phone": null,
-          "farm_number": "81180400160"
-        },
-        {
-          "item_id": 215,
-          "line_item_id": 2456,
-          "item_name": "SA",
-          "quantity": "2",
-          "price": 52848,
-          "member_id": 166,
-          "farmer_name": "MARY DANIEL OBANGA",
-          "phone": null,
-          "farm_number": "81180400160"
+            "id": 208,
+            "name": "JAVA - 50 KG",
+            "unit_of_measure": null,
+            "expiration_date": "2028-09-18",
+            "quantity": 5,
+            "item_id": 208,
+            "rate": null,
+            "selling_rate": 4000,
+            "purchase_rate": 2000,
+            "item_group_id": null,
+            "item_type": null,
+            "type": null,
+            "unit_of_measure_id": null,
+            "unit_abbreviation": null,
+            "is_default": null,
+            "unit_key": null,
+            "units": [
+                {
+                    "unit_of_measure_id": 5,
+                    "unit_name": "20 Kg Debe",
+                    "unit_abbreviation": "Db",
+                    "is_default": true,
+                    "quantity": 2,
+                    "purchase_rate": 2000,
+                    "selling_price": 4000,
+                    "expiration_date": "2028-09-18"
+                },
+                {
+                    "unit_of_measure_id": 11,
+                    "unit_name": "5 Kg bag",
+                    "unit_abbreviation": "5 Kg bag",
+                    "is_default": false,
+                    "quantity": 3,
+                    "purchase_rate": 2000,
+                    "selling_price": 4000,
+                    "expiration_date": "2028-09-18"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "order_id": 525,
-      "order_date": "2026-06-17",
-      "member_id": 5441440,
-      "farmer_name": "vitus",
-      "phone": "697141797",
-      "farm_number": "91200156494",
-      "total_quantity": 14,
-      "total_amount": 749410,
-      "is_acknowledge": 0,
-      "is_served": 0,
-      "location": {
-        "location_id": 17246,
-        "location_name": null,
-        "region_id": 9,
-        "region_name": "GEITA",
-        "district_id": 150,
-        "district_name": "NYANG'HWALE DISTRICT COUNCIL",
-        "ward_id": 3703,
-        "ward_name": "BUKWIMBA WARD",
-        "village_id": 17277,
-        "village_name": "BUKWIMBA VILLAGE"
-      },
-      "requisition_id": 134,
-      "items": [
+    ]
+}
+the new payload  am sendingSingle unit. 
+{
+    "user_id": 69,
+    "device_id": "80a92a7b67ec108c",
+    "warehouse_id": 102,
+    "description": "Stock",
+    "misc": null,
+    "importer_id": null,
+    "userable_id": 67,
+    "imei_number": "80a92a7b67ec108c",
+    "payment_method": "CASH",
+    "client_id": 218,
+    "app_version_name": "1.8.01",
+    "date": "2026-09-18",
+    "total_amount": 50000.0,
+    "amout_paid": 50000.0,
+    "time": "12:12",
+    "payments": [
         {
-          "item_id": 202,
-          "line_item_id": 2489,
-          "item_name": "MICROP MBOGA",
-          "quantity": "2",
-          "price": 51188,
-          "member_id": 5441440,
-          "farmer_name": "vitus",
-          "phone": "697141797",
-          "farm_number": "91200156494"
-        },
-        {
-          "item_id": 206,
-          "line_item_id": 2490,
-          "item_name": "MICROP TOP DRESSING",
-          "quantity": "3",
-          "price": 48399,
-          "member_id": 5441440,
-          "farmer_name": "vitus",
-          "phone": "697141797",
-          "farm_number": "91200156494"
-        },
-        {
-          "item_id": 205,
-          "line_item_id": 2491,
-          "item_name": "MICROP PLANTING",
-          "quantity": "1",
-          "price": 59213,
-          "member_id": 5441440,
-          "farmer_name": "vitus",
-          "phone": "697141797",
-          "farm_number": "91200156494"
-        },
-        {
-          "item_id": 221,
-          "line_item_id": 2492,
-          "item_name": "DAP",
-          "quantity": "2",
-          "price": 56436,
-          "member_id": 5441440,
-          "farmer_name": "vitus",
-          "phone": "697141797",
-          "farm_number": "91200156494"
-        },
-        {
-          "item_id": 214,
-          "line_item_id": 2493,
-          "item_name": "Maua",
-          "quantity": "2",
-          "price": 65548,
-          "member_id": 5441440,
-          "farmer_name": "vitus",
-          "phone": "697141797",
-          "farm_number": "91200156494"
-        },
-        {
-          "item_id": 211,
-          "line_item_id": 2494,
-          "item_name": "NAFAKA PLUS",
-          "quantity": "2",
-          "price": 48732,
-          "member_id": 5441440,
-          "farmer_name": "vitus",
-          "phone": "697141797",
-          "farm_number": "91200156494"
-        },
-        {
-          "item_id": 208,
-          "line_item_id": 2495,
-          "item_name": "JAVA",
-          "quantity": "2",
-          "price": 50596,
-          "member_id": 5441440,
-          "farmer_name": "vitus",
-          "phone": "697141797",
-          "farm_number": "91200156494"
+            "payment_method": "CASH",
+            "amount": 50000.0,
+            "account_id": 1
         }
-      ]
-    },
-    {
-      "order_id": 580,
-      "order_date": "2026-07-10",
-      "member_id": 5450211,
-      "farmer_name": "HADIJA",
-      "phone": "0626212968",
-      "farm_number": "91250631522",
-      "total_quantity": 36,
-      "total_amount": 1942963,
-      "is_acknowledge": 0,
-      "is_served": 0,
-      "location": {
-        "location_id": 16350,
-        "location_name": null,
-        "region_id": 10,
-        "region_name": "KAGERA",
-        "district_id": 143,
-        "district_name": "MISSENYI DISTRICT COUNCIL",
-        "ward_id": 3507,
-        "ward_name": "BUGORORA WARD",
-        "village_id": 16366,
-        "village_name": "BUGORORA VILLAGE"
-      },
-      "requisition_id": 86,
-      "items": [
+    ],
+    "line_items": [
         {
-          "item_id": 11,
-          "line_item_id": 2673,
-          "item_name": "DAP",
-          "quantity": "25",
-          "price": 52888,
-          "member_id": 5450211,
-          "farmer_name": "HADIJA",
-          "phone": "0626212968",
-          "farm_number": "91250631522"
-        },
-        {
-          "item_id": 221,
-          "line_item_id": 2674,
-          "item_name": "DAP",
-          "quantity": "11",
-          "price": 56433,
-          "member_id": 5450211,
-          "farmer_name": "HADIJA",
-          "phone": "0626212968",
-          "farm_number": "91250631522"
+            "id": 221,
+            "name": "DAP - 25 KG",
+            "unit_of_measure": null,
+            "expiration_date": "2028-09-18",
+            "quantity": 5,
+            "item_id": 221,
+            "rate": null,
+            "selling_rate": 20000,
+            "purchase_rate": 10000,
+            "item_group_id": null,
+            "item_type": null,
+            "type": null,
+            "unit_of_measure_id": null,
+            "unit_abbreviation": null,
+            "is_default": null,
+            "unit_key": null,
+            "units": [
+                {
+                    "unit_of_measure_id": 2,
+                    "unit_name": "Bag",
+                    "unit_abbreviation": "Bag",
+                    "is_default": true,
+                    "quantity": 5,
+                    "purchase_rate": 10000,
+                    "selling_price": 20000,
+                    "expiration_date": "2028-09-18"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "order_id": 606,
-      "order_date": "2026-09-04",
-      "member_id": 174,
-      "farmer_name": "SHABANI  SAIDI  ABDALA",
-      "phone": "+255689501400",
-      "farm_number": "81180400168",
-      "total_quantity": 1,
-      "total_amount": 63455,
-      "is_acknowledge": 0,
-      "is_served": 0,
-      "location": {
-        "location_id": 418,
-        "location_name": null,
-        "region_id": 1,
-        "region_name": "PWANI",
-        "district_id": 3,
-        "district_name": "KISARAWE DISTRICT COUNCIL",
-        "ward_id": 71,
-        "ward_name": "KAZIMZUMBWI WARD",
-        "village_id": 418,
-        "village_name": "KIFURU VILLAGE"
-      },
-      "requisition_id": 147,
-      "items": [
-        {
-          "item_id": 92,
-          "line_item_id": 2801,
-          "item_name": "MINAZI",
-          "quantity": "1",
-          "price": 63455,
-          "member_id": 174,
-          "farmer_name": "SHABANI  SAIDI  ABDALA",
-          "phone": "+255689501400",
-          "farm_number": "81180400168"
-        }
-      ]
-    }
-  ]
+    ]
 }

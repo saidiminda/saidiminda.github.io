@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "status": "success",
+    "message": "Expense list retrieved successfully.",
+    "data": {
+        "filter": "year",
+        "year": 2026,
+        "cash": {
+            "Cash Account": {
+                "provider": null,
+                "account number": null,
+                "balance": "125000.0000",
+                "expenses": [
+                    {
+                        "description": "Stationery for the shop",
+                        "amount": 5000,
+                        "date": "2026-10-12",
+                        "gaap_account_name": "Stationary"
+                    }
+                ]
+            },
+            "Petty Cash": {
+                "provider": null,
+                "account number": null,
+                "balance": "48000.0000",
+                "expenses": [
+                    {
+                        "description": "Local transport",
+                        "amount": 12000,
+                        "date": "2026-10-11",
+                        "gaap_account_name": "Usafili"
+                    }
+                ]
+            }
+        },
+        "bank": {},
+        "mobile_money": {
+            "Business Mobile Account": {
+                "provider": "Airtel Money",
+                "account number": "0782333444",
+                "balance": "230000.0000",
+                "expenses": [
+                    {
+                        "description": "Mobile data bundle",
+                        "amount": 15000,
+                        "date": "2026-10-10",
+                        "gaap_account_name": "Matumizi ya Vocha"
+                    }
+                ]
+            }
+        },
+        "others": []
+    }
+}

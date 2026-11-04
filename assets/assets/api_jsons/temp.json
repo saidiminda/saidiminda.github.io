@@ -1,896 +1,519 @@
 {
-  "code": 200,
   "success": true,
-  "data": {
-    "username": "klmb-0167",
-    "user_name": "Senare Malima[KLMB-0167]",
-    "entity_id": 67,
-    "trading_name": "Senare Malima",
-    "entity_number": "67",
-    "items_units": [
-      {
-        "id": 8,
-        "name": "UREA - 50 KG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 2,
-        "client_default_uom_id": 2,
-        "supplier_to_client_factor": 1,
-        "conversion_relation": {
-          "relation_id": 2,
-          "supplier_default_uom_id": 2,
-          "client_default_uom_id": 2,
-          "supplier_default_qty": 1,
-          "client_default_qty": 1,
-          "supplier_to_client_factor": 1,
-          "source": "CLIENT_DEFINED"
+  "data": [
+    {
+      "id": 6638,
+      "transfer_number": "2026\/10\/SREQ\/6638",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "OCP TANZANIA",
+      "source_warehouse": "OCP TANZANIA - MAIN WAREHOUSE",
+      "items_count": 1,
+      "total_quantity": 2,
+      "total_approved_quantity": 2,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 0,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/10\/SREQ\/6638",
+        "date": "2026-10-30",
+        "source_warehouse": "OCP TANZANIA - MAIN WAREHOUSE",
+        "status": 3,
+        "status_text": "Processing",
+        "invoices_count": 1,
+        "deliveries_count": 1
+      },
+      "invoices": [
+        {
+          "id": 31,
+          "invoice_number": "INV\/2026\/10\/11969\/31",
+          "control_number": "S000002600025",
+          "status": "PENDING",
+          "total_amount": 400,
+          "delivery_id": 10,
+          "delivery_status": "pending_dispatch",
+          "has_delivery": true,
+          "shipments_count": 0
         }
-      },
-      {
-        "id": 11,
-        "name": "DAP - 50 KG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": true,
-        "supplier_default_uom_id": 2,
-        "client_default_uom_id": 2,
-        "supplier_to_client_factor": 4,
-        "conversion_relation": {
-          "relation_id": 4,
-          "supplier_default_uom_id": 2,
-          "client_default_uom_id": 2,
-          "supplier_default_qty": 1,
-          "client_default_qty": 4,
-          "supplier_to_client_factor": 4,
-          "source": "CLIENT_DEFINED"
+      ],
+      "items": [
+        {
+          "item_id": 5053,
+          "item_name": "NPK OCP Bag",
+          "unit_of_measure_id": 2,
+          "unit_abbreviation": "Bag",
+          "unit_name": "Bag",
+          "conversion_factor": 1,
+          "ordered_qty": 2,
+          "received_qty": 0,
+          "remaining_qty": 2,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Bag"
         }
+      ]
+    },
+    {
+      "id": 6632,
+      "transfer_number": "2026\/10\/SREQ\/6632",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "OCP TANZANIA",
+      "source_warehouse": "OCP TANZANIA - MAIN WAREHOUSE",
+      "items_count": 1,
+      "total_quantity": 2,
+      "total_approved_quantity": 2,
+      "total_received_quantity": 2,
+      "total_dispatched_quantity": 2,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/10\/SREQ\/6632",
+        "date": "2026-10-30",
+        "source_warehouse": "OCP TANZANIA - MAIN WAREHOUSE",
+        "status": 2,
+        "status_text": "Delivered",
+        "invoices_count": 1,
+        "deliveries_count": 1
       },
-      {
-        "id": 190,
-        "name": "BENGOLD 45% WP BENS AGROSTAR - 50 KG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 2,
-        "client_default_uom_id": 2,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 191,
-        "name": "CAN - 25 KG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 2,
-        "client_default_uom_id": 2,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 201,
-        "name": "NPK - 25 KG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 2,
-        "client_default_uom_id": 2,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 208,
-        "name": "JAVA - 50 KG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 5,
-            "unit_name": "20 Kg Debe",
-            "unit_abbreviation": "Db",
-            "is_default": true
-          },
-          {
-            "unit_of_measure_id": 11,
-            "unit_name": "5 Kg bag",
-            "unit_abbreviation": "5 Kg bag",
-            "is_default": false
-          }
-        ],
-        "client_has_item": true,
-        "supplier_default_uom_id": 5,
-        "client_default_uom_id": 5,
-        "supplier_to_client_factor": 2,
-        "conversion_relation": {
-          "relation_id": 3,
-          "supplier_default_uom_id": 5,
-          "client_default_uom_id": 5,
-          "supplier_default_qty": 1,
-          "client_default_qty": 2,
-          "supplier_to_client_factor": 2,
-          "source": "CLIENT_DEFINED"
+      "invoices": [
+        {
+          "id": 29,
+          "invoice_number": "INV\/2026\/10\/11969\/29",
+          "control_number": "S000002600023",
+          "status": "PARTIAL",
+          "total_amount": 4000,
+          "delivery_id": 8,
+          "delivery_status": "delivered",
+          "has_delivery": true,
+          "shipments_count": 1
         }
-      },
-      {
-        "id": 214,
-        "name": "MAUA - 50 KG",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": true,
-        "supplier_default_uom_id": 2,
-        "client_default_uom_id": 2,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 221,
-        "name": "DAP - 25 KG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 2,
-        "client_default_uom_id": 2,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1555,
-        "name": "DUDUBE - BIDDI - 200 MLS - CATON",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 20,
-            "unit_name": "Bottle",
-            "unit_abbreviation": "Btl",
-            "is_default": true
-          }
-        ],
-        "client_has_item": true,
-        "supplier_default_uom_id": 20,
-        "client_default_uom_id": 20,
-        "supplier_to_client_factor": 1,
-        "conversion_relation": {
-          "relation_id": 5,
-          "supplier_default_uom_id": 20,
-          "client_default_uom_id": 20,
-          "supplier_default_qty": 1,
-          "client_default_qty": 1,
-          "supplier_to_client_factor": 1,
-          "source": "CLIENT_DEFINED"
+      ],
+      "items": [
+        {
+          "item_id": 5054,
+          "item_name": "TSP 50 Kg bag",
+          "unit_of_measure_id": 9,
+          "unit_abbreviation": "50 Kg bag",
+          "unit_name": "50 Kg bag",
+          "conversion_factor": 1,
+          "ordered_qty": 2,
+          "received_qty": 2,
+          "remaining_qty": 0,
+          "dispatched_qty": 2,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "50 Kg bag"
         }
+      ]
+    },
+    {
+      "id": 6606,
+      "transfer_number": "2026\/10\/SREQ\/6606",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "OCP TANZANIA",
+      "source_warehouse": "OCP TANZANIA - MAIN WAREHOUSE",
+      "items_count": 1,
+      "total_quantity": 1,
+      "total_approved_quantity": 1,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 1,
+      "total_available_to_receive": 1,
+      "can_receive": true,
+      "transfer": {
+        "transfer_number": "2026\/10\/SREQ\/6606",
+        "date": "2026-10-29",
+        "source_warehouse": "OCP TANZANIA - MAIN WAREHOUSE",
+        "status": 1,
+        "status_text": "In Transit",
+        "invoices_count": 1,
+        "deliveries_count": 1
       },
-      {
-        "id": 1566,
-        "name": "BOXER - 150 - RED",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 19,
-            "unit_name": "Piece",
-            "unit_abbreviation": "pcs",
-            "is_default": true
-          }
-        ],
-        "client_has_item": true,
-        "supplier_default_uom_id": 19,
-        "client_default_uom_id": 19,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1567,
-        "name": "BOXER - 150 - BLACK",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 19,
-            "unit_name": "Piece",
-            "unit_abbreviation": "pcs",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 19,
-        "client_default_uom_id": 19,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1568,
-        "name": "BOXER - 150 - BLUE",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 19,
-            "unit_name": "Piece",
-            "unit_abbreviation": "pcs",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 19,
-        "client_default_uom_id": 19,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1569,
-        "name": "BOXER - 125HD - RED",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 19,
-            "unit_name": "Piece",
-            "unit_abbreviation": "pcs",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 19,
-        "client_default_uom_id": 19,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1570,
-        "name": "BOXER - 125HD - BLACK",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 19,
-            "unit_name": "Piece",
-            "unit_abbreviation": "pcs",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 19,
-        "client_default_uom_id": 19,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1574,
-        "name": "TVS - XL100 - BLUE",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 19,
-            "unit_name": "Piece",
-            "unit_abbreviation": "pcs",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 19,
-        "client_default_uom_id": 19,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1585,
-        "name": "HERMETIC BAG - 100KG",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 8,
-            "unit_name": "Gunia 100Kg",
-            "unit_abbreviation": "G100Kg",
-            "is_default": true
-          },
-          {
-            "unit_of_measure_id": 13,
-            "unit_name": "1 Kg bag",
-            "unit_abbreviation": "1 Kg bag",
-            "is_default": false
-          },
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": false
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 8,
-        "client_default_uom_id": 8,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1602,
-        "name": "CHINESE - ACSEN AGRISCIENCE(TZ) LTD - 200 GM",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 18,
-            "unit_name": "Packet",
-            "unit_abbreviation": "Pkt",
-            "is_default": true
-          }
-        ],
-        "client_has_item": true,
-        "supplier_default_uom_id": 18,
-        "client_default_uom_id": 18,
-        "supplier_to_client_factor": 2,
-        "conversion_relation": {
-          "relation_id": 1,
-          "supplier_default_uom_id": 18,
-          "client_default_uom_id": 18,
-          "supplier_default_qty": 1,
-          "client_default_qty": 2,
-          "supplier_to_client_factor": 2,
-          "source": "CLIENT_DEFINED"
+      "invoices": [
+        {
+          "id": 26,
+          "invoice_number": "INV\/2026\/10\/11969\/26",
+          "control_number": "S000002600020",
+          "status": "PAID",
+          "total_amount": 2000,
+          "delivery_id": 5,
+          "delivery_status": "dispatched",
+          "has_delivery": true,
+          "shipments_count": 1
         }
+      ],
+      "items": [
+        {
+          "item_id": 5029,
+          "item_name": "NPSZn 50 Kg 50 Kg bag",
+          "unit_of_measure_id": 9,
+          "unit_abbreviation": "50 Kg bag",
+          "unit_name": "50 Kg bag",
+          "conversion_factor": 1,
+          "ordered_qty": 1,
+          "received_qty": 0,
+          "remaining_qty": 1,
+          "dispatched_qty": 1,
+          "available_to_receive": 1,
+          "can_receive": true,
+          "unit": "50 Kg bag"
+        }
+      ]
+    },
+    {
+      "id": 6512,
+      "transfer_number": "2026\/10\/SREQ\/6512",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "TEST IMPORTER",
+      "source_warehouse": "TEST IMPORTER - MAIN WAREHOUSE",
+      "items_count": 1,
+      "total_quantity": 2500,
+      "total_approved_quantity": 2500,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 0,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/10\/SREQ\/6512",
+        "date": "2026-10-09",
+        "source_warehouse": "TEST IMPORTER - MAIN WAREHOUSE",
+        "status": 3,
+        "status_text": "Processing",
+        "invoices_count": 2,
+        "deliveries_count": 0
       },
-      {
-        "id": 1629,
-        "name": "MBOLEA NZURI - CATON - KUPALILIA",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
+      "invoices": [
+        {
+          "id": 20,
+          "invoice_number": "INV\/2026\/10\/11964\/20",
+          "control_number": "S000002600014",
+          "status": "PENDING",
+          "total_amount": 3750000,
+          "delivery_id": null,
+          "delivery_status": null,
+          "has_delivery": false,
+          "shipments_count": 0
+        },
+        {
+          "id": 21,
+          "invoice_number": "INV\/2026\/10\/11964\/21",
+          "control_number": "S000002600015",
+          "status": "PENDING",
+          "total_amount": 2500000,
+          "delivery_id": null,
+          "delivery_status": null,
+          "has_delivery": false,
+          "shipments_count": 0
+        }
+      ],
+      "items": [
+        {
+          "item_id": 4957,
+          "item_name": "TEST CRDB kg",
+          "unit_of_measure_id": 2,
+          "unit_abbreviation": "Bag",
+          "unit_name": "Bag",
+          "conversion_factor": 1,
+          "ordered_qty": 2500,
+          "received_qty": 0,
+          "remaining_qty": 2500,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Bag"
+        }
+      ]
+    },
+    {
+      "id": 6035,
+      "transfer_number": "2026\/08\/SREQ\/6035",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "Sumbawanga",
+      "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+      "items_count": 1,
+      "total_quantity": 2,
+      "total_approved_quantity": 0,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 0,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/08\/SREQ\/6035",
+        "date": "2026-08-31",
+        "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+        "status": 0,
+        "status_text": "Pending",
+        "invoices_count": 0,
+        "deliveries_count": 0
       },
-      {
-        "id": 1630,
-        "name": "MBOLEA NZURI - CATON - 125HD",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
+      "invoices": [],
+      "items": [
+        {
+          "item_id": 3,
+          "item_name": "SNOWMECTIN - PRIME SEED CO LTD - 200 MLS - INSECTICIDES",
+          "unit_of_measure_id": 20,
+          "unit_abbreviation": "Btl",
+          "unit_name": "Bottle",
+          "conversion_factor": 1,
+          "ordered_qty": 0,
+          "received_qty": 0,
+          "remaining_qty": 0,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Btl"
+        }
+      ]
+    },
+    {
+      "id": 1698,
+      "transfer_number": "2026\/04\/SREQ\/1698",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "Bytrade Tanzania Ltd - TEST",
+      "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+      "items_count": 1,
+      "total_quantity": 20,
+      "total_approved_quantity": 0,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 0,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/04\/SREQ\/1698",
+        "date": "2026-04-15",
+        "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+        "status": 0,
+        "status_text": "Pending",
+        "invoices_count": 0,
+        "deliveries_count": 0
       },
-      {
-        "id": 1632,
-        "name": "SAE 50 KG - OCP",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 2,
-            "unit_name": "Bag",
-            "unit_abbreviation": "Bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 2,
-        "client_default_uom_id": 2,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
+      "invoices": [],
+      "items": [
+        {
+          "item_id": 1660,
+          "item_name": "HOTSHOT - BYTRADE - 500 MLS",
+          "unit_of_measure_id": 20,
+          "unit_abbreviation": "Btl",
+          "unit_name": "Bottle",
+          "conversion_factor": 1,
+          "ordered_qty": 0,
+          "received_qty": 0,
+          "remaining_qty": 0,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Btl"
+        }
+      ]
+    },
+    {
+      "id": 1697,
+      "transfer_number": "2026\/04\/SREQ\/1697",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "Bytrade Tanzania Ltd - TEST",
+      "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+      "items_count": 1,
+      "total_quantity": 10,
+      "total_approved_quantity": 10,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 0,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/04\/SREQ\/1697",
+        "date": "2026-04-15",
+        "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+        "status": 2,
+        "status_text": "Delivered",
+        "invoices_count": 0,
+        "deliveries_count": 0
       },
-      {
-        "id": 1633,
-        "name": "MBOLEA YA MAJI 2 LTRS CAN",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
+      "invoices": [],
+      "items": [
+        {
+          "item_id": 1660,
+          "item_name": "HOTSHOT - BYTRADE - 500 MLS",
+          "unit_of_measure_id": 20,
+          "unit_abbreviation": "Btl",
+          "unit_name": "Bottle",
+          "conversion_factor": 1,
+          "ordered_qty": 10,
+          "received_qty": 0,
+          "remaining_qty": 10,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Btl"
+        }
+      ]
+    },
+    {
+      "id": 1695,
+      "transfer_number": "2026\/04\/SREQ\/1695",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "Bytrade Tanzania Ltd - TEST",
+      "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+      "items_count": 2,
+      "total_quantity": 370,
+      "total_approved_quantity": 0,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 0,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/04\/SREQ\/1695",
+        "date": "2026-04-14",
+        "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+        "status": 0,
+        "status_text": "Pending",
+        "invoices_count": 0,
+        "deliveries_count": 0
       },
-      {
-        "id": 1634,
-        "name": "MBONJI DB",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 5,
-            "unit_name": "20 Kg Debe",
-            "unit_abbreviation": "Db",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 5,
-        "client_default_uom_id": 5,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
+      "invoices": [],
+      "items": [
+        {
+          "item_id": 1660,
+          "item_name": "HOTSHOT - BYTRADE - 500 MLS",
+          "unit_of_measure_id": 20,
+          "unit_abbreviation": "Btl",
+          "unit_name": "Bottle",
+          "conversion_factor": 1,
+          "ordered_qty": 0,
+          "received_qty": 0,
+          "remaining_qty": 0,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Btl"
+        },
+        {
+          "item_id": 1661,
+          "item_name": "HOTSHOT - BYTRADE - 200 MLS",
+          "unit_of_measure_id": 20,
+          "unit_abbreviation": "Btl",
+          "unit_name": "Bottle",
+          "conversion_factor": 1,
+          "ordered_qty": 0,
+          "received_qty": 0,
+          "remaining_qty": 0,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Btl"
+        }
+      ]
+    },
+    {
+      "id": 1487,
+      "transfer_number": "2026\/03\/SREQ\/1487",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "BIZY AGROVERT TEST",
+      "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+      "items_count": 3,
+      "total_quantity": 75,
+      "total_approved_quantity": 0,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 0,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/03\/SREQ\/1487",
+        "date": "2026-03-31",
+        "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+        "status": 0,
+        "status_text": "Pending",
+        "invoices_count": 0,
+        "deliveries_count": 0
       },
-      {
-        "id": 1635,
-        "name": "MAWE 1 KG BAG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 13,
-            "unit_name": "1 Kg bag",
-            "unit_abbreviation": "1 Kg bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 13,
-        "client_default_uom_id": 13,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
+      "invoices": [],
+      "items": [
+        {
+          "item_id": 1307,
+          "item_name": "RECORD SUNFLOWER - BYTRADE - 1 KG",
+          "unit_of_measure_id": 18,
+          "unit_abbreviation": "Pkt",
+          "unit_name": "Packet",
+          "conversion_factor": 1,
+          "ordered_qty": 0,
+          "received_qty": 0,
+          "remaining_qty": 0,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Pkt"
+        },
+        {
+          "item_id": 1309,
+          "item_name": "HYSUN33 SUNFLOWER - BYTRADE - 1 KG",
+          "unit_of_measure_id": 18,
+          "unit_abbreviation": "Pkt",
+          "unit_name": "Packet",
+          "conversion_factor": 1,
+          "ordered_qty": 0,
+          "received_qty": 0,
+          "remaining_qty": 0,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Pkt"
+        },
+        {
+          "item_id": 1226,
+          "item_name": "AGUARA 6 - BYTRADE - 1 KG",
+          "unit_of_measure_id": 18,
+          "unit_abbreviation": "Pkt",
+          "unit_name": "Packet",
+          "conversion_factor": 1,
+          "ordered_qty": 0,
+          "received_qty": 0,
+          "remaining_qty": 0,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Pkt"
+        }
+      ]
+    },
+    {
+      "id": 1472,
+      "transfer_number": "2026\/03\/SREQ\/1472",
+      "dealer": "BIZY AGROVERT TEST",
+      "client": "BIZY AGROVERT TEST",
+      "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+      "items_count": 1,
+      "total_quantity": 250,
+      "total_approved_quantity": 0,
+      "total_received_quantity": 0,
+      "total_dispatched_quantity": 0,
+      "total_available_to_receive": 0,
+      "can_receive": false,
+      "transfer": {
+        "transfer_number": "2026\/03\/SREQ\/1472",
+        "date": "2026-03-30",
+        "source_warehouse": "STORE YA PEMBEJEO ZA KILIMO",
+        "status": 0,
+        "status_text": "Pending",
+        "invoices_count": 0,
+        "deliveries_count": 0
       },
-      {
-        "id": 1636,
-        "name": "MBONJI 2 LTRS CAN",
-        "type": "other",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1637,
-        "name": "DAPU 1 KG BAG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 13,
-            "unit_name": "1 Kg bag",
-            "unit_abbreviation": "1 Kg bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 13,
-        "client_default_uom_id": 13,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1640,
-        "name": "UDONGO SPL",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 21,
-            "unit_name": "SAMPULI",
-            "unit_abbreviation": "SPL",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 21,
-        "client_default_uom_id": 21,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1641,
-        "name": "UDONGO 2 SPL",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 21,
-            "unit_name": "SAMPULI",
-            "unit_abbreviation": "SPL",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 21,
-        "client_default_uom_id": 21,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1642,
-        "name": "SAEED BTL",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 20,
-            "unit_name": "Bottle",
-            "unit_abbreviation": "Btl",
-            "is_default": true
-          },
-          {
-            "unit_of_measure_id": 18,
-            "unit_name": "Packet",
-            "unit_abbreviation": "Pkt",
-            "is_default": false
-          },
-          {
-            "unit_of_measure_id": 4,
-            "unit_name": "Liter",
-            "unit_abbreviation": "Ltr",
-            "is_default": false
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 20,
-        "client_default_uom_id": 20,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1643,
-        "name": "POMBE SIGARA 1 KG BAG",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 13,
-            "unit_name": "1 Kg bag",
-            "unit_abbreviation": "1 Kg bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 13,
-        "client_default_uom_id": 13,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1644,
-        "name": "A 25 KG BAG",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1645,
-        "name": "B 1 KG BAG",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1646,
-        "name": "C 50 KG BAG",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1647,
-        "name": "JAYRUTTY 1 KG BAG",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1649,
-        "name": "MBOLEA NZURI - CATON",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 5,
-            "unit_name": "20 Kg Debe",
-            "unit_abbreviation": "Db",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 5,
-        "client_default_uom_id": 5,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1651,
-        "name": "SAE 50 KG - SEEDCO",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1652,
-        "name": "SAE 50 KG - YARA",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1653,
-        "name": "POTASSIUM 1 KG BAG",
-        "type": "other",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1654,
-        "name": "POTASSIUM 2 1 KG BAG",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 13,
-            "unit_name": "1 Kg bag",
-            "unit_abbreviation": "1 Kg bag",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 13,
-        "client_default_uom_id": 13,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1655,
-        "name": "FIMBO ZA PAZIA PCS",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 19,
-            "unit_name": "Piece",
-            "unit_abbreviation": "pcs",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 19,
-        "client_default_uom_id": 19,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1656,
-        "name": "KILIMA\ud83c\udfd4\ufe0f\u26f0\ufe0f PCS",
-        "type": "other",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1657,
-        "name": "BONDE\ud83d\udd73\ufe0f PCS",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 19,
-            "unit_name": "Piece",
-            "unit_abbreviation": "pcs",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 19,
-        "client_default_uom_id": 19,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1659,
-        "name": "BIZY BAG",
-        "type": "other",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1663,
-        "name": "MBOLEA NZURI - CATON - OCP",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1664,
-        "name": "MBOLEA NZURI - CATON - SEEDCO",
-        "type": "input",
-        "units": [],
-        "client_has_item": false,
-        "supplier_default_uom_id": 0,
-        "client_default_uom_id": 0,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1668,
-        "name": "BIZY WATER BTL",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 20,
-            "unit_name": "Bottle",
-            "unit_abbreviation": "Btl",
-            "is_default": true
-          },
-          {
-            "unit_of_measure_id": 18,
-            "unit_name": "Packet",
-            "unit_abbreviation": "Pkt",
-            "is_default": false
-          },
-          {
-            "unit_of_measure_id": 4,
-            "unit_name": "Liter",
-            "unit_abbreviation": "Ltr",
-            "is_default": false
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 20,
-        "client_default_uom_id": 20,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1669,
-        "name": "JOHN BTL",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 20,
-            "unit_name": "Bottle",
-            "unit_abbreviation": "Btl",
-            "is_default": true
-          },
-          {
-            "unit_of_measure_id": 4,
-            "unit_name": "Liter",
-            "unit_abbreviation": "Ltr",
-            "is_default": false
-          },
-          {
-            "unit_of_measure_id": 18,
-            "unit_name": "Packet",
-            "unit_abbreviation": "Pkt",
-            "is_default": false
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 20,
-        "client_default_uom_id": 20,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1670,
-        "name": "DASANI BTL",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 20,
-            "unit_name": "Bottle",
-            "unit_abbreviation": "Btl",
-            "is_default": true
-          },
-          {
-            "unit_of_measure_id": 4,
-            "unit_name": "Liter",
-            "unit_abbreviation": "Ltr",
-            "is_default": false
-          },
-          {
-            "unit_of_measure_id": 18,
-            "unit_name": "Packet",
-            "unit_abbreviation": "Pkt",
-            "is_default": false
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 20,
-        "client_default_uom_id": 20,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1671,
-        "name": "BIZY INPUT LNGTH",
-        "type": "other",
-        "units": [
-          {
-            "unit_of_measure_id": 22,
-            "unit_name": "Length",
-            "unit_abbreviation": "Lngth",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 22,
-        "client_default_uom_id": 22,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      },
-      {
-        "id": 1680,
-        "name": "UDONGO SPL SPL",
-        "type": "input",
-        "units": [
-          {
-            "unit_of_measure_id": 21,
-            "unit_name": "SAMPULI",
-            "unit_abbreviation": "SPL",
-            "is_default": true
-          }
-        ],
-        "client_has_item": false,
-        "supplier_default_uom_id": 21,
-        "client_default_uom_id": 21,
-        "supplier_to_client_factor": null,
-        "conversion_relation": null
-      }
-    ]
-  }
+      "invoices": [],
+      "items": [
+        {
+          "item_id": 1309,
+          "item_name": "HYSUN33 SUNFLOWER - BYTRADE - 1 KG",
+          "unit_of_measure_id": 18,
+          "unit_abbreviation": "Pkt",
+          "unit_name": "Packet",
+          "conversion_factor": 1,
+          "ordered_qty": 0,
+          "received_qty": 0,
+          "remaining_qty": 0,
+          "dispatched_qty": 0,
+          "available_to_receive": 0,
+          "can_receive": false,
+          "unit": "Pkt"
+        }
+      ]
+    }
+  ]
 }
